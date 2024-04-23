@@ -12,7 +12,7 @@ async function generateEarningsICSCalendar(date,list,filename) {
             const dateParts = entry.date.split('-').map(Number);
             const start = [dateParts[0], dateParts[1], dateParts[2]];
             return {
-                title: `${entry.companyName} ${entry.time}发布财报`,
+                title: `${entry.symbol} ${entry.companyName} ${entry.time}发布财报`,
                 description: `财务季度：${entry.fiscalQuarterEnding}。\n代码：${entry.symbol}，公司：${entry.companyName}，行业: ${entry.industry}。\n预计每股收益: ${entry.epsForecast}，当前市值: ${entry.marketCap}。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=${entry.symbol} \n在富途查看：https://www.futunn.com/hk/stock/${entry.symbol}-US `,
                 start: start,
                 startInputType: 'utc', // 时区会有误差，但可以接受
