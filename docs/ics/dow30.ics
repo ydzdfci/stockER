@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:ArC7VrLh0j1Ypfo0KHsUs
+UID:vz7gZuQQBuRAoXGcM-Ds1
 SUMMARY:CRM 赛富时 发布财报
-DTSTAMP:20240915T093540Z
+DTSTAMP:20240915T213537Z
 DTSTART;VALUE=DATE:20240828
 DESCRIPTION:财务季度：Jul/2024。\n代码：CRM，公司：赛富时，行业: 云端服务。\n预计每股收益: $1.73，当前市值: $2
 	50\,874\,100\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=CRM \n在富途
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:6W2j69WofmNYV8mnJqpcQ
+UID:CSyndYS8wDPqG__dY_BiS
 SUMMARY:NKE 耐克 盘后发布财报
-DTSTAMP:20240915T093540Z
+DTSTAMP:20240915T213537Z
 DTSTART;VALUE=DATE:20241001
 DESCRIPTION:财务季度：Aug/2024。\n代码：NKE，公司：耐克，行业: 服装。\n预计每股收益: $0.52，当前市值: $117\
 	,549\,741\,209。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NKE \n在富途查看：
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:1s5Mipsft0qP2RDG9j5P3
+UID:_Pjqou7q9Ig9uM-4Cb8T0
 SUMMARY:JPM 摩根大通 盘前发布财报
-DTSTAMP:20240915T093540Z
+DTSTAMP:20240915T213537Z
 DTSTART;VALUE=DATE:20241011
 DESCRIPTION:财务季度：Sep/2024。\n代码：JPM，公司：摩根大通，行业: 银行。\n预计每股收益: $4.06，当前市值: $58
 	7\,811\,032\,598。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=JPM \n在富途查
@@ -54,9 +54,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:P1zwx33u0i8S-aiKgG_m7
+UID:nb2NFpfc9CADX1xCbUvxX
 SUMMARY:UNH 联合健康保险 发布财报
-DTSTAMP:20240915T093540Z
+DTSTAMP:20240915T213537Z
 DTSTART;VALUE=DATE:20241011
 DESCRIPTION:财务季度：Sep/2024。\n代码：UNH，公司：联合健康保险，行业: 保健管理。\n预计每股收益: $7.05，当前市值:
 	 $543\,357\,707\,823。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=UNH \n
