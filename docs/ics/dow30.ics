@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:pUU7VxuUIbv649fzQSxgW
+UID:CcdVMwxMxW7_G4GhUB_OI
 SUMMARY:WMT 沃尔玛 发布财报
-DTSTAMP:20241217T093739Z
+DTSTAMP:20241217T213548Z
 DTSTART;VALUE=DATE:20241119
 DESCRIPTION:财务季度：Oct/2024。\n代码：WMT，公司：沃尔玛，行业: 零售。\n预计每股收益: $0.53，当前市值: $696
 	\,112\,551\,668。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=WMT \n在富途查看
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:UgHpukIdnYiBQMPN9Cefh
+UID:GMLH-WwYR_c9BaajfTQt2
 SUMMARY:CRM 赛富时 发布财报
-DTSTAMP:20241217T093739Z
+DTSTAMP:20241217T213548Z
 DTSTART;VALUE=DATE:20241203
 DESCRIPTION:财务季度：Oct/2024。\n代码：CRM，公司：赛富时，行业: 云端服务。\n预计每股收益: $1.78，当前市值: $3
 	16\,847\,080\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=CRM \n在富途
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:e447R7zU-wbdFGmxT02FM
+UID:l9zsbNkjDnPMDf09ai7tC
 SUMMARY:NKE 耐克 盘后发布财报
-DTSTAMP:20241217T093739Z
+DTSTAMP:20241217T213548Z
 DTSTART;VALUE=DATE:20241219
 DESCRIPTION:财务季度：Nov/2024。\n代码：NKE，公司：耐克，行业: 服装。\n预计每股收益: $0.64，当前市值: $114\
 	,986\,295\,606。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NKE \n在富途查看：
@@ -54,9 +54,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:X-Jgt1NPOkwDW_ezjFFKg
+UID:FWXzbljaHzcOGHAQnYHJq
 SUMMARY:WBA 沃尔格林博姿联合公司 盘前发布财报
-DTSTAMP:20241217T093739Z
+DTSTAMP:20241217T213548Z
 DTSTART;VALUE=DATE:20250109
 DESCRIPTION:财务季度：Nov/2024。\n代码：WBA，公司：沃尔格林博姿联合公司，行业: 零售。\n预计每股收益: $0.39，当前市
 	值: $8\,983\,371\,980。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=WBA \n
@@ -70,9 +70,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:7O2CtvEoi3fsYE7WtE6TN
+UID:TgX-I-3hPSktTumsZq0z5
 SUMMARY:UNH 联合健康保险 发布财报
-DTSTAMP:20241217T093739Z
+DTSTAMP:20241217T213548Z
 DTSTART;VALUE=DATE:20250110
 DESCRIPTION:财务季度：Dec/2024。\n代码：UNH，公司：联合健康保险，行业: 保健管理。\n预计每股收益: $6.74，当前市值:
 	 $478\,989\,590\,160。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=UNH \n
@@ -86,12 +86,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:NzENSJpwAOSSxKjE17h7I
+UID:ITYz9IWaMpoa6I3KbBFJi
 SUMMARY:JPM 摩根大通 盘前发布财报
-DTSTAMP:20241217T093739Z
+DTSTAMP:20241217T213548Z
 DTSTART;VALUE=DATE:20250115
 DESCRIPTION:财务季度：Dec/2024。\n代码：JPM，公司：摩根大通，行业: 银行。\n预计每股收益: $3.82，当前市值: $67
-	5\,512\,780\,854。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=JPM \n在富途查
+	4\,499\,258\,302。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=JPM \n在富途查
 	看：https://www.futunn.com/hk/stock/JPM-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
