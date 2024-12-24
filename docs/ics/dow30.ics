@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:xdbCJ3SymgmOjFUlbjmSq
+UID:PW8VALVsT80uDYKmyDwuf
 SUMMARY:CRM 赛富时 发布财报
-DTSTAMP:20241223T213542Z
+DTSTAMP:20241224T093553Z
 DTSTART;VALUE=DATE:20241203
 DESCRIPTION:财务季度：Oct/2024。\n代码：CRM，公司：赛富时，行业: 云端服务。\n预计每股收益: $1.78，当前市值: $3
 	16\,847\,080\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=CRM \n在富途
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:PpufAGXonZ5nvwK_Wbw95
+UID:XYj-M2N6n1N-xKKBRPTZw
 SUMMARY:NKE 耐克 发布财报
-DTSTAMP:20241223T213542Z
+DTSTAMP:20241224T093553Z
 DTSTART;VALUE=DATE:20241219
 DESCRIPTION:财务季度：Nov/2024。\n代码：NKE，公司：耐克，行业: 服装。\n预计每股收益: $0.63，当前市值: $114\
 	,465\,322\,098。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NKE \n在富途查看：
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:HFDyRYTrjcBNp3zZCgMVn
+UID:c-46WgpcqsS7TKZX53w3U
 SUMMARY:WBA 沃尔格林博姿联合公司 盘前发布财报
-DTSTAMP:20241223T213542Z
+DTSTAMP:20241224T093553Z
 DTSTART;VALUE=DATE:20250109
 DESCRIPTION:财务季度：Nov/2024。\n代码：WBA，公司：沃尔格林博姿联合公司，行业: 零售。\n预计每股收益: $0.37，当前市
 	值: $8\,084\,170\,165。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=WBA \n
@@ -54,9 +54,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Q9NMBlDQ8Y7yxTq5Vj6kx
+UID:OxtQNhdmbH-0nTdAlrJfZ
 SUMMARY:UNH 联合健康保险 发布财报
-DTSTAMP:20241223T213542Z
+DTSTAMP:20241224T093553Z
 DTSTART;VALUE=DATE:20250110
 DESCRIPTION:财务季度：Dec/2024。\n代码：UNH，公司：联合健康保险，行业: 保健管理。\n预计每股收益: $6.74，当前市值:
 	 $450\,249\,110\,409。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=UNH \n
@@ -70,12 +70,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:R_KFVZol7ze07E5Uk2UiY
+UID:jtUHB9uVknlx6zTavynY6
 SUMMARY:JPM 摩根大通 盘前发布财报
-DTSTAMP:20241223T213542Z
+DTSTAMP:20241224T093553Z
 DTSTART;VALUE=DATE:20250115
-DESCRIPTION:财务季度：Dec/2024。\n代码：JPM，公司：摩根大通，行业: 银行。\n预计每股收益: $3.86，当前市值: $66
-	8\,924\,884\,267。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=JPM \n在富途查
+DESCRIPTION:财务季度：Dec/2024。\n代码：JPM，公司：摩根大通，行业: 银行。\n预计每股收益: $3.86，当前市值: $65
+	5\,861\,704\,709。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=JPM \n在富途查
 	看：https://www.futunn.com/hk/stock/JPM-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -86,13 +86,61 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wrDAc9PTXCmUZYmhlqBJE
+UID:RS34w92M7PreEWNUM6Gsd
 SUMMARY:GS 高盛 发布财报
-DTSTAMP:20241223T213542Z
+DTSTAMP:20241224T093553Z
 DTSTART;VALUE=DATE:20250121
 DESCRIPTION:财务季度：Dec/2024。\n代码：GS，公司：高盛，行业: 银行、金融服务。\n预计每股收益: $7.94，当前市值: $
-	173\,902\,901\,735。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=GS \n在富途
+	177\,704\,349\,668。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=GS \n在富途
 	查看：https://www.futunn.com/hk/stock/GS-US 
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8fSVatRQ7_4czQnBYoQ2O
+SUMMARY:PG 宝洁 盘前发布财报
+DTSTAMP:20241224T093553Z
+DTSTART;VALUE=DATE:20250122
+DESCRIPTION:财务季度：Dec/2024。\n代码：PG，公司：宝洁，行业: 消费品。\n预计每股收益: $1.88，当前市值: $395\
+	,788\,312\,975。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PG \n在富途查看：h
+	ttps://www.futunn.com/hk/stock/PG-US 
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7-W839_dCn9Rqw_Yzis8B
+SUMMARY:JNJ 强生 盘前发布财报
+DTSTAMP:20241224T093553Z
+DTSTART;VALUE=DATE:20250122
+DESCRIPTION:财务季度：Dec/2024。\n代码：JNJ，公司：强生，行业: 制药。\n预计每股收益: $2，当前市值: $347\,82
+	9\,290\,764。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=JNJ \n在富途查看：htt
+	ps://www.futunn.com/hk/stock/JNJ-US 
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:KSsLLPLu2_aQZ0XzNhAVz
+SUMMARY:TRV 旅行者保险 盘前发布财报
+DTSTAMP:20241224T093553Z
+DTSTART;VALUE=DATE:20250122
+DESCRIPTION:财务季度：Dec/2024。\n代码：TRV，公司：旅行者保险，行业: 保险。\n预计每股收益: $6.39，当前市值: $5
+	4\,657\,085\,531。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TRV \n在富途查
+	看：https://www.futunn.com/hk/stock/TRV-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 BEGIN:VALARM
