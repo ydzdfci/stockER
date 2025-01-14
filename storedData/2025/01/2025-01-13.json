@@ -2,8 +2,8 @@
   "date": "2025-01-13",
   "data": [
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "N/A",
+      "eps": "N/A",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "TTAN",
       "name": "ServiceTitan, Inc.",
@@ -13,8 +13,8 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "1/10/2024",
-      "lastYearEPS": "$1.85",
+      "eps": "$1.85",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "KBH",
       "name": "KB Home",
@@ -24,8 +24,8 @@
       "noOfEsts": "6"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.02",
+      "eps": "$0.02",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "AVAL",
       "name": "Grupo Aval Acciones y Valores S.A.",
@@ -35,8 +35,8 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "1/09/2024",
-      "lastYearEPS": "$0.20",
+      "eps": "$0.20",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "AEHR",
       "name": "Aehr Test Systems",
@@ -46,19 +46,41 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "12/07/2023",
-      "lastYearEPS": "$0.18",
-      "time": "time-pre-market",
+      "eps": "($1.27)",
+      "surprise": "-225.64",
+      "time": "time-not-supplied",
       "symbol": "CMTL",
       "name": "Comtech Telecommunications Corp.",
       "marketCap": "$119,219,396",
       "fiscalQuarterEnding": "Oct/2024",
-      "epsForecast": "($0.23)",
-      "noOfEsts": "4"
+      "epsForecast": "($0.39)",
+      "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.24",
+      "eps": "$0.02",
+      "surprise": "N/A",
+      "time": "time-not-supplied",
+      "symbol": "SOTK",
+      "name": "Sono-Tek Corporation",
+      "marketCap": "$61,823,275",
+      "fiscalQuarterEnding": "Nov/2024",
+      "epsForecast": "$0.02",
+      "noOfEsts": "1"
+    },
+    {
+      "eps": "($0.20)",
+      "surprise": "N/A",
+      "time": "time-not-supplied",
+      "symbol": "OCEA",
+      "name": "Ocean Biomedical, Inc.",
+      "marketCap": "$22,029,999",
+      "fiscalQuarterEnding": "Sep/2024",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
+    },
+    {
+      "eps": "$0.24",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "EDUC",
       "name": "Educational Development Corporation",
