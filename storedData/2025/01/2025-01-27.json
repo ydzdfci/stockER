@@ -2,9 +2,9 @@
   "date": "2025-01-27",
   "data": [
     {
-      "lastYearRptDt": "1/24/2024",
-      "lastYearEPS": "$0.54",
-      "time": "time-pre-market",
+      "eps": "$0.54",
+      "surprise": "12.5",
+      "time": "time-not-supplied",
       "symbol": "T",
       "name": "AT&T Inc.",
       "marketCap": "$163,022,569,647",
@@ -13,8 +13,8 @@
       "noOfEsts": "8"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.58",
+      "eps": "$0.58",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "BRO",
       "name": "Brown & Brown, Inc.",
@@ -24,8 +24,8 @@
       "noOfEsts": "3"
     },
     {
-      "lastYearRptDt": "1/29/2024",
-      "lastYearEPS": "$3.16",
+      "eps": "$3.16",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "NUE",
       "name": "Nucor Corporation",
@@ -35,8 +35,19 @@
       "noOfEsts": "5"
     },
     {
-      "lastYearRptDt": "1/24/2024",
-      "lastYearEPS": "$0.97",
+      "eps": "$0.29",
+      "surprise": "222.22",
+      "time": "time-not-supplied",
+      "symbol": "RYAAY",
+      "name": "Ryanair Holdings plc",
+      "marketCap": "$25,353,806,252",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$0.09",
+      "noOfEsts": "2"
+    },
+    {
+      "eps": "$0.97",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "WRB",
       "name": "W.R. Berkley Corporation",
@@ -46,9 +57,9 @@
       "noOfEsts": "7"
     },
     {
-      "lastYearRptDt": "1/29/2024",
-      "lastYearEPS": "$0.02",
-      "time": "time-pre-market",
+      "eps": "$0.05",
+      "surprise": "25",
+      "time": "time-not-supplied",
       "symbol": "SOFI",
       "name": "SoFi Technologies, Inc. ",
       "marketCap": "$19,445,832,000",
@@ -57,8 +68,8 @@
       "noOfEsts": "7"
     },
     {
-      "lastYearRptDt": "1/29/2024",
-      "lastYearEPS": "$2.28",
+      "eps": "$2.28",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "ARE",
       "name": "Alexandria Real Estate Equities, Inc.",
@@ -68,8 +79,8 @@
       "noOfEsts": "6"
     },
     {
-      "lastYearRptDt": "1/29/2024",
-      "lastYearEPS": "$0.80",
+      "eps": "$0.80",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "GGG",
       "name": "Graco Inc.",
@@ -79,8 +90,8 @@
       "noOfEsts": "6"
     },
     {
-      "lastYearRptDt": "1/29/2024",
-      "lastYearEPS": "$0.71",
+      "eps": "$0.71",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "ELS",
       "name": "Equity Lifestyle Properties, Inc.",
@@ -90,8 +101,8 @@
       "noOfEsts": "4"
     },
     {
-      "lastYearRptDt": "1/25/2024",
-      "lastYearEPS": "$1.91",
+      "eps": "$1.91",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "WAL",
       "name": "Western Alliance Bancorporation",
@@ -101,8 +112,8 @@
       "noOfEsts": "7"
     },
     {
-      "lastYearRptDt": "1/29/2024",
-      "lastYearEPS": "$0.90",
+      "eps": "$0.90",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "CR",
       "name": "Crane Company",
@@ -112,8 +123,8 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.60",
+      "eps": "$0.60",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "AGNC",
       "name": "AGNC Investment Corp.",
@@ -123,8 +134,8 @@
       "noOfEsts": "3"
     },
     {
-      "lastYearRptDt": "1/29/2024",
-      "lastYearEPS": "$0.91",
+      "eps": "$0.91",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "SFBS",
       "name": "ServisFirst Bancshares, Inc.",
@@ -134,8 +145,8 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "1/29/2024",
-      "lastYearEPS": "$1.09",
+      "eps": "$1.09",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "SANM",
       "name": "Sanmina Corporation",
@@ -145,8 +156,8 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "1/29/2024",
-      "lastYearEPS": "N/A",
+      "eps": "$0",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "PCH",
       "name": "PotlatchDeltic Corporation",
@@ -156,8 +167,8 @@
       "noOfEsts": "4"
     },
     {
-      "lastYearRptDt": "1/25/2024",
-      "lastYearEPS": "$1.15",
+      "eps": "$1.15",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "WSFS",
       "name": "WSFS Financial Corporation",
@@ -167,8 +178,8 @@
       "noOfEsts": "3"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.02",
+      "eps": "$0.02",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "AVAL",
       "name": "Grupo Aval Acciones y Valores S.A.",
@@ -178,9 +189,9 @@
       "noOfEsts": "3"
     },
     {
-      "lastYearRptDt": "1/22/2024",
-      "lastYearEPS": "$0.72",
-      "time": "time-pre-market",
+      "eps": "$0.85",
+      "surprise": "-2.3",
+      "time": "time-not-supplied",
       "symbol": "BOH",
       "name": "Bank of Hawaii Corporation",
       "marketCap": "$2,826,491,159",
@@ -189,8 +200,8 @@
       "noOfEsts": "4"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$2",
+      "eps": "$2",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "PRK",
       "name": "Park National Corporation",
@@ -200,8 +211,8 @@
       "noOfEsts": "3"
     },
     {
-      "lastYearRptDt": "1/25/2024",
-      "lastYearEPS": "$0.35",
+      "eps": "$0.35",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "SBCF",
       "name": "Seacoast Banking Corporation of Florida",
@@ -211,8 +222,8 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "1/23/2024",
-      "lastYearEPS": "$0.72",
+      "eps": "$0.72",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "NBTB",
       "name": "NBT Bancorp Inc.",
@@ -222,8 +233,8 @@
       "noOfEsts": "3"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$1.21",
+      "eps": "$1.21",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "EFSC",
       "name": "Enterprise Financial Services Corporation",
@@ -233,9 +244,9 @@
       "noOfEsts": "3"
     },
     {
-      "lastYearRptDt": "1/30/2024",
-      "lastYearEPS": "$0.32",
-      "time": "time-pre-market",
+      "eps": "$0.20",
+      "surprise": "5.26",
+      "time": "time-not-supplied",
       "symbol": "HOPE",
       "name": "Hope Bancorp, Inc.",
       "marketCap": "$1,463,356,364",
@@ -244,8 +255,8 @@
       "noOfEsts": "4"
     },
     {
-      "lastYearRptDt": "1/25/2024",
-      "lastYearEPS": "$0.15",
+      "eps": "$0.15",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "MRTN",
       "name": "Marten Transport, Ltd.",
@@ -255,8 +266,8 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "1/24/2024",
-      "lastYearEPS": "$2.60",
+      "eps": "$2.60",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "PFBC",
       "name": "Preferred Bank",
@@ -266,8 +277,8 @@
       "noOfEsts": "4"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "N/A",
+      "eps": "N/A",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "FSUN",
       "name": "FIRSTSUN CAPITAL BANCORP",
@@ -277,9 +288,9 @@
       "noOfEsts": "3"
     },
     {
-      "lastYearRptDt": "1/29/2024",
-      "lastYearEPS": "($0.24)",
-      "time": "time-pre-market",
+      "eps": "$0.10",
+      "surprise": "-73.68",
+      "time": "time-not-supplied",
       "symbol": "DX",
       "name": "Dynex Capital, Inc.",
       "marketCap": "$1,001,603,508",
@@ -288,8 +299,8 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "1/29/2024",
-      "lastYearEPS": "$0.38",
+      "eps": "$0.38",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "TRNS",
       "name": "Transcat, Inc.",
@@ -299,9 +310,9 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "1/26/2024",
-      "lastYearEPS": "$0.39",
-      "time": "time-pre-market",
+      "eps": "$0.28",
+      "surprise": "N/A",
+      "time": "time-not-supplied",
       "symbol": "OXLC",
       "name": "Oxford Lane Capital Corp.",
       "marketCap": "$888,832,000",
@@ -310,8 +321,8 @@
       "noOfEsts": "N/A"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.39",
+      "eps": "$0.39",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "CFB",
       "name": "CrossFirst Bankshares, Inc.",
@@ -321,8 +332,8 @@
       "noOfEsts": "3"
     },
     {
-      "lastYearRptDt": "1/29/2024",
-      "lastYearEPS": "$0.63",
+      "eps": "$0.63",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "FSBC",
       "name": "Five Star Bancorp",
@@ -332,8 +343,8 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.65",
+      "eps": "$0.65",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "CBNK",
       "name": "Capital Bancorp, Inc.",
@@ -343,9 +354,20 @@
       "noOfEsts": "3"
     },
     {
-      "lastYearRptDt": "1/29/2024",
-      "lastYearEPS": "$0.30",
-      "time": "time-pre-market",
+      "eps": "$0.72",
+      "surprise": "N/A",
+      "time": "time-not-supplied",
+      "symbol": "BSRR",
+      "name": "Sierra Bancorp",
+      "marketCap": "$428,209,540",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$0.72",
+      "noOfEsts": "4"
+    },
+    {
+      "eps": "$0.38",
+      "surprise": "11.76",
+      "time": "time-not-supplied",
       "symbol": "BMRC",
       "name": "Bank of Marin Bancorp",
       "marketCap": "$385,828,315",
@@ -354,8 +376,8 @@
       "noOfEsts": "4"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$1.17",
+      "eps": "$1.17",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "HBCP",
       "name": "Home Bancorp, Inc.",
@@ -365,8 +387,8 @@
       "noOfEsts": "3"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.77",
+      "eps": "$0.77",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "TSBK",
       "name": "Timberland Bancorp, Inc.",
@@ -376,8 +398,19 @@
       "noOfEsts": "3"
     },
     {
-      "lastYearRptDt": "1/29/2024",
-      "lastYearEPS": "($0.12)",
+      "eps": "$0.25",
+      "surprise": "N/A",
+      "time": "time-not-supplied",
+      "symbol": "BVFL",
+      "name": "BV Financial, Inc.",
+      "marketCap": "$194,266,248",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
+    },
+    {
+      "eps": "($0.12)",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "HMST",
       "name": "HomeStreet, Inc.",
@@ -387,8 +420,19 @@
       "noOfEsts": "3"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.62",
+      "eps": "$0.27",
+      "surprise": "N/A",
+      "time": "time-not-supplied",
+      "symbol": "CZWI",
+      "name": "Citizens Community Bancorp, Inc.",
+      "marketCap": "$160,542,240",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$0.27",
+      "noOfEsts": "1"
+    },
+    {
+      "eps": "$0.62",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "PEBK",
       "name": "Peoples Bancorp of North Carolina, Inc.",
@@ -396,6 +440,28 @@
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
       "noOfEsts": "3"
+    },
+    {
+      "eps": "($0.12)",
+      "surprise": "-152.17",
+      "time": "time-not-supplied",
+      "symbol": "MNSB",
+      "name": "MainStreet Bancshares, Inc.",
+      "marketCap": "$133,057,137",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$0.23",
+      "noOfEsts": "1"
+    },
+    {
+      "eps": "$0.06",
+      "surprise": "N/A",
+      "time": "time-not-supplied",
+      "symbol": "BYFC",
+      "name": "Broadway Financial Corporation",
+      "marketCap": "$72,716,672",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
     }
   ]
 }
