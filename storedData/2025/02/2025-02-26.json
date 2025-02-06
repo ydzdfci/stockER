@@ -7,7 +7,7 @@
       "time": "time-after-hours",
       "symbol": "NVDA",
       "name": "NVIDIA Corporation",
-      "marketCap": "$2,905,738,500,000",
+      "marketCap": "$3,057,086,700,000",
       "fiscalQuarterEnding": "Jan/2025",
       "epsForecast": "$0.79",
       "noOfEsts": "14"
@@ -18,7 +18,7 @@
       "time": "time-not-supplied",
       "symbol": "CRM",
       "name": "Salesforce, Inc.",
-      "marketCap": "$329,341,980,000",
+      "marketCap": "$332,969,010,000",
       "fiscalQuarterEnding": "Jan/2025",
       "epsForecast": "$1.95",
       "noOfEsts": "16"
@@ -29,7 +29,7 @@
       "time": "time-pre-market",
       "symbol": "LOW",
       "name": "Lowe's Companies, Inc.",
-      "marketCap": "$145,244,920,786",
+      "marketCap": "$145,945,086,792",
       "fiscalQuarterEnding": "Jan/2025",
       "epsForecast": "$1.80",
       "noOfEsts": "12"
@@ -40,7 +40,7 @@
       "time": "time-not-supplied",
       "symbol": "TJX",
       "name": "TJX Companies, Inc. (The)",
-      "marketCap": "$140,677,135,749",
+      "marketCap": "$141,093,074,219",
       "fiscalQuarterEnding": "Jan/2025",
       "epsForecast": "$1.15",
       "noOfEsts": "8"
@@ -51,7 +51,7 @@
       "time": "time-not-supplied",
       "symbol": "BUD",
       "name": "Anheuser-Busch Inbev SA",
-      "marketCap": "$84,601,506,708",
+      "marketCap": "$85,313,757,585",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.72",
       "noOfEsts": "5"
@@ -62,7 +62,7 @@
       "time": "time-after-hours",
       "symbol": "SNPS",
       "name": "Synopsys, Inc.",
-      "marketCap": "$80,980,557,862",
+      "marketCap": "$81,682,344,020",
       "fiscalQuarterEnding": "Jan/2025",
       "epsForecast": "$1.86",
       "noOfEsts": "6"
@@ -73,7 +73,7 @@
       "time": "time-after-hours",
       "symbol": "SNOW",
       "name": "Snowflake Inc.",
-      "marketCap": "$62,425,211,000",
+      "marketCap": "$62,365,793,000",
       "fiscalQuarterEnding": "Jan/2025",
       "epsForecast": "($0.60)",
       "noOfEsts": "13"
@@ -84,7 +84,7 @@
       "time": "time-not-supplied",
       "symbol": "MNST",
       "name": "Monster Beverage Corporation",
-      "marketCap": "$45,329,141,305",
+      "marketCap": "$44,891,507,459",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.40",
       "noOfEsts": "10"
@@ -95,7 +95,7 @@
       "time": "time-after-hours",
       "symbol": "A",
       "name": "Agilent Technologies, Inc.",
-      "marketCap": "$41,993,933,206",
+      "marketCap": "$42,265,248,742",
       "fiscalQuarterEnding": "Jan/2025",
       "epsForecast": "$1.27",
       "noOfEsts": "6"
@@ -106,10 +106,21 @@
       "time": "time-pre-market",
       "symbol": "VRSK",
       "name": "Verisk Analytics, Inc.",
-      "marketCap": "$40,838,115,352",
+      "marketCap": "$41,182,669,299",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$1.60",
       "noOfEsts": "7"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "N/A",
+      "time": "time-pre-market",
+      "symbol": "STLA",
+      "name": "Stellantis N.V.",
+      "marketCap": "$39,088,670,574",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "",
+      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "2/27/2024",
@@ -117,7 +128,7 @@
       "time": "time-after-hours",
       "symbol": "EBAY",
       "name": "eBay Inc.",
-      "marketCap": "$32,069,050,000",
+      "marketCap": "$32,279,810,000",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.95",
       "noOfEsts": "9"
@@ -128,7 +139,7 @@
       "time": "time-after-hours",
       "symbol": "TKO",
       "name": "TKO Group Holdings, Inc.",
-      "marketCap": "$26,936,722,222",
+      "marketCap": "$27,496,836,643",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.22",
       "noOfEsts": "6"
@@ -139,7 +150,7 @@
       "time": "time-not-supplied",
       "symbol": "NTRA",
       "name": "Natera, Inc.",
-      "marketCap": "$23,003,306,979",
+      "marketCap": "$23,367,684,432",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "($0.42)",
       "noOfEsts": "6"
@@ -150,21 +161,10 @@
       "time": "time-not-supplied",
       "symbol": "PSTG",
       "name": "Pure Storage, Inc. ",
-      "marketCap": "$22,298,297,036",
+      "marketCap": "$22,823,538,561",
       "fiscalQuarterEnding": "Jan/2025",
       "epsForecast": "$0.12",
       "noOfEsts": "9"
-    },
-    {
-      "lastYearRptDt": "2/28/2024",
-      "lastYearEPS": "$1.14",
-      "time": "time-not-supplied",
-      "symbol": "NRG",
-      "name": "NRG Energy, Inc.",
-      "marketCap": "$20,592,897,479",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$1.05",
-      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "2/28/2024",
@@ -172,10 +172,21 @@
       "time": "time-pre-market",
       "symbol": "EME",
       "name": "EMCOR Group, Inc.",
-      "marketCap": "$20,470,916,255",
+      "marketCap": "$21,006,840,242",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$5.54",
       "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "2/28/2024",
+      "lastYearEPS": "$1.14",
+      "time": "time-pre-market",
+      "symbol": "NRG",
+      "name": "NRG Energy, Inc.",
+      "marketCap": "$20,840,028,454",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$1.05",
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "2/23/2024",
@@ -183,7 +194,7 @@
       "time": "time-pre-market",
       "symbol": "AER",
       "name": "AerCap Holdings N.V.",
-      "marketCap": "$19,184,202,736",
+      "marketCap": "$19,550,715,370",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$2.53",
       "noOfEsts": "4"
@@ -194,7 +205,7 @@
       "time": "time-after-hours",
       "symbol": "INVH",
       "name": "Invitation Homes Inc.",
-      "marketCap": "$19,174,551,461",
+      "marketCap": "$19,309,324,666",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.46",
       "noOfEsts": "6"
@@ -205,7 +216,7 @@
       "time": "time-not-supplied",
       "symbol": "NTNX",
       "name": "Nutanix, Inc.",
-      "marketCap": "$19,006,829,771",
+      "marketCap": "$19,180,983,131",
       "fiscalQuarterEnding": "Jan/2025",
       "epsForecast": "$0.17",
       "noOfEsts": "11"
@@ -216,7 +227,7 @@
       "time": "time-after-hours",
       "symbol": "WES",
       "name": "Western Midstream Partners, LP",
-      "marketCap": "$15,526,661,421",
+      "marketCap": "$15,697,911,363",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.84",
       "noOfEsts": "6"
@@ -227,7 +238,7 @@
       "time": "time-not-supplied",
       "symbol": "PARAA",
       "name": "Paramount Global",
-      "marketCap": "$14,973,592,701",
+      "marketCap": "$15,006,941,460",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.60",
       "noOfEsts": "1"
@@ -238,7 +249,7 @@
       "time": "time-pre-market",
       "symbol": "BSY",
       "name": "Bentley Systems, Incorporated",
-      "marketCap": "$14,115,071,450",
+      "marketCap": "$14,202,723,928",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.18",
       "noOfEsts": "4"
@@ -249,10 +260,10 @@
       "time": "time-after-hours",
       "symbol": "MORN",
       "name": "Morningstar, Inc.",
-      "marketCap": "$13,967,377,751",
+      "marketCap": "$13,953,225,971",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "8"
+      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "2/28/2024",
@@ -260,7 +271,7 @@
       "time": "time-not-supplied",
       "symbol": "SUZ",
       "name": "Suzano S.A.",
-      "marketCap": "$13,680,193,781",
+      "marketCap": "$13,497,617,315",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
       "noOfEsts": "N/A"
@@ -271,10 +282,10 @@
       "time": "time-pre-market",
       "symbol": "LINE",
       "name": "Lineage, Inc.",
-      "marketCap": "$13,396,347,964",
+      "marketCap": "$13,405,484,433",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.68",
-      "noOfEsts": "8"
+      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "2/27/2024",
@@ -282,32 +293,10 @@
       "time": "time-after-hours",
       "symbol": "UHS",
       "name": "Universal Health Services, Inc.",
-      "marketCap": "$12,707,622,430",
+      "marketCap": "$12,749,180,788",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$4.18",
       "noOfEsts": "6"
-    },
-    {
-      "lastYearRptDt": "2/28/2024",
-      "lastYearEPS": "$0.71",
-      "time": "time-not-supplied",
-      "symbol": "SQM",
-      "name": "Sociedad Quimica y Minera S.A.",
-      "marketCap": "$11,425,538,240",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.56",
-      "noOfEsts": "4"
-    },
-    {
-      "lastYearRptDt": "2/27/2024",
-      "lastYearEPS": "$2.35",
-      "time": "time-after-hours",
-      "symbol": "OVV",
-      "name": "Ovintiv Inc.",
-      "marketCap": "$11,382,084,000",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$1.11",
-      "noOfEsts": "7"
     },
     {
       "lastYearRptDt": "2/22/2024",
@@ -315,7 +304,7 @@
       "time": "time-after-hours",
       "symbol": "FTAI",
       "name": "FTAI Aviation Ltd.",
-      "marketCap": "$11,239,444,818",
+      "marketCap": "$11,993,184,959",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.83",
       "noOfEsts": "4"
@@ -326,18 +315,40 @@
       "time": "time-not-supplied",
       "symbol": "SRPT",
       "name": "Sarepta Therapeutics, Inc.",
-      "marketCap": "$10,896,881,672",
+      "marketCap": "$11,368,748,743",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$1.69",
+      "epsForecast": "$1.74",
+      "noOfEsts": "8"
+    },
+    {
+      "lastYearRptDt": "2/27/2024",
+      "lastYearEPS": "$2.35",
+      "time": "time-after-hours",
+      "symbol": "OVV",
+      "name": "Ovintiv Inc.",
+      "marketCap": "$11,290,944,000",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$1.11",
       "noOfEsts": "7"
     },
     {
       "lastYearRptDt": "2/28/2024",
-      "lastYearEPS": "$0.44",
+      "lastYearEPS": "$0.71",
       "time": "time-not-supplied",
+      "symbol": "SQM",
+      "name": "Sociedad Quimica y Minera S.A.",
+      "marketCap": "$10,768,569,791",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$0.56",
+      "noOfEsts": "4"
+    },
+    {
+      "lastYearRptDt": "2/28/2024",
+      "lastYearEPS": "$0.44",
+      "time": "time-pre-market",
       "symbol": "APG",
       "name": "APi Group Corporation",
-      "marketCap": "$10,397,515,136",
+      "marketCap": "$10,419,497,198",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.48",
       "noOfEsts": "3"
@@ -348,7 +359,7 @@
       "time": "time-after-hours",
       "symbol": "KNTK",
       "name": "Kinetik Holdings Inc.",
-      "marketCap": "$9,979,988,398",
+      "marketCap": "$10,158,005,555",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.37",
       "noOfEsts": "2"
@@ -359,7 +370,7 @@
       "time": "time-after-hours",
       "symbol": "WTRG",
       "name": "Essential Utilities, Inc.",
-      "marketCap": "$9,726,707,168",
+      "marketCap": "$9,699,246,109",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.66",
       "noOfEsts": "3"
@@ -370,21 +381,10 @@
       "time": "time-not-supplied",
       "symbol": "UWMC",
       "name": "UWM Holdings Corporation",
-      "marketCap": "$9,541,529,103",
+      "marketCap": "$9,621,441,407",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.07",
       "noOfEsts": "5"
-    },
-    {
-      "lastYearRptDt": "2/28/2024",
-      "lastYearEPS": "($0.20)",
-      "time": "time-not-supplied",
-      "symbol": "IONQ",
-      "name": "IonQ, Inc.",
-      "marketCap": "$9,058,179,250",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "($0.25)",
-      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "2/28/2024",
@@ -392,10 +392,21 @@
       "time": "time-not-supplied",
       "symbol": "AAON",
       "name": "AAON, Inc.",
-      "marketCap": "$9,016,348,801",
+      "marketCap": "$9,339,028,912",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.54",
       "noOfEsts": "3"
+    },
+    {
+      "lastYearRptDt": "2/28/2024",
+      "lastYearEPS": "($0.20)",
+      "time": "time-not-supplied",
+      "symbol": "IONQ",
+      "name": "IonQ, Inc.",
+      "marketCap": "$9,157,719,681",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "($0.25)",
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "2/28/2024",
@@ -403,7 +414,7 @@
       "time": "time-not-supplied",
       "symbol": "DCI",
       "name": "Donaldson Company, Inc.",
-      "marketCap": "$8,353,746,782",
+      "marketCap": "$8,377,631,691",
       "fiscalQuarterEnding": "Jan/2025",
       "epsForecast": "$0.85",
       "noOfEsts": "7"
@@ -414,21 +425,10 @@
       "time": "time-after-hours",
       "symbol": "APA",
       "name": "APA Corporation",
-      "marketCap": "$8,283,123,472",
+      "marketCap": "$8,209,133,982",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.97",
       "noOfEsts": "9"
-    },
-    {
-      "lastYearRptDt": "2/28/2024",
-      "lastYearEPS": "$0.76",
-      "time": "time-not-supplied",
-      "symbol": "VIPS",
-      "name": "Vipshop Holdings Limited",
-      "marketCap": "$8,047,776,891",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.65",
-      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "2/28/2024",
@@ -436,10 +436,32 @@
       "time": "time-pre-market",
       "symbol": "ICL",
       "name": "ICL Group Ltd.",
-      "marketCap": "$7,897,292,269",
+      "marketCap": "$7,884,152,016",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.06",
       "noOfEsts": "3"
+    },
+    {
+      "lastYearRptDt": "2/28/2024",
+      "lastYearEPS": "$0.76",
+      "time": "time-not-supplied",
+      "symbol": "VIPS",
+      "name": "Vipshop Holdings Limited",
+      "marketCap": "$7,792,894,469",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$0.65",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "2/28/2024",
+      "lastYearEPS": "($5.68)",
+      "time": "time-not-supplied",
+      "symbol": "MDGL",
+      "name": "Madrigal Pharmaceuticals, Inc.",
+      "marketCap": "$7,414,884,067",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "($4.27)",
+      "noOfEsts": "8"
     },
     {
       "lastYearRptDt": "2/28/2024",
@@ -447,7 +469,7 @@
       "time": "time-not-supplied",
       "symbol": "JAZZ",
       "name": "Jazz Pharmaceuticals plc",
-      "marketCap": "$7,353,092,024",
+      "marketCap": "$7,347,046,565",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$4.98",
       "noOfEsts": "8"
@@ -458,32 +480,10 @@
       "time": "time-not-supplied",
       "symbol": "PARA",
       "name": "Paramount Global",
-      "marketCap": "$7,283,368,921",
+      "marketCap": "$7,230,010,907",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.10",
       "noOfEsts": "6"
-    },
-    {
-      "lastYearRptDt": "2/28/2024",
-      "lastYearEPS": "$0.24",
-      "time": "time-not-supplied",
-      "symbol": "ADT",
-      "name": "ADT Inc.",
-      "marketCap": "$7,047,494,071",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.19",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "2/28/2024",
-      "lastYearEPS": "($5.68)",
-      "time": "time-not-supplied",
-      "symbol": "MDGL",
-      "name": "Madrigal Pharmaceuticals, Inc.",
-      "marketCap": "$7,044,761,461",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "($4.27)",
-      "noOfEsts": "8"
     },
     {
       "lastYearRptDt": "2/28/2024",
@@ -491,21 +491,21 @@
       "time": "time-not-supplied",
       "symbol": "CWAN",
       "name": "Clearwater Analytics Holdings, Inc.",
-      "marketCap": "$7,015,491,000",
+      "marketCap": "$7,082,187,569",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.03",
       "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "2/28/2024",
-      "lastYearEPS": "$0.04",
+      "lastYearEPS": "$0.24",
       "time": "time-not-supplied",
-      "symbol": "CCCS",
-      "name": "CCC Intelligent Solutions Holdings Inc.",
-      "marketCap": "$6,855,505,580",
+      "symbol": "ADT",
+      "name": "ADT Inc.",
+      "marketCap": "$6,811,670,588",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.05",
-      "noOfEsts": "6"
+      "epsForecast": "$0.19",
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "2/26/2024",
@@ -513,7 +513,7 @@
       "time": "time-after-hours",
       "symbol": "FSK",
       "name": "FS KKR Capital Corp.",
-      "marketCap": "$6,505,943,238",
+      "marketCap": "$6,469,534,602",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.67",
       "noOfEsts": "5"
@@ -524,7 +524,7 @@
       "time": "time-pre-market",
       "symbol": "BXSL",
       "name": "Blackstone Secured Lending Fund",
-      "marketCap": "$6,437,793,129",
+      "marketCap": "$6,418,633,031",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.86",
       "noOfEsts": "5"
@@ -535,32 +535,10 @@
       "time": "time-not-supplied",
       "symbol": "BMA",
       "name": "Macro Bank Inc.",
-      "marketCap": "$6,153,714,657",
+      "marketCap": "$5,924,804,657",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$2.40",
-      "noOfEsts": "8"
-    },
-    {
-      "lastYearRptDt": "2/28/2024",
-      "lastYearEPS": "($0.02)",
-      "time": "time-not-supplied",
-      "symbol": "MARA",
-      "name": "MARA Holdings, Inc.",
-      "marketCap": "$5,680,325,745",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "($0.30)",
-      "noOfEsts": "4"
-    },
-    {
-      "lastYearRptDt": "2/28/2024",
-      "lastYearEPS": "$1.13",
-      "time": "time-not-supplied",
-      "symbol": "SWX",
-      "name": "Southwest Gas Holdings, Inc.",
-      "marketCap": "$5,446,061,686",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$1.14",
-      "noOfEsts": "2"
+      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "2/28/2024",
@@ -568,10 +546,32 @@
       "time": "time-not-supplied",
       "symbol": "DY",
       "name": "Dycom Industries, Inc.",
-      "marketCap": "$5,416,207,578",
+      "marketCap": "$5,576,674,836",
       "fiscalQuarterEnding": "Jan/2025",
-      "epsForecast": "$0.67",
+      "epsForecast": "$0.68",
       "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "2/28/2024",
+      "lastYearEPS": "$1.13",
+      "time": "time-not-supplied",
+      "symbol": "SWX",
+      "name": "Southwest Gas Holdings, Inc.",
+      "marketCap": "$5,496,999,688",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$1.14",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "2/28/2024",
+      "lastYearEPS": "($0.02)",
+      "time": "time-not-supplied",
+      "symbol": "MARA",
+      "name": "MARA Holdings, Inc.",
+      "marketCap": "$5,480,790,223",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "($0.30)",
+      "noOfEsts": "4"
     },
     {
       "lastYearRptDt": "2/22/2024",
@@ -579,7 +579,7 @@
       "time": "time-pre-market",
       "symbol": "OPCH",
       "name": "Option Care Health, Inc.",
-      "marketCap": "$5,258,600,254",
+      "marketCap": "$5,330,076,374",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.33",
       "noOfEsts": "6"
@@ -590,7 +590,7 @@
       "time": "time-not-supplied",
       "symbol": "TGTX",
       "name": "TG Therapeutics, Inc.",
-      "marketCap": "$5,122,946,141",
+      "marketCap": "$5,163,419,128",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.08",
       "noOfEsts": "5"
@@ -601,7 +601,7 @@
       "time": "time-not-supplied",
       "symbol": "IEP",
       "name": "Icahn Enterprises L.P.",
-      "marketCap": "$5,029,954,221",
+      "marketCap": "$4,994,673,981",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.18",
       "noOfEsts": "1"
@@ -612,7 +612,7 @@
       "time": "time-not-supplied",
       "symbol": "KTB",
       "name": "Kontoor Brands, Inc.",
-      "marketCap": "$4,882,777,345",
+      "marketCap": "$4,866,234,904",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$1.31",
       "noOfEsts": "1"
@@ -620,10 +620,10 @@
     {
       "lastYearRptDt": "2/28/2024",
       "lastYearEPS": "$0.81",
-      "time": "time-not-supplied",
+      "time": "time-after-hours",
       "symbol": "WHD",
       "name": "Cactus, Inc.",
-      "marketCap": "$4,818,020,626",
+      "marketCap": "$4,859,404,352",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.73",
       "noOfEsts": "3"
@@ -634,7 +634,7 @@
       "time": "time-not-supplied",
       "symbol": "NARI",
       "name": "Inari Medical, Inc.",
-      "marketCap": "$4,674,751,016",
+      "marketCap": "$4,677,092,782",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0",
       "noOfEsts": "10"
@@ -645,7 +645,7 @@
       "time": "time-after-hours",
       "symbol": "ZETA",
       "name": "Zeta Global Holdings Corp.",
-      "marketCap": "$4,373,791,441",
+      "marketCap": "$4,459,272,707",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.09",
       "noOfEsts": "3"
@@ -656,21 +656,10 @@
       "time": "time-after-hours",
       "symbol": "AI",
       "name": "C3.ai, Inc.",
-      "marketCap": "$4,358,535,822",
+      "marketCap": "$4,412,743,256",
       "fiscalQuarterEnding": "Jan/2025",
       "epsForecast": "($0.70)",
       "noOfEsts": "8"
-    },
-    {
-      "lastYearRptDt": "2/28/2024",
-      "lastYearEPS": "$0.04",
-      "time": "time-not-supplied",
-      "symbol": "ADMA",
-      "name": "ADMA Biologics Inc",
-      "marketCap": "$3,994,995,275",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.15",
-      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "2/28/2024",
@@ -678,10 +667,32 @@
       "time": "time-not-supplied",
       "symbol": "RNA",
       "name": "Avidity Biosciences, Inc.",
-      "marketCap": "$3,977,772,628",
+      "marketCap": "$4,137,647,113",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "($0.84)",
       "noOfEsts": "4"
+    },
+    {
+      "lastYearRptDt": "2/29/2024",
+      "lastYearEPS": "$2.76",
+      "time": "time-pre-market",
+      "symbol": "BCO",
+      "name": "Brink's Company (The)",
+      "marketCap": "$4,000,723,008",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$1.80",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "2/28/2024",
+      "lastYearEPS": "$0.04",
+      "time": "time-not-supplied",
+      "symbol": "ADMA",
+      "name": "ADMA Biologics Inc",
+      "marketCap": "$3,987,903,568",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$0.15",
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "2/28/2024",
@@ -689,10 +700,21 @@
       "time": "time-not-supplied",
       "symbol": "PAYO",
       "name": "Payoneer Global Inc.",
-      "marketCap": "$3,862,124,020",
+      "marketCap": "$3,937,012,852",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.07",
       "noOfEsts": "4"
+    },
+    {
+      "lastYearRptDt": "2/21/2024",
+      "lastYearEPS": "$0.67",
+      "time": "time-after-hours",
+      "symbol": "ORA",
+      "name": "Ormat Technologies, Inc.",
+      "marketCap": "$3,893,478,743",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$0.46",
+      "noOfEsts": "6"
     },
     {
       "lastYearRptDt": "2/29/2024",
@@ -700,7 +722,7 @@
       "time": "time-after-hours",
       "symbol": "SG",
       "name": "Sweetgreen, Inc.",
-      "marketCap": "$3,805,569,056",
+      "marketCap": "$3,822,919,675",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "($0.21)",
       "noOfEsts": "5"
@@ -711,32 +733,10 @@
       "time": "time-after-hours",
       "symbol": "HHH",
       "name": "Howard Hughes Holdings Inc.",
-      "marketCap": "$3,795,911,184",
+      "marketCap": "$3,805,938,687",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$3.69",
       "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "2/21/2024",
-      "lastYearEPS": "$0.67",
-      "time": "time-after-hours",
-      "symbol": "ORA",
-      "name": "Ormat Technologies, Inc.",
-      "marketCap": "$3,791,878,180",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.46",
-      "noOfEsts": "6"
-    },
-    {
-      "lastYearRptDt": "2/28/2024",
-      "lastYearEPS": "($0.90)",
-      "time": "time-not-supplied",
-      "symbol": "CRNX",
-      "name": "Crinetics Pharmaceuticals, Inc.",
-      "marketCap": "$3,746,600,130",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "($0.92)",
-      "noOfEsts": "8"
     },
     {
       "lastYearRptDt": "2/28/2024",
@@ -744,10 +744,32 @@
       "time": "time-not-supplied",
       "symbol": "ACLX",
       "name": "Arcellx, Inc.",
-      "marketCap": "$3,661,936,652",
+      "marketCap": "$3,707,359,375",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "($0.63)",
       "noOfEsts": "8"
+    },
+    {
+      "lastYearRptDt": "2/28/2024",
+      "lastYearEPS": "($0.90)",
+      "time": "time-not-supplied",
+      "symbol": "CRNX",
+      "name": "Crinetics Pharmaceuticals, Inc.",
+      "marketCap": "$3,644,588,741",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "($0.92)",
+      "noOfEsts": "8"
+    },
+    {
+      "lastYearRptDt": "2/28/2024",
+      "lastYearEPS": "$1.16",
+      "time": "time-after-hours",
+      "symbol": "EPR",
+      "name": "EPR Properties",
+      "marketCap": "$3,594,974,162",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$1.16",
+      "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "2/28/2024",
@@ -761,36 +783,14 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "2/28/2024",
-      "lastYearEPS": "$1.16",
-      "time": "time-after-hours",
-      "symbol": "EPR",
-      "name": "EPR Properties",
-      "marketCap": "$3,541,204,799",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$1.16",
-      "noOfEsts": "5"
-    },
-    {
       "lastYearRptDt": "3/06/2024",
       "lastYearEPS": "($0.08)",
       "time": "time-after-hours",
       "symbol": "RSI",
       "name": "Rush Street Interactive, Inc.",
-      "marketCap": "$3,365,126,793",
+      "marketCap": "$3,331,272,399",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.06",
-      "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "2/28/2024",
-      "lastYearEPS": "$0.16",
-      "time": "time-not-supplied",
-      "symbol": "YOU",
-      "name": "Clear Secure, Inc.",
-      "marketCap": "$3,271,826,102",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.23",
       "noOfEsts": "2"
     },
     {
@@ -799,7 +799,7 @@
       "time": "time-after-hours",
       "symbol": "EE",
       "name": "Excelerate Energy, Inc.",
-      "marketCap": "$3,271,436,663",
+      "marketCap": "$3,315,013,305",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.33",
       "noOfEsts": "5"
@@ -810,32 +810,21 @@
       "time": "time-not-supplied",
       "symbol": "WRBY",
       "name": "Warby Parker Inc.",
-      "marketCap": "$3,234,656,436",
+      "marketCap": "$3,238,266,544",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "($0.03)",
       "noOfEsts": "4"
     },
     {
       "lastYearRptDt": "2/28/2024",
-      "lastYearEPS": "$0.20",
+      "lastYearEPS": "$0.16",
       "time": "time-not-supplied",
-      "symbol": "UGP",
-      "name": "Ultrapar Participacoes S.A.",
-      "marketCap": "$3,137,764,800",
+      "symbol": "YOU",
+      "name": "Clear Secure, Inc.",
+      "marketCap": "$3,209,094,030",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.06",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "2/28/2024",
-      "lastYearEPS": "$1.12",
-      "time": "time-after-hours",
-      "symbol": "STR",
-      "name": "Sitio Royalties Corp.",
-      "marketCap": "$3,098,063,653",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.13",
-      "noOfEsts": "3"
+      "epsForecast": "$0.23",
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "2/28/2024",
@@ -843,10 +832,32 @@
       "time": "time-not-supplied",
       "symbol": "LFST",
       "name": "LifeStance Health Group, Inc.",
-      "marketCap": "$3,080,252,772",
+      "marketCap": "$3,118,516,782",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "($0.04)",
       "noOfEsts": "4"
+    },
+    {
+      "lastYearRptDt": "2/28/2024",
+      "lastYearEPS": "$1.12",
+      "time": "time-after-hours",
+      "symbol": "STR",
+      "name": "Sitio Royalties Corp.",
+      "marketCap": "$3,105,709,418",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$0.13",
+      "noOfEsts": "3"
+    },
+    {
+      "lastYearRptDt": "2/28/2024",
+      "lastYearEPS": "$0.20",
+      "time": "time-not-supplied",
+      "symbol": "UGP",
+      "name": "Ultrapar Participacoes S.A.",
+      "marketCap": "$3,050,604,667",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$0.06",
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "N/A",
@@ -854,43 +865,10 @@
       "time": "time-after-hours",
       "symbol": "GEF.B",
       "name": "Greif, Inc.",
-      "marketCap": "$3,001,680,477",
+      "marketCap": "$3,038,953,780",
       "fiscalQuarterEnding": "Jan/2025",
       "epsForecast": "",
-      "noOfEsts": "8"
-    },
-    {
-      "lastYearRptDt": "2/28/2024",
-      "lastYearEPS": "($0.59)",
-      "time": "time-not-supplied",
-      "symbol": "AAP",
-      "name": "Advance Auto Parts Inc.",
-      "marketCap": "$2,961,039,809",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "($1.39)",
-      "noOfEsts": "11"
-    },
-    {
-      "lastYearRptDt": "2/21/2024",
-      "lastYearEPS": "$1.88",
-      "time": "time-after-hours",
-      "symbol": "VAC",
-      "name": "Marriott Vacations Worldwide Corporation",
-      "marketCap": "$2,945,454,653",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$1.51",
-      "noOfEsts": "7"
-    },
-    {
-      "lastYearRptDt": "2/28/2024",
-      "lastYearEPS": "($0.11)",
-      "time": "time-not-supplied",
-      "symbol": "FOLD",
-      "name": "Amicus Therapeutics, Inc.",
-      "marketCap": "$2,916,344,344",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.03",
-      "noOfEsts": "5"
+      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "2/28/2024",
@@ -898,7 +876,7 @@
       "time": "time-not-supplied",
       "symbol": "GSAT",
       "name": "Globalstar, Inc.",
-      "marketCap": "$2,914,255,005",
+      "marketCap": "$2,989,949,940",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0",
       "noOfEsts": "1"
@@ -909,10 +887,43 @@
       "time": "time-after-hours",
       "symbol": "GEF",
       "name": "Greif, Inc.",
-      "marketCap": "$2,912,035,822",
+      "marketCap": "$2,939,401,033",
       "fiscalQuarterEnding": "Jan/2025",
       "epsForecast": "$0.68",
       "noOfEsts": "4"
+    },
+    {
+      "lastYearRptDt": "2/28/2024",
+      "lastYearEPS": "($0.59)",
+      "time": "time-pre-market",
+      "symbol": "AAP",
+      "name": "Advance Auto Parts Inc.",
+      "marketCap": "$2,926,991,137",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "($1.39)",
+      "noOfEsts": "11"
+    },
+    {
+      "lastYearRptDt": "2/21/2024",
+      "lastYearEPS": "$1.88",
+      "time": "time-after-hours",
+      "symbol": "VAC",
+      "name": "Marriott Vacations Worldwide Corporation",
+      "marketCap": "$2,923,460,622",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$1.51",
+      "noOfEsts": "7"
+    },
+    {
+      "lastYearRptDt": "2/28/2024",
+      "lastYearEPS": "($0.11)",
+      "time": "time-not-supplied",
+      "symbol": "FOLD",
+      "name": "Amicus Therapeutics, Inc.",
+      "marketCap": "$2,922,320,459",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$0.03",
+      "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "2/21/2024",
@@ -920,7 +931,7 @@
       "time": "time-pre-market",
       "symbol": "AVA",
       "name": "Avista Corporation",
-      "marketCap": "$2,910,760,352",
+      "marketCap": "$2,917,886,806",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.86",
       "noOfEsts": "3"
@@ -928,10 +939,10 @@
     {
       "lastYearRptDt": "2/28/2024",
       "lastYearEPS": "$0.62",
-      "time": "time-not-supplied",
+      "time": "time-pre-market",
       "symbol": "PRKS",
       "name": "United Parks & Resorts Inc.",
-      "marketCap": "$2,904,735,363",
+      "marketCap": "$2,887,134,239",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.64",
       "noOfEsts": "5"
@@ -942,7 +953,7 @@
       "time": "time-after-hours",
       "symbol": "CPK",
       "name": "Chesapeake Utilities Corporation",
-      "marketCap": "$2,808,419,366",
+      "marketCap": "$2,856,714,702",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$1.67",
       "noOfEsts": "1"
@@ -953,7 +964,7 @@
       "time": "time-after-hours",
       "symbol": "NSA",
       "name": "National Storage Affiliates Trust",
-      "marketCap": "$2,798,930,235",
+      "marketCap": "$2,854,588,613",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.57",
       "noOfEsts": "6"
@@ -964,21 +975,10 @@
       "time": "time-not-supplied",
       "symbol": "MRUS",
       "name": "Merus N.V.",
-      "marketCap": "$2,777,571,538",
+      "marketCap": "$2,852,196,950",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$1",
       "noOfEsts": "8"
-    },
-    {
-      "lastYearRptDt": "2/28/2024",
-      "lastYearEPS": "($0.52)",
-      "time": "time-pre-market",
-      "symbol": "BATRA",
-      "name": "Atlanta Braves Holdings, Inc.",
-      "marketCap": "$2,767,031,145",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "($0.78)",
-      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "2/28/2024",
@@ -986,10 +986,21 @@
       "time": "time-not-supplied",
       "symbol": "CPRX",
       "name": "Catalyst Pharmaceuticals, Inc.",
-      "marketCap": "$2,754,023,637",
+      "marketCap": "$2,790,998,402",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.49",
       "noOfEsts": "4"
+    },
+    {
+      "lastYearRptDt": "2/28/2024",
+      "lastYearEPS": "($0.52)",
+      "time": "time-pre-market",
+      "symbol": "BATRA",
+      "name": "Atlanta Braves Holdings, Inc.",
+      "marketCap": "$2,742,797,097",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "($0.78)",
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "2/28/2024",
@@ -997,7 +1008,7 @@
       "time": "time-not-supplied",
       "symbol": "PDCO",
       "name": "Patterson Companies, Inc.",
-      "marketCap": "$2,737,796,000",
+      "marketCap": "$2,738,679,160",
       "fiscalQuarterEnding": "Jan/2025",
       "epsForecast": "$0.62",
       "noOfEsts": "8"
@@ -1008,7 +1019,7 @@
       "time": "time-not-supplied",
       "symbol": "SHOO",
       "name": "Steven Madden, Ltd.",
-      "marketCap": "$2,692,003,284",
+      "marketCap": "$2,714,382,502",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.54",
       "noOfEsts": "4"
@@ -1019,7 +1030,7 @@
       "time": "time-pre-market",
       "symbol": "ENOV",
       "name": "Enovis Corporation",
-      "marketCap": "$2,576,417,276",
+      "marketCap": "$2,632,292,732",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.92",
       "noOfEsts": "4"
@@ -1030,21 +1041,10 @@
       "time": "time-after-hours",
       "symbol": "SEMR",
       "name": "SEMrush Holdings, Inc.",
-      "marketCap": "$2,564,346,764",
+      "marketCap": "$2,555,544,659",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.02",
       "noOfEsts": "4"
-    },
-    {
-      "lastYearRptDt": "2/28/2024",
-      "lastYearEPS": "($0.52)",
-      "time": "time-pre-market",
-      "symbol": "BATRK",
-      "name": "Atlanta Braves Holdings, Inc.",
-      "marketCap": "$2,523,447,896",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "($0.69)",
-      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "2/28/2024",
@@ -1052,9 +1052,31 @@
       "time": "time-after-hours",
       "symbol": "MGNI",
       "name": "Magnite, Inc.",
-      "marketCap": "$2,491,627,710",
+      "marketCap": "$2,527,503,772",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$13.11",
+      "epsForecast": "$0.24",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "2/28/2024",
+      "lastYearEPS": "($0.66)",
+      "time": "time-not-supplied",
+      "symbol": "MIRM",
+      "name": "Mirum Pharmaceuticals, Inc.",
+      "marketCap": "$2,509,679,546",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "($0.29)",
+      "noOfEsts": "5"
+    },
+    {
+      "lastYearRptDt": "2/28/2024",
+      "lastYearEPS": "($0.52)",
+      "time": "time-pre-market",
+      "symbol": "BATRK",
+      "name": "Atlanta Braves Holdings, Inc.",
+      "marketCap": "$2,501,699,391",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "($0.69)",
       "noOfEsts": "2"
     },
     {
@@ -1063,43 +1085,10 @@
       "time": "time-not-supplied",
       "symbol": "PAGS",
       "name": "PagSeguro Digital Ltd.",
-      "marketCap": "$2,476,413,007",
+      "marketCap": "$2,479,571,697",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.30",
       "noOfEsts": "5"
-    },
-    {
-      "lastYearRptDt": "2/28/2024",
-      "lastYearEPS": "($0.66)",
-      "time": "time-not-supplied",
-      "symbol": "MIRM",
-      "name": "Mirum Pharmaceuticals, Inc.",
-      "marketCap": "$2,410,310,062",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "($0.29)",
-      "noOfEsts": "5"
-    },
-    {
-      "lastYearRptDt": "2/28/2024",
-      "lastYearEPS": "$0.95",
-      "time": "time-after-hours",
-      "symbol": "SDRL",
-      "name": "Seadrill Limited",
-      "marketCap": "$2,390,240,700",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "($0.34)",
-      "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "2/21/2024",
-      "lastYearEPS": "($0.27)",
-      "time": "time-after-hours",
-      "symbol": "TNDM",
-      "name": "Tandem Diabetes Care, Inc.",
-      "marketCap": "$2,363,698,386",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "($0.21)",
-      "noOfEsts": "9"
     },
     {
       "lastYearRptDt": "N/A",
@@ -1107,10 +1096,32 @@
       "time": "time-not-supplied",
       "symbol": "HCM",
       "name": "HUTCHMED (China) Limited",
-      "marketCap": "$2,356,809,360",
+      "marketCap": "$2,421,307,841",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "8"
+      "noOfEsts": "3"
+    },
+    {
+      "lastYearRptDt": "2/21/2024",
+      "lastYearEPS": "($0.27)",
+      "time": "time-after-hours",
+      "symbol": "TNDM",
+      "name": "Tandem Diabetes Care, Inc.",
+      "marketCap": "$2,409,671,959",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "($0.21)",
+      "noOfEsts": "9"
+    },
+    {
+      "lastYearRptDt": "2/28/2024",
+      "lastYearEPS": "$0.95",
+      "time": "time-after-hours",
+      "symbol": "SDRL",
+      "name": "Seadrill Limited",
+      "marketCap": "$2,368,384,800",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "($0.34)",
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "2/28/2024",
@@ -1118,7 +1129,7 @@
       "time": "time-not-supplied",
       "symbol": "MYRG",
       "name": "MYR Group, Inc.",
-      "marketCap": "$2,274,639,012",
+      "marketCap": "$2,284,634,590",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.30",
       "noOfEsts": "1"
@@ -1129,7 +1140,7 @@
       "time": "time-after-hours",
       "symbol": "CERT",
       "name": "Certara, Inc.",
-      "marketCap": "$2,231,110,908",
+      "marketCap": "$2,271,354,611",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.09",
       "noOfEsts": "4"
@@ -1140,21 +1151,10 @@
       "time": "time-not-supplied",
       "symbol": "OSW",
       "name": "OneSpaWorld Holdings Limited",
-      "marketCap": "$2,221,054,281",
+      "marketCap": "$2,249,129,405",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.18",
       "noOfEsts": "4"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "N/A",
-      "time": "time-after-hours",
-      "symbol": "IBTA",
-      "name": "Ibotta, Inc.",
-      "marketCap": "$2,214,682,479",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$1.25",
-      "noOfEsts": "8"
     },
     {
       "lastYearRptDt": "2/28/2024",
@@ -1162,9 +1162,20 @@
       "time": "time-pre-market",
       "symbol": "AVDX",
       "name": "AvidXchange Holdings, Inc.",
-      "marketCap": "$2,186,867,050",
+      "marketCap": "$2,223,897,724",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.01",
+      "noOfEsts": "3"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "N/A",
+      "time": "time-after-hours",
+      "symbol": "IBTA",
+      "name": "Ibotta, Inc.",
+      "marketCap": "$2,202,125,159",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$1.25",
       "noOfEsts": "3"
     },
     {
@@ -1173,7 +1184,7 @@
       "time": "time-not-supplied",
       "symbol": "COCO",
       "name": "The Vita Coco Company, Inc.",
-      "marketCap": "$2,121,774,518",
+      "marketCap": "$2,103,620,298",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.08",
       "noOfEsts": "5"
@@ -1184,7 +1195,7 @@
       "time": "time-not-supplied",
       "symbol": "EVTC",
       "name": "Evertec, Inc.",
-      "marketCap": "$2,082,088,740",
+      "marketCap": "$2,085,269,444",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.58",
       "noOfEsts": "4"
@@ -1195,7 +1206,7 @@
       "time": "time-not-supplied",
       "symbol": "GLP",
       "name": "Global Partners LP",
-      "marketCap": "$1,972,082,609",
+      "marketCap": "$1,971,402,698",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.24",
       "noOfEsts": "1"
@@ -1206,21 +1217,10 @@
       "time": "time-not-supplied",
       "symbol": "NAMS",
       "name": "NewAmsterdam Pharma Company N.V.",
-      "marketCap": "$1,951,189,616",
+      "marketCap": "$1,944,722,605",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "($0.48)",
-      "noOfEsts": "8"
-    },
-    {
-      "lastYearRptDt": "2/28/2024",
-      "lastYearEPS": "$0.18",
-      "time": "time-not-supplied",
-      "symbol": "BTE",
-      "name": "Baytex Energy Corp.",
-      "marketCap": "$1,944,631,000",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.12",
-      "noOfEsts": "1"
+      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "2/28/2024",
@@ -1228,20 +1228,20 @@
       "time": "time-after-hours",
       "symbol": "MQ",
       "name": "Marqeta, Inc.",
-      "marketCap": "$1,909,098,769",
+      "marketCap": "$1,939,242,434",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "($0.05)",
       "noOfEsts": "4"
     },
     {
       "lastYearRptDt": "2/28/2024",
-      "lastYearEPS": "$0.32",
+      "lastYearEPS": "$0.18",
       "time": "time-not-supplied",
-      "symbol": "GOGL",
-      "name": "Golden Ocean Group Limited",
-      "marketCap": "$1,890,479,934",
+      "symbol": "BTE",
+      "name": "Baytex Energy Corp.",
+      "marketCap": "$1,921,012,000",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.20",
+      "epsForecast": "$0.12",
       "noOfEsts": "1"
     },
     {
@@ -1250,7 +1250,7 @@
       "time": "time-not-supplied",
       "symbol": "SDGR",
       "name": "Schrodinger, Inc.",
-      "marketCap": "$1,816,369,061",
+      "marketCap": "$1,905,256,757",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "($0.35)",
       "noOfEsts": "5"
@@ -1261,10 +1261,21 @@
       "time": "time-after-hours",
       "symbol": "TDOC",
       "name": "Teladoc Health, Inc.",
-      "marketCap": "$1,790,533,919",
+      "marketCap": "$1,893,833,953",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "($0.21)",
       "noOfEsts": "9"
+    },
+    {
+      "lastYearRptDt": "2/28/2024",
+      "lastYearEPS": "$0.32",
+      "time": "time-not-supplied",
+      "symbol": "GOGL",
+      "name": "Golden Ocean Group Limited",
+      "marketCap": "$1,876,505,954",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$0.20",
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "2/28/2024",
@@ -1272,7 +1283,7 @@
       "time": "time-not-supplied",
       "symbol": "IOVA",
       "name": "Iovance Biotherapeutics, Inc.",
-      "marketCap": "$1,770,776,389",
+      "marketCap": "$1,859,162,819",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "($0.27)",
       "noOfEsts": "7"
@@ -1283,7 +1294,7 @@
       "time": "time-pre-market",
       "symbol": "GERN",
       "name": "Geron Corporation",
-      "marketCap": "$1,759,097,956",
+      "marketCap": "$1,825,593,068",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "($0.02)",
       "noOfEsts": "6"
@@ -1294,7 +1305,7 @@
       "time": "time-not-supplied",
       "symbol": "TALO",
       "name": "Talos Energy, Inc.",
-      "marketCap": "$1,725,829,183",
+      "marketCap": "$1,700,634,596",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "($0.08)",
       "noOfEsts": "2"
@@ -1305,21 +1316,10 @@
       "time": "time-after-hours",
       "symbol": "ATEC",
       "name": "Alphatec Holdings, Inc.",
-      "marketCap": "$1,721,061,941",
+      "marketCap": "$1,694,126,046",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "($0.17)",
       "noOfEsts": "4"
-    },
-    {
-      "lastYearRptDt": "2/28/2024",
-      "lastYearEPS": "$0.81",
-      "time": "time-not-supplied",
-      "symbol": "AMPH",
-      "name": "Amphastar Pharmaceuticals, Inc.",
-      "marketCap": "$1,595,822,761",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.81",
-      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "2/21/2024",
@@ -1327,10 +1327,21 @@
       "time": "time-after-hours",
       "symbol": "ROOT",
       "name": "Root, Inc.",
-      "marketCap": "$1,573,420,000",
+      "marketCap": "$1,624,156,000",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "($0.63)",
-      "noOfEsts": "1"
+      "epsForecast": "",
+      "noOfEsts": "N/A"
+    },
+    {
+      "lastYearRptDt": "2/22/2024",
+      "lastYearEPS": "$0.06",
+      "time": "time-after-hours",
+      "symbol": "LZ",
+      "name": "LegalZoom.com, Inc.",
+      "marketCap": "$1,583,051,443",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$0.09",
+      "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "2/28/2024",
@@ -1338,10 +1349,21 @@
       "time": "time-not-supplied",
       "symbol": "CODI",
       "name": "Compass Diversified ",
-      "marketCap": "$1,558,437,091",
+      "marketCap": "$1,578,106,685",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.51",
       "noOfEsts": "5"
+    },
+    {
+      "lastYearRptDt": "2/28/2024",
+      "lastYearEPS": "$0.81",
+      "time": "time-not-supplied",
+      "symbol": "AMPH",
+      "name": "Amphastar Pharmaceuticals, Inc.",
+      "marketCap": "$1,576,590,188",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$0.81",
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "N/A",
@@ -1352,7 +1374,7 @@
       "marketCap": "$1,537,000,000",
       "fiscalQuarterEnding": "Jan/2025",
       "epsForecast": "",
-      "noOfEsts": "8"
+      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "2/21/2024",
@@ -1360,7 +1382,7 @@
       "time": "time-after-hours",
       "symbol": "PEB",
       "name": "Pebblebrook Hotel Trust",
-      "marketCap": "$1,528,485,254",
+      "marketCap": "$1,512,925,106",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.09",
       "noOfEsts": "5"
@@ -1371,7 +1393,7 @@
       "time": "time-not-supplied",
       "symbol": "ARIS",
       "name": "Aris Water Solutions, Inc.",
-      "marketCap": "$1,511,557,318",
+      "marketCap": "$1,510,392,790",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.27",
       "noOfEsts": "5"
@@ -1382,32 +1404,10 @@
       "time": "time-not-supplied",
       "symbol": "IMCR",
       "name": "Immunocore Holdings plc",
-      "marketCap": "$1,479,197,522",
+      "marketCap": "$1,471,022,504",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "($0.40)",
       "noOfEsts": "7"
-    },
-    {
-      "lastYearRptDt": "2/28/2024",
-      "lastYearEPS": "($0.10)",
-      "time": "time-not-supplied",
-      "symbol": "NYAX",
-      "name": "Nayax Ltd.",
-      "marketCap": "$1,446,048,800",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.04",
-      "noOfEsts": "4"
-    },
-    {
-      "lastYearRptDt": "2/28/2024",
-      "lastYearEPS": "$0.24",
-      "time": "time-not-supplied",
-      "symbol": "TASK",
-      "name": "TaskUs, Inc.",
-      "marketCap": "$1,444,996,320",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.21",
-      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "2/28/2024",
@@ -1415,9 +1415,42 @@
       "time": "time-after-hours",
       "symbol": "UMH",
       "name": "UMH Properties, Inc.",
-      "marketCap": "$1,424,141,191",
+      "marketCap": "$1,441,499,145",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.23",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "2/28/2024",
+      "lastYearEPS": "($0.10)",
+      "time": "time-not-supplied",
+      "symbol": "NYAX",
+      "name": "Nayax Ltd.",
+      "marketCap": "$1,439,159,400",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$0.04",
+      "noOfEsts": "4"
+    },
+    {
+      "lastYearRptDt": "2/28/2024",
+      "lastYearEPS": "$0.04",
+      "time": "time-not-supplied",
+      "symbol": "KNSA",
+      "name": "Kiniksa Pharmaceuticals, Ltd.",
+      "marketCap": "$1,417,316,720",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "($0.06)",
+      "noOfEsts": "3"
+    },
+    {
+      "lastYearRptDt": "2/28/2024",
+      "lastYearEPS": "$0.24",
+      "time": "time-not-supplied",
+      "symbol": "TASK",
+      "name": "TaskUs, Inc.",
+      "marketCap": "$1,414,631,750",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$0.21",
       "noOfEsts": "2"
     },
     {
@@ -1426,20 +1459,9 @@
       "time": "time-not-supplied",
       "symbol": "RXST",
       "name": "RxSight, Inc.",
-      "marketCap": "$1,370,351,810",
+      "marketCap": "$1,380,830,970",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "($0.14)",
-      "noOfEsts": "3"
-    },
-    {
-      "lastYearRptDt": "2/28/2024",
-      "lastYearEPS": "$0.04",
-      "time": "time-not-supplied",
-      "symbol": "KNSA",
-      "name": "Kiniksa Pharmaceuticals, Ltd.",
-      "marketCap": "$1,353,057,328",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "($0.06)",
       "noOfEsts": "3"
     },
     {
@@ -1448,21 +1470,10 @@
       "time": "time-not-supplied",
       "symbol": "NVAX",
       "name": "Novavax, Inc.",
-      "marketCap": "$1,351,160,424",
+      "marketCap": "$1,377,590,948",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "($0.67)",
       "noOfEsts": "5"
-    },
-    {
-      "lastYearRptDt": "2/23/2024",
-      "lastYearEPS": "$0.04",
-      "time": "time-pre-market",
-      "symbol": "GB",
-      "name": "Global Blue Group Holding AG",
-      "marketCap": "$1,347,129,231",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.09",
-      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "2/28/2024",
@@ -1470,21 +1481,10 @@
       "time": "time-not-supplied",
       "symbol": "USPH",
       "name": "U.S. Physical Therapy, Inc.",
-      "marketCap": "$1,337,415,848",
+      "marketCap": "$1,332,585,452",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.70",
       "noOfEsts": "5"
-    },
-    {
-      "lastYearRptDt": "2/28/2024",
-      "lastYearEPS": "$0.05",
-      "time": "time-pre-market",
-      "symbol": "TBLA",
-      "name": "Taboola.com Ltd.",
-      "marketCap": "$1,311,212,007",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.11",
-      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "2/28/2024",
@@ -1492,42 +1492,42 @@
       "time": "time-not-supplied",
       "symbol": "ACMR",
       "name": "ACM Research, Inc.",
-      "marketCap": "$1,296,396,432",
+      "marketCap": "$1,305,790,609",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.06",
       "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "2/28/2024",
+      "lastYearEPS": "$0.05",
+      "time": "time-pre-market",
+      "symbol": "TBLA",
+      "name": "Taboola.com Ltd.",
+      "marketCap": "$1,301,125,761",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$0.11",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "2/29/2024",
+      "lastYearEPS": "$0.16",
+      "time": "time-pre-market",
+      "symbol": "DOLE",
+      "name": "Dole plc",
+      "marketCap": "$1,291,036,834",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$0.08",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "2/23/2024",
       "lastYearEPS": "$0.04",
-      "time": "time-not-supplied",
-      "symbol": "MDXG",
-      "name": "MiMedx Group, Inc",
-      "marketCap": "$1,256,390,121",
+      "time": "time-pre-market",
+      "symbol": "GB",
+      "name": "Global Blue Group Holding AG",
+      "marketCap": "$1,285,261,074",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.07",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "2/26/2024",
-      "lastYearEPS": "$0.40",
-      "time": "time-after-hours",
-      "symbol": "NMFC",
-      "name": "New Mountain Finance Corporation",
-      "marketCap": "$1,253,233,442",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.33",
-      "noOfEsts": "5"
-    },
-    {
-      "lastYearRptDt": "2/28/2024",
-      "lastYearEPS": "$0.64",
-      "time": "time-not-supplied",
-      "symbol": "DQ",
-      "name": "DAQO New Energy Corp.",
-      "marketCap": "$1,244,240,451",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "($0.61)",
+      "epsForecast": "$0.09",
       "noOfEsts": "1"
     },
     {
@@ -1536,10 +1536,32 @@
       "time": "time-not-supplied",
       "symbol": "CDNA",
       "name": "CareDx, Inc.",
-      "marketCap": "$1,238,942,420",
+      "marketCap": "$1,265,223,016",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "($0.41)",
       "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "2/26/2024",
+      "lastYearEPS": "$0.40",
+      "time": "time-after-hours",
+      "symbol": "NMFC",
+      "name": "New Mountain Finance Corporation",
+      "marketCap": "$1,256,468,984",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$0.33",
+      "noOfEsts": "5"
+    },
+    {
+      "lastYearRptDt": "2/28/2024",
+      "lastYearEPS": "$0.04",
+      "time": "time-after-hours",
+      "symbol": "MDXG",
+      "name": "MiMedx Group, Inc",
+      "marketCap": "$1,254,920,659",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$0.07",
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "2/21/2024",
@@ -1547,7 +1569,7 @@
       "time": "time-after-hours",
       "symbol": "KW",
       "name": "Kennedy-Wilson Holdings Inc.",
-      "marketCap": "$1,236,707,307",
+      "marketCap": "$1,251,822,618",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.76",
       "noOfEsts": "1"
@@ -1558,10 +1580,21 @@
       "time": "time-not-supplied",
       "symbol": "TPC",
       "name": "Tutor Perini Corporation",
-      "marketCap": "$1,230,120,478",
+      "marketCap": "$1,240,083,090",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
       "noOfEsts": "N/A"
+    },
+    {
+      "lastYearRptDt": "2/28/2024",
+      "lastYearEPS": "$0.64",
+      "time": "time-not-supplied",
+      "symbol": "DQ",
+      "name": "DAQO New Energy Corp.",
+      "marketCap": "$1,209,916,576",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "($0.61)",
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "3/06/2024",
@@ -1569,21 +1602,10 @@
       "time": "time-after-hours",
       "symbol": "HG",
       "name": "Hamilton Insurance Group, Ltd.",
-      "marketCap": "$1,188,927,958",
+      "marketCap": "$1,203,051,292",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.76",
       "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "2/28/2024",
-      "lastYearEPS": "($0.54)",
-      "time": "time-not-supplied",
-      "symbol": "AMC",
-      "name": "AMC Entertainment Holdings, Inc.",
-      "marketCap": "$1,187,147,848",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "($0.16)",
-      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "2/21/2024",
@@ -1591,21 +1613,21 @@
       "time": "time-after-hours",
       "symbol": "ECPG",
       "name": "Encore Capital Group Inc",
-      "marketCap": "$1,166,559,168",
+      "marketCap": "$1,192,145,763",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$1.55",
       "noOfEsts": "4"
     },
     {
       "lastYearRptDt": "2/28/2024",
-      "lastYearEPS": "$0.54",
+      "lastYearEPS": "($0.54)",
       "time": "time-not-supplied",
-      "symbol": "BBSI",
-      "name": "Barrett Business Services, Inc.",
-      "marketCap": "$1,122,814,851",
+      "symbol": "AMC",
+      "name": "AMC Entertainment Holdings, Inc.",
+      "marketCap": "$1,175,877,457",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.63",
-      "noOfEsts": "2"
+      "epsForecast": "($0.16)",
+      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "2/28/2024",
@@ -1613,10 +1635,21 @@
       "time": "time-not-supplied",
       "symbol": "JBI",
       "name": "Janus International Group, Inc.",
-      "marketCap": "$1,120,132,951",
+      "marketCap": "$1,151,169,380",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.01",
       "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "2/28/2024",
+      "lastYearEPS": "$0.54",
+      "time": "time-not-supplied",
+      "symbol": "BBSI",
+      "name": "Barrett Business Services, Inc.",
+      "marketCap": "$1,133,708,411",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$0.63",
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "2/28/2024",
@@ -1624,7 +1657,7 @@
       "time": "time-not-supplied",
       "symbol": "TPB",
       "name": "Turning Point Brands, Inc.",
-      "marketCap": "$1,104,293,236",
+      "marketCap": "$1,092,967,152",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.64",
       "noOfEsts": "2"
@@ -1635,10 +1668,21 @@
       "time": "time-pre-market",
       "symbol": "COMM",
       "name": "CommScope Holding Company, Inc.",
-      "marketCap": "$1,083,711,485",
+      "marketCap": "$1,068,599,970",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "($0.04)",
       "noOfEsts": "4"
+    },
+    {
+      "lastYearRptDt": "2/23/2024",
+      "lastYearEPS": "$0.75",
+      "time": "time-pre-market",
+      "symbol": "BLMN",
+      "name": "Bloomin' Brands, Inc.",
+      "marketCap": "$1,060,538,400",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$0.38",
+      "noOfEsts": "7"
     },
     {
       "lastYearRptDt": "2/28/2024",
@@ -1646,32 +1690,10 @@
       "time": "time-not-supplied",
       "symbol": "GOGO",
       "name": "Gogo Inc.",
-      "marketCap": "$1,028,874,175",
+      "marketCap": "$1,037,678,721",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.03",
       "noOfEsts": "5"
-    },
-    {
-      "lastYearRptDt": "2/28/2024",
-      "lastYearEPS": "$0.81",
-      "time": "time-after-hours",
-      "symbol": "SBGI",
-      "name": "Sinclair, Inc.",
-      "marketCap": "$990,995,352",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$1.98",
-      "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "2/28/2024",
-      "lastYearEPS": "($0.21)",
-      "time": "time-not-supplied",
-      "symbol": "BFLY",
-      "name": "Butterfly Network, Inc.",
-      "marketCap": "$975,824,175",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "($0.10)",
-      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "2/28/2024",
@@ -1679,7 +1701,7 @@
       "time": "time-not-supplied",
       "symbol": "PNTG",
       "name": "The Pennant Group, Inc.",
-      "marketCap": "$957,976,011",
+      "marketCap": "$973,776,261",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.19",
       "noOfEsts": "2"
@@ -1690,9 +1712,31 @@
       "time": "time-after-hours",
       "symbol": "AMSF",
       "name": "AMERISAFE, Inc.",
-      "marketCap": "$957,070,492",
+      "marketCap": "$969,452,973",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.60",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "2/28/2024",
+      "lastYearEPS": "($0.21)",
+      "time": "time-not-supplied",
+      "symbol": "BFLY",
+      "name": "Butterfly Network, Inc.",
+      "marketCap": "$958,779,211",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "($0.10)",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "2/28/2024",
+      "lastYearEPS": "$0.81",
+      "time": "time-after-hours",
+      "symbol": "SBGI",
+      "name": "Sinclair, Inc.",
+      "marketCap": "$957,120,846",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$1.98",
       "noOfEsts": "2"
     },
     {
@@ -1701,21 +1745,10 @@
       "time": "time-not-supplied",
       "symbol": "ACEL",
       "name": "Accel Entertainment, Inc.",
-      "marketCap": "$951,890,362",
+      "marketCap": "$947,773,190",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.19",
       "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "2/28/2024",
-      "lastYearEPS": "$0.05",
-      "time": "time-not-supplied",
-      "symbol": "FIGS",
-      "name": "FIGS, Inc.",
-      "marketCap": "$937,352,734",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0",
-      "noOfEsts": "6"
     },
     {
       "lastYearRptDt": "3/06/2024",
@@ -1723,10 +1756,21 @@
       "time": "time-pre-market",
       "symbol": "TRIN",
       "name": "Trinity Capital Inc.",
-      "marketCap": "$911,861,985",
+      "marketCap": "$941,314,891",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.53",
-      "noOfEsts": "3"
+      "epsForecast": "$0.59",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "2/28/2024",
+      "lastYearEPS": "$0.05",
+      "time": "time-not-supplied",
+      "symbol": "FIGS",
+      "name": "FIGS, Inc.",
+      "marketCap": "$939,050,837",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$0",
+      "noOfEsts": "6"
     },
     {
       "lastYearRptDt": "2/28/2024",
@@ -1734,29 +1778,18 @@
       "time": "time-after-hours",
       "symbol": "FWRD",
       "name": "Forward Air Corporation",
-      "marketCap": "$910,905,770",
+      "marketCap": "$915,828,019",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.21",
       "noOfEsts": "3"
     },
     {
-      "lastYearRptDt": "2/26/2024",
-      "lastYearEPS": "$0.42",
-      "time": "time-after-hours",
-      "symbol": "CAPL",
-      "name": "CrossAmerica Partners LP",
-      "marketCap": "$865,562,152",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.04",
-      "noOfEsts": "1"
-    },
-    {
       "lastYearRptDt": "2/28/2024",
       "lastYearEPS": "$0.05",
-      "time": "time-not-supplied",
+      "time": "time-after-hours",
       "symbol": "STKL",
       "name": "SunOpta, Inc.",
-      "marketCap": "$862,285,377",
+      "marketCap": "$864,622,193",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.05",
       "noOfEsts": "1"
@@ -1767,10 +1800,21 @@
       "time": "time-not-supplied",
       "symbol": "ESTA",
       "name": "Establishment Labs Holdings Inc.",
-      "marketCap": "$860,234,955",
+      "marketCap": "$862,334,796",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "($0.62)",
       "noOfEsts": "3"
+    },
+    {
+      "lastYearRptDt": "2/26/2024",
+      "lastYearEPS": "$0.42",
+      "time": "time-after-hours",
+      "symbol": "CAPL",
+      "name": "CrossAmerica Partners LP",
+      "marketCap": "$862,137,950",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$0.04",
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "2/21/2024",
@@ -1778,7 +1822,7 @@
       "time": "time-after-hours",
       "symbol": "ERII",
       "name": "Energy Recovery, Inc.",
-      "marketCap": "$844,093,047",
+      "marketCap": "$850,461,376",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.37",
       "noOfEsts": "2"
@@ -1789,21 +1833,10 @@
       "time": "time-not-supplied",
       "symbol": "DMRC",
       "name": "Digimarc Corporation",
-      "marketCap": "$794,789,338",
+      "marketCap": "$793,716,748",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "8"
-    },
-    {
-      "lastYearRptDt": "2/28/2024",
-      "lastYearEPS": "($0.10)",
-      "time": "time-not-supplied",
-      "symbol": "CSTL",
-      "name": "Castle Biosciences, Inc.",
-      "marketCap": "$788,405,523",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.11",
-      "noOfEsts": "1"
+      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "2/28/2024",
@@ -1811,9 +1844,20 @@
       "time": "time-not-supplied",
       "symbol": "DAKT",
       "name": "Daktronics, Inc.",
-      "marketCap": "$787,959,949",
+      "marketCap": "$790,309,263",
       "fiscalQuarterEnding": "Jan/2025",
       "epsForecast": "$0.09",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "2/28/2024",
+      "lastYearEPS": "($0.10)",
+      "time": "time-not-supplied",
+      "symbol": "CSTL",
+      "name": "Castle Biosciences, Inc.",
+      "marketCap": "$787,565,304",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$0.11",
       "noOfEsts": "1"
     },
     {
@@ -1822,7 +1866,7 @@
       "time": "time-not-supplied",
       "symbol": "QURE",
       "name": "uniQure N.V.",
-      "marketCap": "$775,503,357",
+      "marketCap": "$786,226,848",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "($0.44)",
       "noOfEsts": "5"
@@ -1830,13 +1874,24 @@
     {
       "lastYearRptDt": "N/A",
       "lastYearEPS": "$0.90",
-      "time": "time-not-supplied",
+      "time": "time-pre-market",
       "symbol": "ASTE",
       "name": "Astec Industries, Inc.",
-      "marketCap": "$758,387,369",
+      "marketCap": "$767,508,083",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "8"
+      "noOfEsts": "3"
+    },
+    {
+      "lastYearRptDt": "2/28/2024",
+      "lastYearEPS": "($0.59)",
+      "time": "time-not-supplied",
+      "symbol": "MNMD",
+      "name": "Mind Medicine (MindMed) Inc.",
+      "marketCap": "$760,556,200",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "($0.33)",
+      "noOfEsts": "4"
     },
     {
       "lastYearRptDt": "N/A",
@@ -1844,10 +1899,10 @@
       "time": "time-not-supplied",
       "symbol": "TIPT",
       "name": "Tiptree Inc.",
-      "marketCap": "$748,527,927",
+      "marketCap": "$757,050,770",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "8"
+      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "2/28/2024",
@@ -1855,7 +1910,7 @@
       "time": "time-not-supplied",
       "symbol": "LIND",
       "name": "Lindblad Expeditions Holdings Inc. ",
-      "marketCap": "$673,122,720",
+      "marketCap": "$678,573,106",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "($0.29)",
       "noOfEsts": "2"
@@ -1866,32 +1921,10 @@
       "time": "time-after-hours",
       "symbol": "VINP",
       "name": "Vinci Partners Investments Ltd.",
-      "marketCap": "$668,119,429",
+      "marketCap": "$672,011,387",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.16",
       "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "2/28/2024",
-      "lastYearEPS": "($0.59)",
-      "time": "time-not-supplied",
-      "symbol": "MNMD",
-      "name": "Mind Medicine (MindMed) Inc.",
-      "marketCap": "$665,283,100",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "($0.33)",
-      "noOfEsts": "4"
-    },
-    {
-      "lastYearRptDt": "2/28/2024",
-      "lastYearEPS": "$0.92",
-      "time": "time-not-supplied",
-      "symbol": "ODP",
-      "name": "The ODP Corporation",
-      "marketCap": "$651,757,718",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.80",
-      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "2/28/2024",
@@ -1899,10 +1932,21 @@
       "time": "time-not-supplied",
       "symbol": "ATRO",
       "name": "Astronics Corporation",
-      "marketCap": "$649,885,902",
+      "marketCap": "$655,527,885",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.21",
       "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "2/28/2024",
+      "lastYearEPS": "$0.92",
+      "time": "time-not-supplied",
+      "symbol": "ODP",
+      "name": "The ODP Corporation",
+      "marketCap": "$650,251,808",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$0.80",
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "N/A",
@@ -1910,21 +1954,10 @@
       "time": "time-not-supplied",
       "symbol": "FLX",
       "name": "BingEx Limited",
-      "marketCap": "$621,424,212",
+      "marketCap": "$617,163,017",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "8"
-    },
-    {
-      "lastYearRptDt": "2/28/2024",
-      "lastYearEPS": "$0.67",
-      "time": "time-not-supplied",
-      "symbol": "KOP",
-      "name": "Koppers Holdings Inc.",
-      "marketCap": "$598,136,035",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.91",
-      "noOfEsts": "2"
+      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "2/28/2024",
@@ -1932,10 +1965,21 @@
       "time": "time-not-supplied",
       "symbol": "DH",
       "name": "Definitive Healthcare Corp.",
-      "marketCap": "$594,942,569",
+      "marketCap": "$603,029,167",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.03",
       "noOfEsts": "6"
+    },
+    {
+      "lastYearRptDt": "2/28/2024",
+      "lastYearEPS": "$0.67",
+      "time": "time-not-supplied",
+      "symbol": "KOP",
+      "name": "Koppers Holdings Inc.",
+      "marketCap": "$592,258,046",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$0.91",
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "2/28/2024",
@@ -1943,9 +1987,31 @@
       "time": "time-not-supplied",
       "symbol": "CLMB",
       "name": "Climb Global Solutions, Inc.",
-      "marketCap": "$578,935,299",
+      "marketCap": "$583,726,360",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$1.12",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "2/28/2024",
+      "lastYearEPS": "$0.16",
+      "time": "time-not-supplied",
+      "symbol": "FPI",
+      "name": "Farmland Partners Inc.",
+      "marketCap": "$568,437,116",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$0.15",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "2/28/2024",
+      "lastYearEPS": "($0.12)",
+      "time": "time-not-supplied",
+      "symbol": "LAB",
+      "name": "Standard BioTools Inc.",
+      "marketCap": "$562,110,784",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "($0.05)",
       "noOfEsts": "1"
     },
     {
@@ -1954,21 +2020,10 @@
       "time": "time-not-supplied",
       "symbol": "ECX",
       "name": "ECARX Holdings Inc.",
-      "marketCap": "$564,376,441",
+      "marketCap": "$547,478,943",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
       "noOfEsts": "N/A"
-    },
-    {
-      "lastYearRptDt": "2/28/2024",
-      "lastYearEPS": "$0.16",
-      "time": "time-not-supplied",
-      "symbol": "FPI",
-      "name": "Farmland Partners Inc.",
-      "marketCap": "$559,284,315",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.15",
-      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "2/28/2024",
@@ -1976,32 +2031,10 @@
       "time": "time-not-supplied",
       "symbol": "BKSY",
       "name": "BlackSky Technology Inc.",
-      "marketCap": "$544,787,131",
+      "marketCap": "$543,555,974",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "($0.28)",
       "noOfEsts": "3"
-    },
-    {
-      "lastYearRptDt": "2/28/2024",
-      "lastYearEPS": "($0.12)",
-      "time": "time-not-supplied",
-      "symbol": "LAB",
-      "name": "Standard BioTools Inc.",
-      "marketCap": "$543,497,845",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "($0.05)",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "2/28/2024",
-      "lastYearEPS": "$0.06",
-      "time": "time-not-supplied",
-      "symbol": "DCGO",
-      "name": "DocGo Inc.",
-      "marketCap": "$505,150,024",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.04",
-      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "2/28/2024",
@@ -2009,9 +2042,20 @@
       "time": "time-not-supplied",
       "symbol": "FLGT",
       "name": "Fulgent Genetics, Inc.",
-      "marketCap": "$501,011,964",
+      "marketCap": "$515,081,897",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "($0.40)",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "2/28/2024",
+      "lastYearEPS": "$0.06",
+      "time": "time-not-supplied",
+      "symbol": "DCGO",
+      "name": "DocGo Inc.",
+      "marketCap": "$506,170,529",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$0.04",
       "noOfEsts": "2"
     },
     {
@@ -2027,25 +2071,36 @@
     },
     {
       "lastYearRptDt": "2/28/2024",
+      "lastYearEPS": "($1.34)",
+      "time": "time-not-supplied",
+      "symbol": "KROS",
+      "name": "Keros Therapeutics, Inc.",
+      "marketCap": "$450,847,462",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "($0.93)",
+      "noOfEsts": "10"
+    },
+    {
+      "lastYearRptDt": "2/28/2024",
       "lastYearEPS": "$1.40",
       "time": "time-not-supplied",
       "symbol": "DIN",
       "name": "Dine Brands Global, Inc.",
-      "marketCap": "$454,344,895",
+      "marketCap": "$442,605,111",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$1.36",
       "noOfEsts": "5"
     },
     {
-      "lastYearRptDt": "2/28/2024",
-      "lastYearEPS": "($1.34)",
-      "time": "time-not-supplied",
-      "symbol": "KROS",
-      "name": "Keros Therapeutics, Inc.",
-      "marketCap": "$445,581,499",
+      "lastYearRptDt": "2/27/2024",
+      "lastYearEPS": "$0.19",
+      "time": "time-pre-market",
+      "symbol": "CLDT",
+      "name": "Chatham Lodging Trust (REIT)",
+      "marketCap": "$425,040,865",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "($0.93)",
-      "noOfEsts": "10"
+      "epsForecast": "$0.18",
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "2/28/2024",
@@ -2053,7 +2108,7 @@
       "time": "time-not-supplied",
       "symbol": "XPER",
       "name": "Xperi Inc.",
-      "marketCap": "$408,851,597",
+      "marketCap": "$418,265,943",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "($0.06)",
       "noOfEsts": "1"
@@ -2064,10 +2119,10 @@
       "time": "time-after-hours",
       "symbol": "DHIL",
       "name": "Diamond Hill Investment Group, Inc.",
-      "marketCap": "$402,950,712",
+      "marketCap": "$406,979,947",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "8"
+      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "2/28/2024",
@@ -2075,7 +2130,7 @@
       "time": "time-not-supplied",
       "symbol": "ZIMV",
       "name": "ZimVie Inc.",
-      "marketCap": "$381,968,374",
+      "marketCap": "$386,384,194",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
       "noOfEsts": "N/A"
@@ -2086,10 +2141,43 @@
       "time": "time-not-supplied",
       "symbol": "RVNC",
       "name": "Revance Therapeutics, Inc.",
-      "marketCap": "$381,844,692",
+      "marketCap": "$382,893,716",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "($0.31)",
       "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "2/28/2024",
+      "lastYearEPS": "($0.46)",
+      "time": "time-not-supplied",
+      "symbol": "PSNL",
+      "name": "Personalis, Inc.",
+      "marketCap": "$376,554,287",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "($0.25)",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "2/22/2024",
+      "lastYearEPS": "($0.21)",
+      "time": "time-after-hours",
+      "symbol": "HCAT",
+      "name": "Health Catalyst, Inc",
+      "marketCap": "$358,392,705",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "($0.06)",
+      "noOfEsts": "4"
+    },
+    {
+      "lastYearRptDt": "2/28/2024",
+      "lastYearEPS": "($0.16)",
+      "time": "time-not-supplied",
+      "symbol": "MBI",
+      "name": "MBIA, Inc.",
+      "marketCap": "$355,679,852",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "($0.11)",
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "2/28/2024",
@@ -2097,7 +2185,7 @@
       "time": "time-not-supplied",
       "symbol": "CDXS",
       "name": "Codexis, Inc.",
-      "marketCap": "$362,131,454",
+      "marketCap": "$355,621,226",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "($0.02)",
       "noOfEsts": "3"
@@ -2108,32 +2196,10 @@
       "time": "time-not-supplied",
       "symbol": "HLLY",
       "name": "Holley Inc.",
-      "marketCap": "$359,391,099",
+      "marketCap": "$354,599,217",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.02",
       "noOfEsts": "6"
-    },
-    {
-      "lastYearRptDt": "2/28/2024",
-      "lastYearEPS": "($0.46)",
-      "time": "time-not-supplied",
-      "symbol": "PSNL",
-      "name": "Personalis, Inc.",
-      "marketCap": "$356,772,824",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "($0.25)",
-      "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "2/28/2024",
-      "lastYearEPS": "($0.16)",
-      "time": "time-not-supplied",
-      "symbol": "MBI",
-      "name": "MBIA, Inc.",
-      "marketCap": "$353,638,648",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "($0.11)",
-      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "3/05/2024",
@@ -2141,7 +2207,7 @@
       "time": "time-after-hours",
       "symbol": "NEWT",
       "name": "NewtekOne, Inc.",
-      "marketCap": "$345,648,435",
+      "marketCap": "$341,439,626",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.65",
       "noOfEsts": "3"
@@ -2152,7 +2218,7 @@
       "time": "time-not-supplied",
       "symbol": "MVIS",
       "name": "Microvision, Inc.",
-      "marketCap": "$343,858,542",
+      "marketCap": "$335,097,815",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
       "noOfEsts": "N/A"
@@ -2163,21 +2229,10 @@
       "time": "time-not-supplied",
       "symbol": "ORN",
       "name": "Orion Group Holdings, Inc.",
-      "marketCap": "$303,041,594",
+      "marketCap": "$316,657,070",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.15",
       "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "2/28/2024",
-      "lastYearEPS": "$1.25",
-      "time": "time-not-supplied",
-      "symbol": "VYGR",
-      "name": "Voyager Therapeutics, Inc.",
-      "marketCap": "$302,079,490",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "($0.34)",
-      "noOfEsts": "6"
     },
     {
       "lastYearRptDt": "N/A",
@@ -2185,32 +2240,21 @@
       "time": "time-not-supplied",
       "symbol": "CIX",
       "name": "CompX International Inc.",
-      "marketCap": "$300,080,048",
+      "marketCap": "$310,304,450",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "8"
+      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "2/28/2024",
-      "lastYearEPS": "($0.14)",
+      "lastYearEPS": "$1.25",
       "time": "time-not-supplied",
-      "symbol": "NAUT",
-      "name": "Nautilus Biotechnology, Inc.",
-      "marketCap": "$260,056,972",
+      "symbol": "VYGR",
+      "name": "Voyager Therapeutics, Inc.",
+      "marketCap": "$309,180,816",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "($0.16)",
-      "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "2/28/2024",
-      "lastYearEPS": "($0.18)",
-      "time": "time-not-supplied",
-      "symbol": "INVZ",
-      "name": "Innoviz Technologies Ltd.",
-      "marketCap": "$258,003,872",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "($0.14)",
-      "noOfEsts": "1"
+      "epsForecast": "($0.34)",
+      "noOfEsts": "6"
     },
     {
       "lastYearRptDt": "2/28/2024",
@@ -2218,7 +2262,7 @@
       "time": "time-pre-market",
       "symbol": "VLN",
       "name": "Valens Semiconductor Ltd.",
-      "marketCap": "$254,151,976",
+      "marketCap": "$266,651,253",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "($0.07)",
       "noOfEsts": "2"
@@ -2229,32 +2273,21 @@
       "time": "time-not-supplied",
       "symbol": "AVIR",
       "name": "Atea Pharmaceuticals, Inc.",
-      "marketCap": "$250,855,285",
+      "marketCap": "$263,524,744",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "($0.35)",
       "noOfEsts": "3"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.02",
-      "time": "time-not-supplied",
-      "symbol": "ICG",
-      "name": "Intchains Group Limited",
-      "marketCap": "$245,745,865",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "",
-      "noOfEsts": "8"
-    },
-    {
       "lastYearRptDt": "2/28/2024",
-      "lastYearEPS": "$0.24",
+      "lastYearEPS": "($0.14)",
       "time": "time-not-supplied",
-      "symbol": "TZOO",
-      "name": "Travelzoo",
-      "marketCap": "$239,865,611",
+      "symbol": "NAUT",
+      "name": "Nautilus Biotechnology, Inc.",
+      "marketCap": "$263,046,132",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.31",
-      "noOfEsts": "4"
+      "epsForecast": "($0.16)",
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "N/A",
@@ -2262,10 +2295,43 @@
       "time": "time-not-supplied",
       "symbol": "PDYN",
       "name": "Palladyne AI Corp.",
-      "marketCap": "$239,092,448",
+      "marketCap": "$258,063,259",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "8"
+      "noOfEsts": "3"
+    },
+    {
+      "lastYearRptDt": "2/28/2024",
+      "lastYearEPS": "$0.24",
+      "time": "time-not-supplied",
+      "symbol": "TZOO",
+      "name": "Travelzoo",
+      "marketCap": "$255,919,608",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$0.31",
+      "noOfEsts": "4"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "$0.02",
+      "time": "time-not-supplied",
+      "symbol": "ICG",
+      "name": "Intchains Group Limited",
+      "marketCap": "$247,544,006",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "",
+      "noOfEsts": "3"
+    },
+    {
+      "lastYearRptDt": "2/28/2024",
+      "lastYearEPS": "($0.18)",
+      "time": "time-not-supplied",
+      "symbol": "INVZ",
+      "name": "Innoviz Technologies Ltd.",
+      "marketCap": "$244,772,905",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "($0.14)",
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "2/28/2024",
@@ -2273,32 +2339,10 @@
       "time": "time-not-supplied",
       "symbol": "PERF",
       "name": "Perfect Corp.",
-      "marketCap": "$224,067,076",
+      "marketCap": "$222,030,102",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.01",
       "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.98",
-      "time": "time-not-supplied",
-      "symbol": "RCKY",
-      "name": "Rocky Brands, Inc.",
-      "marketCap": "$188,506,956",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "",
-      "noOfEsts": "8"
-    },
-    {
-      "lastYearRptDt": "2/29/2024",
-      "lastYearEPS": "$0.04",
-      "time": "time-after-hours",
-      "symbol": "BHR",
-      "name": "Braemar Hotels & Resorts Inc.",
-      "marketCap": "$182,270,844",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.08",
-      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "2/28/2024",
@@ -2306,21 +2350,32 @@
       "time": "time-not-supplied",
       "symbol": "JRVR",
       "name": "James River Group Holdings, Ltd.",
-      "marketCap": "$179,690,006",
+      "marketCap": "$184,229,543",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "($0.33)",
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "2/28/2024",
-      "lastYearEPS": "($0.26)",
-      "time": "time-not-supplied",
-      "symbol": "MX",
-      "name": "Magnachip Semiconductor Corporation",
-      "marketCap": "$171,504,829",
+      "lastYearRptDt": "2/29/2024",
+      "lastYearEPS": "$0.04",
+      "time": "time-after-hours",
+      "symbol": "BHR",
+      "name": "Braemar Hotels & Resorts Inc.",
+      "marketCap": "$178,279,512",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "($0.27)",
-      "noOfEsts": "2"
+      "epsForecast": "$0.08",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "$0.98",
+      "time": "time-not-supplied",
+      "symbol": "RCKY",
+      "name": "Rocky Brands, Inc.",
+      "marketCap": "$177,028,082",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "",
+      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "2/28/2024",
@@ -2328,20 +2383,42 @@
       "time": "time-not-supplied",
       "symbol": "LYEL",
       "name": "Lyell Immunopharma, Inc.",
-      "marketCap": "$168,286,264",
+      "marketCap": "$173,116,780",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "($0.18)",
       "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "2/28/2024",
-      "lastYearEPS": "($0.09)",
+      "lastYearEPS": "($0.26)",
       "time": "time-not-supplied",
-      "symbol": "LNZA",
-      "name": "LanzaTech Global, Inc.",
-      "marketCap": "$166,512,712",
+      "symbol": "MX",
+      "name": "Magnachip Semiconductor Corporation",
+      "marketCap": "$169,644,690",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "($0.16)",
+      "epsForecast": "($0.27)",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "2/28/2024",
+      "lastYearEPS": "($0.39)",
+      "time": "time-not-supplied",
+      "symbol": "NEON",
+      "name": "Neonode Inc.",
+      "marketCap": "$155,745,516",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "($0.18)",
+      "time": "time-not-supplied",
+      "symbol": "LTBR",
+      "name": "Lightbridge Corporation",
+      "marketCap": "$149,312,561",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "",
       "noOfEsts": "3"
     },
     {
@@ -2350,32 +2427,21 @@
       "time": "time-not-supplied",
       "symbol": "DIBS",
       "name": "1stdibs.com, Inc.",
-      "marketCap": "$151,163,985",
+      "marketCap": "$148,608,072",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "($0.17)",
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($0.18)",
-      "time": "time-not-supplied",
-      "symbol": "LTBR",
-      "name": "Lightbridge Corporation",
-      "marketCap": "$151,046,921",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "",
-      "noOfEsts": "8"
-    },
-    {
       "lastYearRptDt": "2/28/2024",
-      "lastYearEPS": "($0.39)",
+      "lastYearEPS": "($0.09)",
       "time": "time-not-supplied",
-      "symbol": "NEON",
-      "name": "Neonode Inc.",
-      "marketCap": "$147,186,225",
+      "symbol": "LNZA",
+      "name": "LanzaTech Global, Inc.",
+      "marketCap": "$144,064,448",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "",
-      "noOfEsts": "N/A"
+      "epsForecast": "($0.16)",
+      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "2/28/2024",
@@ -2383,9 +2449,20 @@
       "time": "time-not-supplied",
       "symbol": "ACR",
       "name": "ACRES Commercial Realty Corp.",
-      "marketCap": "$143,132,779",
+      "marketCap": "$140,889,076",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.15",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "2/28/2024",
+      "lastYearEPS": "$0.09",
+      "time": "time-not-supplied",
+      "symbol": "MRAM",
+      "name": "Everspin Technologies, Inc.",
+      "marketCap": "$127,437,895",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$0.03",
       "noOfEsts": "1"
     },
     {
@@ -2394,32 +2471,10 @@
       "time": "time-not-supplied",
       "symbol": "SRI",
       "name": "Stoneridge, Inc.",
-      "marketCap": "$129,026,410",
+      "marketCap": "$126,534,484",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
       "noOfEsts": "N/A"
-    },
-    {
-      "lastYearRptDt": "2/28/2024",
-      "lastYearEPS": "$0.09",
-      "time": "time-not-supplied",
-      "symbol": "MRAM",
-      "name": "Everspin Technologies, Inc.",
-      "marketCap": "$126,778,734",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.03",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "2/28/2024",
-      "lastYearEPS": "($0.26)",
-      "time": "time-not-supplied",
-      "symbol": "LPSN",
-      "name": "LivePerson, Inc.",
-      "marketCap": "$125,371,956",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "($0.09)",
-      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "2/28/2024",
@@ -2427,10 +2482,21 @@
       "time": "time-not-supplied",
       "symbol": "VCSA",
       "name": "Vacasa, Inc.",
-      "marketCap": "$121,144,927",
+      "marketCap": "$120,917,211",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "($3.11)",
       "noOfEsts": "3"
+    },
+    {
+      "lastYearRptDt": "2/28/2024",
+      "lastYearEPS": "($0.26)",
+      "time": "time-not-supplied",
+      "symbol": "LPSN",
+      "name": "LivePerson, Inc.",
+      "marketCap": "$119,012,509",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "($0.09)",
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "2/28/2024",
@@ -2438,7 +2504,7 @@
       "time": "time-not-supplied",
       "symbol": "SAVA",
       "name": "Cassava Sciences, Inc.",
-      "marketCap": "$114,984,035",
+      "marketCap": "$117,389,559",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "($0.68)",
       "noOfEsts": "1"
@@ -2449,7 +2515,7 @@
       "time": "time-not-supplied",
       "symbol": "EDIT",
       "name": "Editas Medicine, Inc.",
-      "marketCap": "$106,487,047",
+      "marketCap": "$113,090,895",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "($0.39)",
       "noOfEsts": "6"
@@ -2460,20 +2526,9 @@
       "time": "time-pre-market",
       "symbol": "WBX",
       "name": "Wallbox N.V.",
-      "marketCap": "$99,112,829",
+      "marketCap": "$97,770,064",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "8"
-    },
-    {
-      "lastYearRptDt": "2/28/2024",
-      "lastYearEPS": "($0.21)",
-      "time": "time-not-supplied",
-      "symbol": "STEM",
-      "name": "Stem, Inc.",
-      "marketCap": "$96,952,578",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "($0.16)",
       "noOfEsts": "3"
     },
     {
@@ -2482,10 +2537,21 @@
       "time": "time-not-supplied",
       "symbol": "EVGR",
       "name": "Evergreen Corporation",
-      "marketCap": "$96,578,885",
+      "marketCap": "$96,418,321",
       "fiscalQuarterEnding": "Nov/2024",
       "epsForecast": "",
-      "noOfEsts": "8"
+      "noOfEsts": "3"
+    },
+    {
+      "lastYearRptDt": "2/28/2024",
+      "lastYearEPS": "($0.21)",
+      "time": "time-not-supplied",
+      "symbol": "STEM",
+      "name": "Stem, Inc.",
+      "marketCap": "$92,802,350",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "($0.16)",
+      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "2/28/2024",
@@ -2493,7 +2559,7 @@
       "time": "time-not-supplied",
       "symbol": "RRGB",
       "name": "Red Robin Gourmet Burgers, Inc.",
-      "marketCap": "$93,715,148",
+      "marketCap": "$92,137,452",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "($0.53)",
       "noOfEsts": "3"
@@ -2504,10 +2570,21 @@
       "time": "time-after-hours",
       "symbol": "CCIF",
       "name": "Carlyle Credit Income Fund",
-      "marketCap": "$90,607,205",
+      "marketCap": "$90,723,817",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.34",
       "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "2/28/2024",
+      "lastYearEPS": "($0.16)",
+      "time": "time-not-supplied",
+      "symbol": "MRSN",
+      "name": "Mersana Therapeutics, Inc.",
+      "marketCap": "$88,684,275",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "($0.16)",
+      "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "2/28/2024",
@@ -2515,7 +2592,7 @@
       "time": "time-not-supplied",
       "symbol": "LODE",
       "name": "Comstock Inc.",
-      "marketCap": "$81,650,077",
+      "marketCap": "$77,193,013",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "($0.02)",
       "noOfEsts": "1"
@@ -2526,21 +2603,10 @@
       "time": "time-not-supplied",
       "symbol": "WW",
       "name": "WW International, Inc. ",
-      "marketCap": "$75,590,889",
+      "marketCap": "$71,869,246",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "($0.10)",
       "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "2/28/2024",
-      "lastYearEPS": "($0.16)",
-      "time": "time-not-supplied",
-      "symbol": "MRSN",
-      "name": "Mersana Therapeutics, Inc.",
-      "marketCap": "$74,737,409",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "($0.16)",
-      "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "N/A",
@@ -2548,10 +2614,10 @@
       "time": "time-not-supplied",
       "symbol": "CCEL",
       "name": "Cryo-Cell International, Inc.",
-      "marketCap": "$63,207,326",
+      "marketCap": "$64,174,785",
       "fiscalQuarterEnding": "Nov/2024",
       "epsForecast": "",
-      "noOfEsts": "8"
+      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "2/28/2024",
@@ -2559,7 +2625,7 @@
       "time": "time-not-supplied",
       "symbol": "RPTX",
       "name": "Repare Therapeutics Inc.",
-      "marketCap": "$50,587,742",
+      "marketCap": "$56,114,134",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "($0.77)",
       "noOfEsts": "3"
@@ -2570,7 +2636,7 @@
       "time": "time-not-supplied",
       "symbol": "SNSE",
       "name": "Sensei Biotherapeutics, Inc.",
-      "marketCap": "$12,072,661",
+      "marketCap": "$12,047,636",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "($0.27)",
       "noOfEsts": "2"
@@ -2581,7 +2647,7 @@
       "time": "time-not-supplied",
       "symbol": "PRTG",
       "name": "Portage Biotech Inc.",
-      "marketCap": "$4,666,332",
+      "marketCap": "$4,477,581",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
       "noOfEsts": "N/A"
