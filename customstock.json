@@ -1,20 +1,5 @@
 [
     {
-        "symbol": "A",
-        "companyName": "安捷伦科技",
-        "industry": "诊断与研究"
-    },
-    {
-        "symbol": "AAN",
-        "companyName": "Aaron's, Inc.",
-        "industry": "租赁服务"
-    },
-    {
-        "symbol": "AAP",
-        "companyName": "Advance Auto Parts",
-        "industry": "专业零售"
-    },
-    {
         "symbol": "AAPL",
         "companyName": "苹果",
         "industry": "消费电子品"
@@ -25,59 +10,9 @@
         "industry": "药品制造商 - 一般"
     },
     {
-        "symbol": "ABCB",
-        "companyName": "ABC银行",
-        "industry": "银行 - 地区性"
-    },
-    {
-        "symbol": "ABEV",
-        "companyName": "Ambev SA",
-        "industry": "饮料 - 啤酒"
-    },
-    {
-        "symbol": "ABG",
-        "companyName": "阿斯伯里汽车",
-        "industry": "汽车和卡车经销权"
-    },
-    {
-        "symbol": "ABM",
-        "companyName": "反导工业",
-        "industry": "专业商务服务"
-    },
-    {
-        "symbol": "ABNB",
-        "companyName": "爱彼迎",
-        "industry": "旅游服务"
-    },
-    {
-        "symbol": "ABR",
-        "companyName": "阿伯房地产信托",
-        "industry": "房地产投资信托 - 抵押"
-    },
-    {
         "symbol": "ABT",
         "companyName": "雅培",
         "industry": "医疗设备"
-    },
-    {
-        "symbol": "ACA",
-        "companyName": "Arcosa",
-        "industry": "工程建设"
-    },
-    {
-        "symbol": "ACGL",
-        "companyName": "艾奇资本",
-        "industry": "保险 - 多元化"
-    },
-    {
-        "symbol": "ACHC",
-        "companyName": "阿卡迪亚医疗保健",
-        "industry": "医疗设施"
-    },
-    {
-        "symbol": "ACIC",
-        "companyName": "American Coastal Insurance",
-        "industry": "保险 - 财产和伤亡"
     },
     {
         "symbol": "ACN",
@@ -85,18 +20,283 @@
         "industry": "信息技术服务"
     },
     {
-        "symbol": "ACVA",
-        "companyName": "ACV Auctions",
-        "industry": "汽车和卡车经销权"
+        "symbol": "AMZN",
+        "companyName": "亚马逊",
+        "industry": "互联网零售"
+    },
+    {
+        "symbol": "ASML",
+        "companyName": "阿斯麦",
+        "industry": "半导体设备与材料"
+    },
+    {
+        "symbol": "AVGO",
+        "companyName": "博通",
+        "industry": "半导体"
+    },
+    {
+        "symbol": "AXP",
+        "companyName": "美国运通",
+        "industry": "信贷服务"
+    },
+    {
+        "symbol": "AZN",
+        "companyName": "阿斯利康",
+        "industry": "药品制造商 - 一般"
+    },
+    {
+        "symbol": "BABA",
+        "companyName": "阿里巴巴",
+        "industry": "互联网零售"
+    },
+    {
+        "symbol": "BAC",
+        "companyName": "美国银行",
+        "industry": "银行 - 多元化"
+    },
+    {
+        "symbol": "BX",
+        "companyName": "黑石",
+        "industry": "资产管理"
+    },
+    {
+        "symbol": "COST",
+        "companyName": "好市多",
+        "industry": "折扣店"
+    },
+    {
+        "symbol": "CRM",
+        "companyName": "赛富时",
+        "industry": "软件 - 应用"
+    },
+    {
+        "symbol": "CSCO",
+        "companyName": "思科",
+        "industry": "通讯设备"
+    },
+    {
+        "symbol": "CVX",
+        "companyName": "雪佛龙",
+        "industry": "石油和天然气综合"
+    },
+    {
+        "symbol": "DIS",
+        "companyName": "迪士尼",
+        "industry": "娱乐"
+    },
+    {
+        "symbol": "GE",
+        "companyName": "GE航天航空",
+        "industry": "航空航天和国防"
+    },
+    {
+        "symbol": "GOOG",
+        "companyName": "谷歌-C",
+        "industry": "互联网内容与信息"
+    },
+    {
+        "symbol": "HD",
+        "companyName": "家得宝",
+        "industry": "家居装修零售"
+    },
+    {
+        "symbol": "IBM",
+        "companyName": "IBM Corp",
+        "industry": "信息技术服务"
+    },
+    {
+        "symbol": "ISRG",
+        "companyName": "直觉外科公司",
+        "industry": "医疗设备和用品"
+    },
+    {
+        "symbol": "JNJ",
+        "companyName": "强生",
+        "industry": "药品制造商 - 一般"
+    },
+    {
+        "symbol": "JPM",
+        "companyName": "摩根大通",
+        "industry": "银行 - 多元化"
+    },
+    {
+        "symbol": "KO",
+        "companyName": "可口可乐",
+        "industry": "饮料 - 非酒精饮料"
+    },
+    {
+        "symbol": "LIN",
+        "companyName": "林德气体",
+        "industry": "特种化学品"
+    },
+    {
+        "symbol": "LLY",
+        "companyName": "礼来",
+        "industry": "药品制造商 - 一般"
+    },
+    {
+        "symbol": "MA",
+        "companyName": "万事达",
+        "industry": "信贷服务"
+    },
+    {
+        "symbol": "MCD",
+        "companyName": "麦当劳",
+        "industry": "餐饮"
+    },
+    {
+        "symbol": "META",
+        "companyName": "Meta Platforms",
+        "industry": "互联网内容与信息"
+    },
+    {
+        "symbol": "MRK",
+        "companyName": "默沙东",
+        "industry": "药品制造商 - 一般"
+    },
+    {
+        "symbol": "MS",
+        "companyName": "摩根士丹利",
+        "industry": "资本市场"
+    },
+    {
+        "symbol": "MSFT",
+        "companyName": "微软",
+        "industry": "软件 - 基础架构"
+    },
+    {
+        "symbol": "NFLX",
+        "companyName": "奈飞",
+        "industry": "娱乐"
+    },
+    {
+        "symbol": "NOW",
+        "companyName": "ServiceNow",
+        "industry": "软件 - 应用"
+    },
+    {
+        "symbol": "NVDA",
+        "companyName": "英伟达",
+        "industry": "半导体"
+    },
+    {
+        "symbol": "NVO",
+        "companyName": "诺和诺德",
+        "industry": "药品制造商 - 一般"
+    },
+    {
+        "symbol": "NVS",
+        "companyName": "诺华制药",
+        "industry": "药品制造商 - 一般"
+    },
+    {
+        "symbol": "ORCL",
+        "companyName": "甲骨文",
+        "industry": "软件 - 基础架构"
+    },
+    {
+        "symbol": "PEP",
+        "companyName": "百事可乐",
+        "industry": "饮料 - 非酒精饮料"
+    },
+    {
+        "symbol": "PG",
+        "companyName": "宝洁",
+        "industry": "家用和个人产品"
+    },
+    {
+        "symbol": "PM",
+        "companyName": "菲利普莫里斯",
+        "industry": "烟草"
+    },
+    {
+        "symbol": "SAP",
+        "companyName": "SAP SE",
+        "industry": "软件 - 应用"
+    },
+    {
+        "symbol": "SONY",
+        "companyName": "索尼",
+        "industry": "消费电子品"
+    },
+    {
+        "symbol": "TMO",
+        "companyName": "赛默飞世尔",
+        "industry": "诊断与研究"
+    },
+    {
+        "symbol": "TMUS",
+        "companyName": "T-Mobile US",
+        "industry": "电信服务"
+    },
+    {
+        "symbol": "TSLA",
+        "companyName": "特斯拉",
+        "industry": "汽车制造商"
+    },
+    {
+        "symbol": "TSM",
+        "companyName": "台积电",
+        "industry": "半导体"
+    },
+    {
+        "symbol": "UNH",
+        "companyName": "联合健康",
+        "industry": "医疗计划"
+    },
+    {
+        "symbol": "V",
+        "companyName": "Visa",
+        "industry": "信贷服务"
+    },
+    {
+        "symbol": "WFC",
+        "companyName": "富国银行",
+        "industry": "银行 - 多元化"
+    },
+    {
+        "symbol": "WMT",
+        "companyName": "沃尔玛",
+        "industry": "折扣店"
+    },
+    {
+        "symbol": "XOM",
+        "companyName": "埃克森美孚",
+        "industry": "石油和天然气综合"
+    },
+    {
+        "symbol": "A",
+        "companyName": "安捷伦科技",
+        "industry": "诊断与研究"
+    },
+    {
+        "symbol": "AAL",
+        "companyName": "美国航空",
+        "industry": "航空公司"
+    },
+    {
+        "symbol": "ABEV",
+        "companyName": "Ambev SA",
+        "industry": "饮料 - 啤酒"
+    },
+    {
+        "symbol": "ABNB",
+        "companyName": "爱彼迎",
+        "industry": "旅游服务"
+    },
+    {
+        "symbol": "ACGL",
+        "companyName": "艾奇资本",
+        "industry": "保险 - 多元化"
+    },
+    {
+        "symbol": "ACI",
+        "companyName": "艾伯森",
+        "industry": "杂货商店"
     },
     {
         "symbol": "ADBE",
         "companyName": "Adobe",
-        "industry": "软件 - 基础架构"
-    },
-    {
-        "symbol": "ADEA",
-        "companyName": "Adeia",
         "industry": "软件 - 应用"
     },
     {
@@ -112,12 +312,7 @@
     {
         "symbol": "ADP",
         "companyName": "自动数据处理",
-        "industry": "人员配备和就业服务"
-    },
-    {
-        "symbol": "ADPT",
-        "companyName": "Adaptive Biotechnologies",
-        "industry": "生物技术"
+        "industry": "软件 - 应用"
     },
     {
         "symbol": "ADSK",
@@ -125,39 +320,14 @@
         "industry": "软件 - 应用"
     },
     {
-        "symbol": "ADT",
-        "companyName": "ADT Inc",
-        "industry": "安全与防护服务"
-    },
-    {
-        "symbol": "ADTN",
-        "companyName": "亚川",
-        "industry": "通讯设备"
-    },
-    {
         "symbol": "AEG",
         "companyName": "荷兰全球保险",
         "industry": "保险 - 多元化"
     },
     {
-        "symbol": "AEIS",
-        "companyName": "先进能源工业",
-        "industry": "电气设备及零件"
-    },
-    {
-        "symbol": "AEL",
-        "companyName": "美国股票投资寿险",
-        "industry": "保险 - 人寿"
-    },
-    {
         "symbol": "AEM",
         "companyName": "伊格尔矿业",
         "industry": "黄金"
-    },
-    {
-        "symbol": "AEO",
-        "companyName": "美鹰服饰",
-        "industry": "服装零售"
     },
     {
         "symbol": "AEP",
@@ -170,24 +340,14 @@
         "industry": "租赁服务"
     },
     {
-        "symbol": "AES",
-        "companyName": "AES发电",
-        "industry": "公用事业 - 多元化"
-    },
-    {
-        "symbol": "AFG",
-        "companyName": "美国金融",
-        "industry": "保险 - 财产和伤亡"
-    },
-    {
         "symbol": "AFL",
         "companyName": "美国家庭寿险",
         "industry": "保险 - 人寿"
     },
     {
-        "symbol": "AGCO",
-        "companyName": "爱科集团",
-        "industry": "农用及重型工程机械"
+        "symbol": "AFRM",
+        "companyName": "Affirm Holdings",
+        "industry": "软件 - 基础架构"
     },
     {
         "symbol": "AGI",
@@ -195,49 +355,9 @@
         "industry": "黄金"
     },
     {
-        "symbol": "AGL",
-        "companyName": "Agilon Health",
-        "industry": "医疗设施"
-    },
-    {
-        "symbol": "AGO",
-        "companyName": "Assured Guaranty",
-        "industry": "保险 - 专业"
-    },
-    {
-        "symbol": "AGRO",
-        "companyName": "Adecoagro",
-        "industry": "农产品"
-    },
-    {
-        "symbol": "AGS",
-        "companyName": "PlayAGS",
-        "industry": "博彩"
-    },
-    {
-        "symbol": "AGYS",
-        "companyName": "阿吉赛斯",
-        "industry": "软件 - 应用"
-    },
-    {
-        "symbol": "AHCO",
-        "companyName": "AdaptHealth",
-        "industry": "医疗设备"
-    },
-    {
-        "symbol": "AHH",
-        "companyName": "Armada Hoffler Properties",
-        "industry": "房地产投资信托 - 多元化"
-    },
-    {
         "symbol": "AIG",
         "companyName": "美国国际集团",
         "industry": "保险 - 多元化"
-    },
-    {
-        "symbol": "AIR",
-        "companyName": "AAR Corp",
-        "industry": "航空航天和国防"
     },
     {
         "symbol": "AJG",
@@ -245,9 +365,9 @@
         "industry": "保险经纪人"
     },
     {
-        "symbol": "AL",
-        "companyName": "航空租赁公司",
-        "industry": "租赁服务"
+        "symbol": "ALAB",
+        "companyName": "Astera Labs",
+        "industry": "半导体"
     },
     {
         "symbol": "ALC",
@@ -255,44 +375,9 @@
         "industry": "医疗设备和用品"
     },
     {
-        "symbol": "ALCC",
-        "companyName": "AltC Acquisition",
-        "industry": "空壳公司"
-    },
-    {
-        "symbol": "ALE",
-        "companyName": "阿里特",
-        "industry": "公用事业 - 多元化"
-    },
-    {
-        "symbol": "ALEX",
-        "companyName": "亚历山大与鲍德温公司",
-        "industry": "房地产投资信托 - 零售"
-    },
-    {
-        "symbol": "ALG",
-        "companyName": "阿拉莫",
-        "industry": "农用及重型工程机械"
-    },
-    {
         "symbol": "ALGN",
         "companyName": "艾利科技",
-        "industry": "医疗设备"
-    },
-    {
-        "symbol": "ALGT",
-        "companyName": "忠诚旅游",
-        "industry": "航空公司"
-    },
-    {
-        "symbol": "ALIT",
-        "companyName": "Alight",
-        "industry": "软件 - 应用"
-    },
-    {
-        "symbol": "ALK",
-        "companyName": "阿拉斯加航空",
-        "industry": "航空公司"
+        "industry": "医疗设备和用品"
     },
     {
         "symbol": "ALL",
@@ -315,38 +400,8 @@
         "industry": "生物技术"
     },
     {
-        "symbol": "ALRM",
-        "companyName": "Alarm.com",
-        "industry": "软件 - 应用"
-    },
-    {
-        "symbol": "ALSN",
-        "companyName": "艾里逊变速箱",
-        "industry": "汽车零件"
-    },
-    {
-        "symbol": "ALV",
-        "companyName": "奥托立夫",
-        "industry": "汽车零件"
-    },
-    {
-        "symbol": "ALVO",
-        "companyName": "Alvotech",
-        "industry": "药品制造商 - 专业和通用"
-    },
-    {
-        "symbol": "AM",
-        "companyName": "Antero Midstream",
-        "industry": "石油和天然气中游"
-    },
-    {
         "symbol": "AMAT",
         "companyName": "应用材料",
-        "industry": "半导体设备与材料"
-    },
-    {
-        "symbol": "AMBA",
-        "companyName": "安霸",
         "industry": "半导体设备与材料"
     },
     {
@@ -360,11 +415,6 @@
         "industry": "特种工业机械"
     },
     {
-        "symbol": "AMG",
-        "companyName": "Affiliated Managers",
-        "industry": "资产管理"
-    },
-    {
         "symbol": "AMGN",
         "companyName": "安进",
         "industry": "药品制造商 - 一般"
@@ -375,44 +425,9 @@
         "industry": "房地产投资信托 - 住宅"
     },
     {
-        "symbol": "AMKR",
-        "companyName": "艾马克技术",
-        "industry": "半导体设备与材料"
-    },
-    {
-        "symbol": "AMLX",
-        "companyName": "Amylyx Pharmaceuticals",
-        "industry": "生物技术"
-    },
-    {
-        "symbol": "AMN",
-        "companyName": "AMN医疗保健服务",
-        "industry": "医疗设施"
-    },
-    {
         "symbol": "AMP",
         "companyName": "阿莫斯莱斯金融",
         "industry": "资产管理"
-    },
-    {
-        "symbol": "AMPY",
-        "companyName": "Amplify Energy",
-        "industry": "石油和天然气勘探及生产"
-    },
-    {
-        "symbol": "AMR",
-        "companyName": "Alpha Metallurgical",
-        "industry": "石油和天然气勘探及生产"
-    },
-    {
-        "symbol": "AMRK",
-        "companyName": "A-Mark Precious Metals",
-        "industry": "资本市场"
-    },
-    {
-        "symbol": "AMSC",
-        "companyName": "美国超导",
-        "industry": "特种工业机械"
     },
     {
         "symbol": "AMT",
@@ -420,29 +435,9 @@
         "industry": "房地产投资信托 - 专业"
     },
     {
-        "symbol": "AMX",
-        "companyName": "美洲移动",
-        "industry": "电信服务"
-    },
-    {
-        "symbol": "AMZN",
-        "companyName": "亚马逊",
-        "industry": "互联网零售"
-    },
-    {
-        "symbol": "AN",
-        "companyName": "车之国公司",
-        "industry": "汽车和卡车经销权"
-    },
-    {
         "symbol": "ANET",
         "companyName": "Arista Networks",
         "industry": "电脑硬件"
-    },
-    {
-        "symbol": "ANF",
-        "companyName": "爱芬奇",
-        "industry": "服装零售"
     },
     {
         "symbol": "ANSS",
@@ -455,26 +450,6 @@
         "industry": "保险经纪人"
     },
     {
-        "symbol": "AORT",
-        "companyName": "Artivion",
-        "industry": "医疗设备"
-    },
-    {
-        "symbol": "AOS",
-        "companyName": "A.O.史密斯",
-        "industry": "特种工业机械"
-    },
-    {
-        "symbol": "AOSL",
-        "companyName": "阿尔法和欧米伽半导体",
-        "industry": "半导体"
-    },
-    {
-        "symbol": "APA",
-        "companyName": "阿帕奇石油",
-        "industry": "石油和天然气勘探及生产"
-    },
-    {
         "symbol": "APD",
         "companyName": "Air Products & Chemicals",
         "industry": "特种化学品"
@@ -485,13 +460,8 @@
         "industry": "工程建设"
     },
     {
-        "symbol": "APGE",
-        "companyName": "Apogee Therapeutics",
-        "industry": "生物技术"
-    },
-    {
         "symbol": "APH",
-        "companyName": "安诺电子",
+        "companyName": "安费诺",
         "industry": "电子元器件"
     },
     {
@@ -500,8 +470,8 @@
         "industry": "资产管理"
     },
     {
-        "symbol": "APPF",
-        "companyName": "Appfolio",
+        "symbol": "APP",
+        "companyName": "Applovin",
         "industry": "软件 - 应用"
     },
     {
@@ -510,19 +480,9 @@
         "industry": "汽车零件"
     },
     {
-        "symbol": "AQU",
-        "companyName": "Aquaron Acquisition Corp",
-        "industry": "空壳公司"
-    },
-    {
         "symbol": "AR",
         "companyName": "Antero Resources",
         "industry": "石油和天然气勘探及生产"
-    },
-    {
-        "symbol": "ARCH",
-        "companyName": "Arch Resources",
-        "industry": "焦练煤"
     },
     {
         "symbol": "ARE",
@@ -535,99 +495,19 @@
         "industry": "资产管理"
     },
     {
-        "symbol": "ARLP",
-        "companyName": "Alliance Resource",
-        "industry": "动力煤"
-    },
-    {
         "symbol": "ARM",
         "companyName": "Arm Holdings",
         "industry": "半导体"
     },
     {
-        "symbol": "AROC",
-        "companyName": "Archrock",
-        "industry": "石油和天然气设备与服务"
-    },
-    {
-        "symbol": "ARW",
-        "companyName": "艾睿",
-        "industry": "电子与计算机分销"
-    },
-    {
-        "symbol": "ASH",
-        "companyName": "Ashland",
-        "industry": "特种化学品"
-    },
-    {
-        "symbol": "ASIX",
-        "companyName": "AdvanSix",
-        "industry": "化工品"
-    },
-    {
-        "symbol": "ASML",
-        "companyName": "阿斯麦",
-        "industry": "半导体设备与材料"
-    },
-    {
-        "symbol": "ASND",
-        "companyName": "Ascendis Pharma A/S",
-        "industry": "生物技术"
-    },
-    {
-        "symbol": "ASO",
-        "companyName": "Academy",
-        "industry": "专业零售"
-    },
-    {
-        "symbol": "ASTE",
-        "companyName": "Astec Industries",
-        "industry": "农用及重型工程机械"
-    },
-    {
-        "symbol": "ASX",
-        "companyName": "日月光半导体",
-        "industry": "半导体"
-    },
-    {
-        "symbol": "ATHM",
-        "companyName": "汽车之家",
-        "industry": "互联网内容与信息"
-    },
-    {
-        "symbol": "ATI",
-        "companyName": "ATI Inc",
-        "industry": "金属加工"
-    },
-    {
-        "symbol": "ATKR",
-        "companyName": "Atkore",
-        "industry": "电气设备及零件"
-    },
-    {
-        "symbol": "ATMU",
-        "companyName": "Atmus Filtration Technologies",
-        "industry": "污染与处理控制"
-    },
-    {
-        "symbol": "ATO",
-        "companyName": "Atmos Energy",
-        "industry": "公用事业 - 受监管天然气"
+        "symbol": "ARMK",
+        "companyName": "Aramark",
+        "industry": "专业商务服务"
     },
     {
         "symbol": "ATR",
         "companyName": "AptarGroup",
         "industry": "医疗设备和用品"
-    },
-    {
-        "symbol": "ATS",
-        "companyName": "ATS Corp",
-        "industry": "特种工业机械"
-    },
-    {
-        "symbol": "ATUS",
-        "companyName": "Altice USA",
-        "industry": "电信服务"
     },
     {
         "symbol": "AU",
@@ -645,69 +525,14 @@
         "industry": "房地产投资信托 - 住宅"
     },
     {
-        "symbol": "AVDX",
-        "companyName": "AvidXchange",
-        "industry": "软件 - 基础架构"
-    },
-    {
-        "symbol": "AVGO",
-        "companyName": "博通",
-        "industry": "半导体"
-    },
-    {
-        "symbol": "AVNW",
-        "companyName": "阿维亚网络",
-        "industry": "通讯设备"
-    },
-    {
-        "symbol": "AVT",
-        "companyName": "安富利",
-        "industry": "电子与计算机分销"
-    },
-    {
         "symbol": "AVTR",
         "companyName": "Avantor",
-        "industry": "特种化学品"
-    },
-    {
-        "symbol": "AWI",
-        "companyName": "阿姆斯特朗工业",
-        "industry": "建筑产品及设备"
-    },
-    {
-        "symbol": "AX",
-        "companyName": "Axos Financial",
-        "industry": "银行 - 地区性"
-    },
-    {
-        "symbol": "AXL",
-        "companyName": "American Axle & Mfg",
-        "industry": "汽车零件"
-    },
-    {
-        "symbol": "AXP",
-        "companyName": "美国运通",
-        "industry": "信贷服务"
-    },
-    {
-        "symbol": "AXS",
-        "companyName": "埃克斯资本",
-        "industry": "保险 - 专业"
-    },
-    {
-        "symbol": "AXTA",
-        "companyName": "艾仕得涂料系统",
-        "industry": "特种化学品"
+        "industry": "医疗设备和用品"
     },
     {
         "symbol": "AYI",
         "companyName": "Acuity Brands",
         "industry": "电气设备及零件"
-    },
-    {
-        "symbol": "AZN",
-        "companyName": "阿斯利康",
-        "industry": "药品制造商 - 一般"
     },
     {
         "symbol": "AZO",
@@ -720,29 +545,9 @@
         "industry": "软件 - 应用"
     },
     {
-        "symbol": "AZUL",
-        "companyName": "Azul SA",
-        "industry": "航空公司"
-    },
-    {
-        "symbol": "B",
-        "companyName": "巴恩斯",
-        "industry": "特种工业机械"
-    },
-    {
         "symbol": "BA",
         "companyName": "波音",
         "industry": "航空航天和国防"
-    },
-    {
-        "symbol": "BABA",
-        "companyName": "阿里巴巴",
-        "industry": "互联网零售"
-    },
-    {
-        "symbol": "BAC",
-        "companyName": "美国银行",
-        "industry": "银行 - 多元化"
     },
     {
         "symbol": "BAH",
@@ -760,9 +565,9 @@
         "industry": "资产管理"
     },
     {
-        "symbol": "BATL",
-        "companyName": "Battalion Oil",
-        "industry": "石油和天然气勘探及生产"
+        "symbol": "BAP",
+        "companyName": "Credicorp",
+        "industry": "银行 - 地区性"
     },
     {
         "symbol": "BAX",
@@ -770,49 +575,14 @@
         "industry": "医疗设备和用品"
     },
     {
-        "symbol": "BB",
-        "companyName": "黑莓",
-        "industry": "软件 - 基础架构"
-    },
-    {
         "symbol": "BBD",
         "companyName": "布拉德斯科银行-Preferred",
         "industry": "银行 - 地区性"
     },
     {
-        "symbol": "BBDC",
-        "companyName": "Barings BDC",
-        "industry": "资产管理"
-    },
-    {
-        "symbol": "BBIO",
-        "companyName": "BridgeBio Pharma",
-        "industry": "生物技术"
-    },
-    {
-        "symbol": "BBWI",
-        "companyName": "Bath & Body Works",
-        "industry": "专业零售"
-    },
-    {
         "symbol": "BBY",
         "companyName": "百思买",
         "industry": "专业零售"
-    },
-    {
-        "symbol": "BC",
-        "companyName": "宾士域",
-        "industry": "休闲车"
-    },
-    {
-        "symbol": "BCC",
-        "companyName": "Boise Cascade",
-        "industry": "建筑材料"
-    },
-    {
-        "symbol": "BDC",
-        "companyName": "百通公司",
-        "industry": "通讯设备"
     },
     {
         "symbol": "BDX",
@@ -825,74 +595,14 @@
         "industry": "房地产服务"
     },
     {
-        "symbol": "BEN",
-        "companyName": "Franklin Resources",
-        "industry": "资产管理"
-    },
-    {
-        "symbol": "BEPC",
-        "companyName": "Brookfield Renewable",
-        "industry": "公用事业 - 可再生"
-    },
-    {
-        "symbol": "BERY",
-        "companyName": "Berry Global Group",
-        "industry": "包装与容器"
-    },
-    {
-        "symbol": "BFAM",
-        "companyName": "Bright Horizons Family Solutions",
-        "industry": "个性化服务"
-    },
-    {
-        "symbol": "BFH",
-        "companyName": "Bread Financial",
-        "industry": "信贷服务"
-    },
-    {
-        "symbol": "BGC",
-        "companyName": "BGC Group",
-        "industry": "资本市场"
-    },
-    {
-        "symbol": "BGS",
-        "companyName": "B&G食品",
-        "industry": "包装食品"
-    },
-    {
-        "symbol": "BHC",
-        "companyName": "Bausch Health",
-        "industry": "药品制造商 - 专业和通用"
-    },
-    {
-        "symbol": "BHE",
-        "companyName": "Benchmark Electronics",
-        "industry": "电子元器件"
-    },
-    {
-        "symbol": "BHF",
-        "companyName": "Brighthouse Financial",
-        "industry": "保险 - 人寿"
-    },
-    {
         "symbol": "BIDU",
         "companyName": "百度",
         "industry": "互联网内容与信息"
     },
     {
-        "symbol": "BIG",
-        "companyName": "必乐透",
-        "industry": "折扣店"
-    },
-    {
         "symbol": "BIIB",
         "companyName": "渤健公司",
         "industry": "药品制造商 - 一般"
-    },
-    {
-        "symbol": "BILL",
-        "companyName": "BILL Holdings",
-        "industry": "软件 - 应用"
     },
     {
         "symbol": "BIO",
@@ -905,24 +615,14 @@
         "industry": "鞋类及配件"
     },
     {
-        "symbol": "BJRI",
-        "companyName": "BJ's餐饮",
-        "industry": "餐厅"
+        "symbol": "BJ",
+        "companyName": "BJ批发俱乐部",
+        "industry": "折扣店"
     },
     {
         "symbol": "BK",
         "companyName": "纽约梅隆银行",
-        "industry": "资产管理"
-    },
-    {
-        "symbol": "BKE",
-        "companyName": "巴克尔",
-        "industry": "服装零售"
-    },
-    {
-        "symbol": "BKH",
-        "companyName": "黑山",
-        "industry": "公用事业 - 受监管天然气"
+        "industry": "银行 - 多元化"
     },
     {
         "symbol": "BKNG",
@@ -935,19 +635,9 @@
         "industry": "石油和天然气设备与服务"
     },
     {
-        "symbol": "BL",
-        "companyName": "BlackLine",
-        "industry": "软件 - 应用"
-    },
-    {
-        "symbol": "BLBD",
-        "companyName": "Blue Bird",
-        "industry": "汽车制造商"
-    },
-    {
-        "symbol": "BLCO",
-        "companyName": "博士伦",
-        "industry": "医疗设备和用品"
+        "symbol": "BLD",
+        "companyName": "Topbuild",
+        "industry": "工程建设"
     },
     {
         "symbol": "BLDR",
@@ -960,19 +650,9 @@
         "industry": "资产管理"
     },
     {
-        "symbol": "BLMN",
-        "companyName": "Bloomin Brands",
-        "industry": "餐厅"
-    },
-    {
-        "symbol": "BLND",
-        "companyName": "Blend Labs",
-        "industry": "软件 - 应用"
-    },
-    {
-        "symbol": "BMBL",
-        "companyName": "Bumble",
-        "industry": "软件 - 应用"
+        "symbol": "BXC",
+        "companyName": "布鲁林克斯",
+        "industry": "产业分布"
     },
     {
         "symbol": "BMRN",
@@ -990,29 +670,14 @@
         "industry": "资产管理"
     },
     {
-        "symbol": "BNRE",
-        "companyName": "Brookfield Reinsurance",
-        "industry": "保险 - 再保险"
-    },
-    {
         "symbol": "BNS",
         "companyName": "丰业银行",
         "industry": "银行 - 多元化"
     },
     {
-        "symbol": "BOKF",
-        "companyName": "BOK银行",
-        "industry": "银行 - 地区性"
-    },
-    {
-        "symbol": "BOOT",
-        "companyName": "Boot Barn Holdings",
-        "industry": "服装零售"
-    },
-    {
-        "symbol": "BOWL",
-        "companyName": "Bowlero",
-        "industry": "休闲"
+        "symbol": "BNTX",
+        "companyName": "BioNTech",
+        "industry": "生物技术"
     },
     {
         "symbol": "BP",
@@ -1020,34 +685,9 @@
         "industry": "石油和天然气综合"
     },
     {
-        "symbol": "BPMC",
-        "companyName": "Blueprint Medicines",
-        "industry": "生物技术"
-    },
-    {
         "symbol": "BR",
         "companyName": "Broadridge金融解决方案",
         "industry": "信息技术服务"
-    },
-    {
-        "symbol": "BRC",
-        "companyName": "布雷迪",
-        "industry": "安全与防护服务"
-    },
-    {
-        "symbol": "BRCC",
-        "companyName": "BRC Inc",
-        "industry": "包装食品"
-    },
-    {
-        "symbol": "BRKR",
-        "companyName": "布鲁克",
-        "industry": "医疗设备"
-    },
-    {
-        "symbol": "BRLT",
-        "companyName": "Brilliant Earth",
-        "industry": "奢侈品"
     },
     {
         "symbol": "BRO",
@@ -1055,34 +695,9 @@
         "industry": "保险经纪人"
     },
     {
-        "symbol": "BROS",
-        "companyName": "Dutch Bros",
-        "industry": "餐厅"
-    },
-    {
-        "symbol": "BRX",
-        "companyName": "Brixmor Property Group",
-        "industry": "房地产投资信托 - 零售"
-    },
-    {
-        "symbol": "BRY",
-        "companyName": "贝利石油",
-        "industry": "石油和天然气勘探及生产"
-    },
-    {
-        "symbol": "BSM",
-        "companyName": "Black Stone Minerals",
-        "industry": "石油和天然气勘探及生产"
-    },
-    {
         "symbol": "BSX",
         "companyName": "波士顿科学",
         "industry": "医疗设备"
-    },
-    {
-        "symbol": "BTG",
-        "companyName": "B2Gold",
-        "industry": "黄金"
     },
     {
         "symbol": "BTI",
@@ -1095,79 +710,19 @@
         "industry": "饮料 - 啤酒"
     },
     {
-        "symbol": "BUR",
-        "companyName": "Burford Capital",
-        "industry": "资产管理"
-    },
-    {
-        "symbol": "BURL",
-        "companyName": "伯灵顿百货",
-        "industry": "服装零售"
-    },
-    {
-        "symbol": "BVFL",
-        "companyName": "BV Financial",
-        "industry": "银行 - 地区性"
-    },
-    {
-        "symbol": "BVS",
-        "companyName": "Bioventus",
-        "industry": "医疗设备"
-    },
-    {
-        "symbol": "BWA",
-        "companyName": "博格华纳",
-        "industry": "汽车零件"
-    },
-    {
-        "symbol": "BWMN",
-        "companyName": "Bowman Consulting",
-        "industry": "工程建设"
-    },
-    {
         "symbol": "BWXT",
         "companyName": "BWX Technologies",
         "industry": "航空航天和国防"
     },
     {
-        "symbol": "BX",
-        "companyName": "黑石",
-        "industry": "资产管理"
-    },
-    {
         "symbol": "BXP",
-        "companyName": "波士顿物产",
+        "companyName": "BXP Inc",
         "industry": "房地产投资信托 - 写字楼"
-    },
-    {
-        "symbol": "BYD",
-        "companyName": "博伊德赌场",
-        "industry": "渡假村和赌场"
-    },
-    {
-        "symbol": "BZH",
-        "companyName": "贝哲房屋",
-        "industry": "住宅施工"
     },
     {
         "symbol": "C",
         "companyName": "花旗集团",
         "industry": "银行 - 多元化"
-    },
-    {
-        "symbol": "CABO",
-        "companyName": "Cable One",
-        "industry": "电信服务"
-    },
-    {
-        "symbol": "CACC",
-        "companyName": "Credit Acceptance",
-        "industry": "信贷服务"
-    },
-    {
-        "symbol": "CACI",
-        "companyName": "CACI国际",
-        "industry": "信息技术服务"
     },
     {
         "symbol": "CAG",
@@ -1180,34 +735,19 @@
         "industry": "医疗分配"
     },
     {
-        "symbol": "CAKE",
-        "companyName": "芝乐坊餐馆",
-        "industry": "餐厅"
-    },
-    {
-        "symbol": "CAR",
-        "companyName": "安飞士",
-        "industry": "租赁服务"
-    },
-    {
-        "symbol": "CARA",
-        "companyName": "Cara Therapeutics",
-        "industry": "生物技术"
-    },
-    {
         "symbol": "CARR",
         "companyName": "开利全球",
         "industry": "建筑产品及设备"
     },
     {
-        "symbol": "CARS",
-        "companyName": "Cars.com",
-        "industry": "汽车和卡车经销权"
+        "symbol": "CART",
+        "companyName": "Maplebear",
+        "industry": "互联网零售"
     },
     {
-        "symbol": "CART",
-        "companyName": "Instacart(Maplebear)",
-        "industry": "互联网零售"
+        "symbol": "CASY",
+        "companyName": "Caseys General Stores",
+        "industry": "专业零售"
     },
     {
         "symbol": "CAT",
@@ -1215,54 +755,14 @@
         "industry": "农用及重型工程机械"
     },
     {
-        "symbol": "CATO",
-        "companyName": "加图商场",
-        "industry": "服装零售"
-    },
-    {
-        "symbol": "CAVA",
-        "companyName": "CAVA Group",
-        "industry": "餐厅"
-    },
-    {
         "symbol": "CB",
         "companyName": "安达保险",
         "industry": "保险 - 财产和伤亡"
     },
     {
-        "symbol": "CBL",
-        "companyName": "CBL & Associates Properties",
-        "industry": "房地产投资信托 - 零售"
-    },
-    {
-        "symbol": "CBOE",
-        "companyName": "芝加哥期权交易所",
-        "industry": "财务数据与证券交易所"
-    },
-    {
         "symbol": "CBRE",
         "companyName": "世邦魏理仕",
         "industry": "房地产服务"
-    },
-    {
-        "symbol": "CBRL",
-        "companyName": "CB乡村店",
-        "industry": "餐厅"
-    },
-    {
-        "symbol": "CBUS",
-        "companyName": "Cibus Inc",
-        "industry": "生物技术"
-    },
-    {
-        "symbol": "CCAP",
-        "companyName": "Crescent Capital BDC",
-        "industry": "资产管理"
-    },
-    {
-        "symbol": "CCCS",
-        "companyName": "CCC Intelligent Solutions Holdings",
-        "industry": "软件 - 基础架构"
     },
     {
         "symbol": "CCI",
@@ -1285,26 +785,6 @@
         "industry": "旅游服务"
     },
     {
-        "symbol": "CCU",
-        "companyName": "智利CCU啤酒",
-        "industry": "饮料 - 啤酒"
-    },
-    {
-        "symbol": "CDE",
-        "companyName": "科尔黛伦矿业",
-        "industry": "黄金"
-    },
-    {
-        "symbol": "CDLX",
-        "companyName": "Cardlytics",
-        "industry": "广告代理"
-    },
-    {
-        "symbol": "CDNA",
-        "companyName": "CareDx",
-        "industry": "诊断与研究"
-    },
-    {
         "symbol": "CDNS",
         "companyName": "铿腾电子",
         "industry": "软件 - 应用"
@@ -1315,49 +795,14 @@
         "industry": "信息技术服务"
     },
     {
-        "symbol": "CE",
-        "companyName": "塞拉尼斯",
-        "industry": "化工品"
-    },
-    {
-        "symbol": "CECO",
-        "companyName": "CECO环保",
-        "industry": "污染与处理控制"
-    },
-    {
         "symbol": "CEG",
         "companyName": "Constellation Energy",
         "industry": "公用事业 - 可再生"
     },
     {
-        "symbol": "CEIX",
-        "companyName": "CONSOL Energy",
-        "industry": "动力煤"
-    },
-    {
-        "symbol": "CELH",
-        "companyName": "Celsius Holdings",
-        "industry": "饮料 - 非酒精饮料"
-    },
-    {
-        "symbol": "CENX",
-        "companyName": "世纪铝业",
-        "industry": "铝"
-    },
-    {
-        "symbol": "CET",
-        "companyName": "Central Securities Corp.",
-        "industry": "资产管理"
-    },
-    {
-        "symbol": "CETU",
-        "companyName": "Cetus Capital Acquisition Corp",
-        "industry": "空壳公司"
-    },
-    {
-        "symbol": "CEVA",
-        "companyName": "CEVA Inc",
-        "industry": "半导体"
+        "symbol": "CF",
+        "companyName": "CF工业控股",
+        "industry": "农业投入品"
     },
     {
         "symbol": "CFG",
@@ -1365,29 +810,9 @@
         "industry": "银行 - 地区性"
     },
     {
-        "symbol": "CFLT",
-        "companyName": "Confluent",
-        "industry": "软件 - 基础架构"
-    },
-    {
         "symbol": "CG",
         "companyName": "凯雷",
         "industry": "资产管理"
-    },
-    {
-        "symbol": "CGEN",
-        "companyName": "Compugen医疗",
-        "industry": "生物技术"
-    },
-    {
-        "symbol": "CGNX",
-        "companyName": "康耐视",
-        "industry": "科技仪器"
-    },
-    {
-        "symbol": "CHCT",
-        "companyName": "Community Healthcare Trust",
-        "industry": "房地产投资信托 - 医疗保健设施"
     },
     {
         "symbol": "CHD",
@@ -1395,29 +820,9 @@
         "industry": "家用和个人产品"
     },
     {
-        "symbol": "CHDN",
-        "companyName": "Churchill Downs",
-        "industry": "博彩"
-    },
-    {
-        "symbol": "CHEF",
-        "companyName": "The Chefs' Warehouse",
-        "industry": "食物分配"
-    },
-    {
-        "symbol": "CHH",
-        "companyName": "精选国际酒店",
-        "industry": "住宿"
-    },
-    {
-        "symbol": "CHK",
-        "companyName": "切萨皮克能源",
-        "industry": "石油和天然气勘探及生产"
-    },
-    {
-        "symbol": "CHRS",
-        "companyName": "Coherus BioSciences",
-        "industry": "生物技术"
+        "symbol": "CHKP",
+        "companyName": "Check Point软件",
+        "industry": "软件 - 基础架构"
     },
     {
         "symbol": "CHRW",
@@ -1430,9 +835,9 @@
         "industry": "电信服务"
     },
     {
-        "symbol": "CHUY",
-        "companyName": "Chuy's Holdings",
-        "industry": "餐厅"
+        "symbol": "CHWY",
+        "companyName": "Chewy",
+        "industry": "互联网零售"
     },
     {
         "symbol": "CI",
@@ -1445,74 +850,19 @@
         "industry": "通讯设备"
     },
     {
-        "symbol": "CIGI",
-        "companyName": "高力国际集团",
-        "industry": "房地产服务"
-    },
-    {
-        "symbol": "CIVI",
-        "companyName": "Civitas Resources",
-        "industry": "石油和天然气勘探及生产"
-    },
-    {
         "symbol": "CL",
         "companyName": "高露洁",
         "industry": "家用和个人产品"
     },
     {
-        "symbol": "CLB",
-        "companyName": "Core Laboratories",
-        "industry": "石油和天然气设备与服务"
-    },
-    {
-        "symbol": "CLCO",
-        "companyName": "Cool Co",
-        "industry": "石油和天然气中游"
-    },
-    {
-        "symbol": "CLDT",
-        "companyName": "Chatham Lodging信托",
-        "industry": "房地产投资信托 - 酒店和汽车旅馆"
-    },
-    {
-        "symbol": "CLF",
-        "companyName": "克利夫兰克里夫",
-        "industry": "钢"
-    },
-    {
-        "symbol": "CLPR",
-        "companyName": "Clipper Realty",
-        "industry": "房地产投资信托 - 住宅"
-    },
-    {
-        "symbol": "CLVT",
-        "companyName": "Clarivate",
-        "industry": "信息技术服务"
+        "symbol": "CLS",
+        "companyName": "天弘科技",
+        "industry": "电子元器件"
     },
     {
         "symbol": "CLX",
         "companyName": "高乐氏",
         "industry": "家用和个人产品"
-    },
-    {
-        "symbol": "CMA",
-        "companyName": "联信银行",
-        "industry": "银行 - 地区性"
-    },
-    {
-        "symbol": "CMAX",
-        "companyName": "CareMax",
-        "industry": "健康信息服务"
-    },
-    {
-        "symbol": "CMC",
-        "companyName": "美国工商五金公司",
-        "industry": "钢"
-    },
-    {
-        "symbol": "CMCO",
-        "companyName": "哥伦布-麦金农",
-        "industry": "农用及重型工程机械"
     },
     {
         "symbol": "CME",
@@ -1522,17 +872,12 @@
     {
         "symbol": "CMG",
         "companyName": "奇波雷墨西哥烧烤",
-        "industry": "餐厅"
+        "industry": "餐饮"
     },
     {
         "symbol": "CMI",
         "companyName": "康明斯",
         "industry": "特种工业机械"
-    },
-    {
-        "symbol": "CMPR",
-        "companyName": "Cimpress",
-        "industry": "广告代理"
     },
     {
         "symbol": "CNA",
@@ -1545,12 +890,7 @@
         "industry": "医疗计划"
     },
     {
-        "symbol": "CNDT",
-        "companyName": "Conduent",
-        "industry": "信息技术服务"
-    },
-    {
-        "symbol": "CNHI",
+        "symbol": "CNH",
         "companyName": "凯斯纽",
         "industry": "农用及重型工程机械"
     },
@@ -1560,34 +900,14 @@
         "industry": "铁路"
     },
     {
-        "symbol": "CNK",
-        "companyName": "喜满客影城",
-        "industry": "娱乐"
-    },
-    {
         "symbol": "CNM",
         "companyName": "Core & Main",
         "industry": "产业分布"
     },
     {
-        "symbol": "CNO",
-        "companyName": "康塞科",
-        "industry": "保险 - 人寿"
-    },
-    {
         "symbol": "CNQ",
         "companyName": "加拿大自然资源",
         "industry": "石油和天然气勘探及生产"
-    },
-    {
-        "symbol": "CNX",
-        "companyName": "康索尔能源",
-        "industry": "石油和天然气勘探及生产"
-    },
-    {
-        "symbol": "CNXC",
-        "companyName": "Concentrix",
-        "industry": "信息技术服务"
     },
     {
         "symbol": "COF",
@@ -1600,29 +920,14 @@
         "industry": "科技仪器"
     },
     {
-        "symbol": "COHU",
-        "companyName": "科休半导体",
-        "industry": "半导体设备与材料"
-    },
-    {
         "symbol": "COIN",
         "companyName": "Coinbase",
         "industry": "财务数据与证券交易所"
     },
     {
-        "symbol": "COLL",
-        "companyName": "Collegium Pharmaceutical",
-        "industry": "药品制造商 - 专业和通用"
-    },
-    {
-        "symbol": "COMM",
-        "companyName": "CommScope",
-        "industry": "通讯设备"
-    },
-    {
-        "symbol": "COOP",
-        "companyName": "Mr. Cooper Group",
-        "industry": "抵押金融"
+        "symbol": "COO",
+        "companyName": "库珀医疗",
+        "industry": "医疗设备和用品"
     },
     {
         "symbol": "COP",
@@ -1630,24 +935,9 @@
         "industry": "石油和天然气勘探及生产"
     },
     {
-        "symbol": "COST",
-        "companyName": "好市多",
-        "industry": "折扣店"
-    },
-    {
-        "symbol": "COYA",
-        "companyName": "Coya Therapeutics",
-        "industry": "生物技术"
-    },
-    {
         "symbol": "CP",
         "companyName": "加拿大太平洋铁路",
         "industry": "铁路"
-    },
-    {
-        "symbol": "CPA",
-        "companyName": "科帕控股",
-        "industry": "航空公司"
     },
     {
         "symbol": "CPAY",
@@ -1656,18 +946,13 @@
     },
     {
         "symbol": "CPB",
-        "companyName": "金宝汤",
+        "companyName": "金宝公司",
         "industry": "包装食品"
     },
     {
         "symbol": "CPNG",
         "companyName": "Coupang",
         "industry": "互联网零售"
-    },
-    {
-        "symbol": "CPRI",
-        "companyName": "Capri Holdings",
-        "industry": "奢侈品"
     },
     {
         "symbol": "CPRT",
@@ -1685,59 +970,9 @@
         "industry": "特种工业机械"
     },
     {
-        "symbol": "CRBU",
-        "companyName": "Caribou Biosciences",
-        "industry": "生物技术"
-    },
-    {
-        "symbol": "CRC",
-        "companyName": "加州资源",
-        "industry": "石油和天然气勘探及生产"
-    },
-    {
-        "symbol": "CRDO",
-        "companyName": "Credo Technology",
-        "industry": "通讯设备"
-    },
-    {
-        "symbol": "CRGX",
-        "companyName": "CARGO Therapeutics",
-        "industry": "生物技术"
-    },
-    {
         "symbol": "CRH",
         "companyName": "CRH水泥",
         "industry": "建筑材料"
-    },
-    {
-        "symbol": "CRIS",
-        "companyName": "居里",
-        "industry": "生物技术"
-    },
-    {
-        "symbol": "CRL",
-        "companyName": "查尔斯河实验室",
-        "industry": "诊断与研究"
-    },
-    {
-        "symbol": "CRM",
-        "companyName": "赛富时",
-        "industry": "软件 - 应用"
-    },
-    {
-        "symbol": "CRMT",
-        "companyName": "美国汽车行",
-        "industry": "汽车和卡车经销权"
-    },
-    {
-        "symbol": "CRNC",
-        "companyName": "Cerence",
-        "industry": "软件 - 应用"
-    },
-    {
-        "symbol": "CROX",
-        "companyName": "卡骆驰",
-        "industry": "鞋类及配件"
     },
     {
         "symbol": "CRS",
@@ -1750,29 +985,14 @@
         "industry": "软件 - 基础架构"
     },
     {
-        "symbol": "CSCO",
-        "companyName": "思科",
-        "industry": "通讯设备"
-    },
-    {
         "symbol": "CSGP",
         "companyName": "科斯塔",
         "industry": "房地产服务"
     },
     {
-        "symbol": "CSGS",
-        "companyName": "CSG国际",
-        "industry": "软件 - 基础架构"
-    },
-    {
-        "symbol": "CSTM",
-        "companyName": "Constellium",
-        "industry": "铝"
-    },
-    {
-        "symbol": "CSWI",
-        "companyName": "CSW Industrials",
-        "industry": "特种工业机械"
+        "symbol": "CSL",
+        "companyName": "卡莱尔伙伴",
+        "industry": "建筑产品及设备"
     },
     {
         "symbol": "CSX",
@@ -1780,19 +1000,9 @@
         "industry": "铁路"
     },
     {
-        "symbol": "CTLP",
-        "companyName": "Cantaloupe",
-        "industry": "信息技术服务"
-    },
-    {
-        "symbol": "CTO",
-        "companyName": "CTO Realty Growth",
-        "industry": "房地产投资信托 - 多元化"
-    },
-    {
-        "symbol": "CTOS",
-        "companyName": "Custom Truck One Source",
-        "industry": "租赁服务"
+        "symbol": "CTAS",
+        "companyName": "信达思",
+        "industry": "专业商务服务"
     },
     {
         "symbol": "CTSH",
@@ -1805,31 +1015,6 @@
         "industry": "农业投入品"
     },
     {
-        "symbol": "CUBE",
-        "companyName": "CubeSmart",
-        "industry": "房地产投资信托 - 工业"
-    },
-    {
-        "symbol": "CUZ",
-        "companyName": "卡津斯不动产信托基金",
-        "industry": "房地产投资信托 - 写字楼"
-    },
-    {
-        "symbol": "CVE",
-        "companyName": "Cenovus能源",
-        "industry": "石油和天然气综合"
-    },
-    {
-        "symbol": "CVI",
-        "companyName": "CVR能源",
-        "industry": "石油和天然气精炼与营销"
-    },
-    {
-        "symbol": "CVLT",
-        "companyName": "康沃系统",
-        "industry": "软件 - 应用"
-    },
-    {
         "symbol": "CVNA",
         "companyName": "Carvana",
         "industry": "汽车和卡车经销权"
@@ -1840,49 +1025,9 @@
         "industry": "医疗计划"
     },
     {
-        "symbol": "CVX",
-        "companyName": "雪佛龙",
-        "industry": "石油和天然气综合"
-    },
-    {
         "symbol": "CW",
         "companyName": "寇蒂斯莱特",
         "industry": "航空航天和国防"
-    },
-    {
-        "symbol": "CWAN",
-        "companyName": "Clearwater Analytics",
-        "industry": "软件 - 应用"
-    },
-    {
-        "symbol": "CWH",
-        "companyName": "露营世界",
-        "industry": "汽车和卡车经销权"
-    },
-    {
-        "symbol": "CWK",
-        "companyName": "Cushman & Wakefield",
-        "industry": "房地产服务"
-    },
-    {
-        "symbol": "CX",
-        "companyName": "西麦斯",
-        "industry": "建筑材料"
-    },
-    {
-        "symbol": "CYD",
-        "companyName": "玉柴国际",
-        "industry": "汽车零件"
-    },
-    {
-        "symbol": "CZOO",
-        "companyName": "Cazoo",
-        "industry": "汽车和卡车经销权"
-    },
-    {
-        "symbol": "CZR",
-        "companyName": "凯撒娱乐",
-        "industry": "渡假村和赌场"
     },
     {
         "symbol": "D",
@@ -1890,24 +1035,9 @@
         "industry": "公用事业 - 受监管电力"
     },
     {
-        "symbol": "DAKT",
-        "companyName": "Daktronics",
-        "industry": "电子元器件"
-    },
-    {
         "symbol": "DAL",
         "companyName": "达美航空",
         "industry": "航空公司"
-    },
-    {
-        "symbol": "DAN",
-        "companyName": "达纳",
-        "industry": "汽车零件"
-    },
-    {
-        "symbol": "DAR",
-        "companyName": "美国达尔令国际",
-        "industry": "包装食品"
     },
     {
         "symbol": "DASH",
@@ -1915,43 +1045,8 @@
         "industry": "互联网内容与信息"
     },
     {
-        "symbol": "DAVA",
-        "companyName": "Endava",
-        "industry": "软件 - 基础架构"
-    },
-    {
-        "symbol": "DAWN",
-        "companyName": "Day One Biopharmaceuticals",
-        "industry": "生物技术"
-    },
-    {
         "symbol": "DB",
         "companyName": "德意志银行",
-        "industry": "银行 - 地区性"
-    },
-    {
-        "symbol": "DBRG",
-        "companyName": "DigitalBridge Group",
-        "industry": "房地产服务"
-    },
-    {
-        "symbol": "DBX",
-        "companyName": "Dropbox",
-        "industry": "软件 - 基础架构"
-    },
-    {
-        "symbol": "DCI",
-        "companyName": "唐纳森",
-        "industry": "特种工业机械"
-    },
-    {
-        "symbol": "DCO",
-        "companyName": "杜科蒙",
-        "industry": "航空航天和国防"
-    },
-    {
-        "symbol": "DCOM",
-        "companyName": "迪募社区银行",
         "industry": "银行 - 地区性"
     },
     {
@@ -1960,19 +1055,9 @@
         "industry": "特种化学品"
     },
     {
-        "symbol": "DDL",
-        "companyName": "叮咚买菜",
-        "industry": "杂货商店"
-    },
-    {
         "symbol": "DDOG",
         "companyName": "Datadog",
         "industry": "软件 - 应用"
-    },
-    {
-        "symbol": "DDS",
-        "companyName": "迪拉德百货",
-        "industry": "百货商店"
     },
     {
         "symbol": "DE",
@@ -1985,29 +1070,14 @@
         "industry": "鞋类及配件"
     },
     {
-        "symbol": "DEI",
-        "companyName": "道格拉斯艾美特",
-        "industry": "房地产投资信托 - 写字楼"
-    },
-    {
         "symbol": "DELL",
         "companyName": "戴尔科技",
         "industry": "电脑硬件"
     },
     {
-        "symbol": "DENN",
-        "companyName": "丹尼斯",
-        "industry": "餐厅"
-    },
-    {
         "symbol": "DEO",
         "companyName": "帝亚吉欧",
         "industry": "饮料 - 酿酒厂"
-    },
-    {
-        "symbol": "DESP",
-        "companyName": "Despegar.com",
-        "industry": "旅游服务"
     },
     {
         "symbol": "DFS",
@@ -2018,11 +1088,6 @@
         "symbol": "DG",
         "companyName": "美国达乐公司",
         "industry": "折扣店"
-    },
-    {
-        "symbol": "DGII",
-        "companyName": "美国迪进国际",
-        "industry": "通讯设备"
     },
     {
         "symbol": "DGX",
@@ -2040,56 +1105,6 @@
         "industry": "诊断与研究"
     },
     {
-        "symbol": "DHT",
-        "companyName": "DHT控股",
-        "industry": "石油和天然气中游"
-    },
-    {
-        "symbol": "DIN",
-        "companyName": "Dine Brands Global Inc",
-        "industry": "餐厅"
-    },
-    {
-        "symbol": "DINO",
-        "companyName": "HF Sinclair",
-        "industry": "石油和天然气精炼与营销"
-    },
-    {
-        "symbol": "DIS",
-        "companyName": "迪士尼",
-        "industry": "娱乐"
-    },
-    {
-        "symbol": "DJCO",
-        "companyName": "每日期刊",
-        "industry": "软件 - 应用"
-    },
-    {
-        "symbol": "DK",
-        "companyName": "Delek US",
-        "industry": "石油和天然气精炼与营销"
-    },
-    {
-        "symbol": "DKNG",
-        "companyName": "DraftKings",
-        "industry": "博彩"
-    },
-    {
-        "symbol": "DKS",
-        "companyName": "迪克体育用品",
-        "industry": "专业零售"
-    },
-    {
-        "symbol": "DLB",
-        "companyName": "杜比实验室",
-        "industry": "专业商务服务"
-    },
-    {
-        "symbol": "DLO",
-        "companyName": "DLocal",
-        "industry": "软件 - 基础架构"
-    },
-    {
         "symbol": "DLR",
         "companyName": "数字房地产信托公司",
         "industry": "房地产投资信托 - 专业"
@@ -2098,26 +1113,6 @@
         "symbol": "DLTR",
         "companyName": "美元树公司",
         "industry": "折扣店"
-    },
-    {
-        "symbol": "DMAC",
-        "companyName": "DiaMedica Therapeutics",
-        "industry": "生物技术"
-    },
-    {
-        "symbol": "DNA",
-        "companyName": "Ginkgo Bioworks",
-        "industry": "生物技术"
-    },
-    {
-        "symbol": "DNB",
-        "companyName": "邓白氏",
-        "industry": "财务数据与证券交易所"
-    },
-    {
-        "symbol": "DNMR",
-        "companyName": "Danimer Scientific",
-        "industry": "特种化学品"
     },
     {
         "symbol": "DOC",
@@ -2130,9 +1125,9 @@
         "industry": "健康信息服务"
     },
     {
-        "symbol": "DOOO",
-        "companyName": "BRP",
-        "industry": "休闲车"
+        "symbol": "DOCU",
+        "companyName": "DocuSign",
+        "industry": "软件 - 应用"
     },
     {
         "symbol": "DOV",
@@ -2145,24 +1140,14 @@
         "industry": "化工品"
     },
     {
-        "symbol": "DOX",
-        "companyName": "Amdocs",
-        "industry": "软件 - 基础架构"
-    },
-    {
         "symbol": "DPZ",
         "companyName": "达美乐比萨",
-        "industry": "餐厅"
-    },
-    {
-        "symbol": "DQ",
-        "companyName": "大全新能源",
-        "industry": "半导体设备与材料"
+        "industry": "餐饮"
     },
     {
         "symbol": "DRI",
         "companyName": "达登饭店",
-        "industry": "餐厅"
+        "industry": "餐饮"
     },
     {
         "symbol": "DSGX",
@@ -2175,14 +1160,9 @@
         "industry": "软件 - 应用"
     },
     {
-        "symbol": "DTM",
-        "companyName": "DT Midstream",
-        "industry": "石油和天然气中游"
-    },
-    {
-        "symbol": "DUK",
-        "companyName": "杜克能源",
-        "industry": "公用事业 - 受监管电力"
+        "symbol": "DUOL",
+        "companyName": "多邻国",
+        "industry": "软件 - 应用"
     },
     {
         "symbol": "DVA",
@@ -2195,59 +1175,14 @@
         "industry": "石油和天然气勘探及生产"
     },
     {
-        "symbol": "DXC",
-        "companyName": "DXC Technology",
-        "industry": "信息技术服务"
-    },
-    {
-        "symbol": "DXCM",
-        "companyName": "德康医疗",
-        "industry": "医疗设备"
-    },
-    {
-        "symbol": "EA",
-        "companyName": "艺电",
-        "industry": "电子游戏与多媒体"
-    },
-    {
-        "symbol": "EAF",
-        "companyName": "GrafTech",
-        "industry": "电气设备及零件"
-    },
-    {
         "symbol": "EBAY",
         "companyName": "eBay",
         "industry": "互联网零售"
     },
     {
-        "symbol": "ECDA",
-        "companyName": "ECD Automotive Design",
-        "industry": "汽车制造商"
-    },
-    {
         "symbol": "ECL",
         "companyName": "艺康集团",
         "industry": "特种化学品"
-    },
-    {
-        "symbol": "ECPG",
-        "companyName": "安可资本",
-        "industry": "抵押金融"
-    },
-    {
-        "symbol": "EDU",
-        "companyName": "新东方",
-        "industry": "教育培训服务"
-    },
-    {
-        "symbol": "EEFT",
-        "companyName": "嘉银通",
-        "industry": "软件 - 基础架构"
-    },
-    {
-        "symbol": "EFC",
-        "companyName": "Ellington投资",
-        "industry": "房地产投资信托 - 抵押"
     },
     {
         "symbol": "EFX",
@@ -2260,54 +1195,14 @@
         "industry": "保险 - 再保险"
     },
     {
-        "symbol": "EGAN",
-        "companyName": "eGain",
-        "industry": "软件 - 应用"
-    },
-    {
-        "symbol": "EGO",
-        "companyName": "埃氏金业",
-        "industry": "黄金"
-    },
-    {
-        "symbol": "EHC",
-        "companyName": "Encompass Health",
-        "industry": "医疗设施"
-    },
-    {
-        "symbol": "EIX",
-        "companyName": "爱迪生国际",
-        "industry": "公用事业 - 受监管电力"
-    },
-    {
         "symbol": "EL",
         "companyName": "雅诗兰黛",
         "industry": "家用和个人产品"
     },
     {
-        "symbol": "ELAN",
-        "companyName": "Elanco Animal Health",
-        "industry": "药品制造商 - 专业和通用"
-    },
-    {
-        "symbol": "ELME",
-        "companyName": "Elme Communities",
-        "industry": "房地产投资信托 - 住宅"
-    },
-    {
         "symbol": "ELV",
         "companyName": "Elevance Health",
         "industry": "医疗计划"
-    },
-    {
-        "symbol": "EMBC",
-        "companyName": "Embecta",
-        "industry": "医疗设备和用品"
-    },
-    {
-        "symbol": "EME",
-        "companyName": "EMCOR Group",
-        "industry": "工程建设"
     },
     {
         "symbol": "EMN",
@@ -2323,26 +1218,6 @@
         "symbol": "ENB",
         "companyName": "恩桥",
         "industry": "石油和天然气中游"
-    },
-    {
-        "symbol": "ENOV",
-        "companyName": "Enovis Corp",
-        "industry": "特种工业机械"
-    },
-    {
-        "symbol": "ENPH",
-        "companyName": "Enphase Energy",
-        "industry": "太阳能"
-    },
-    {
-        "symbol": "ENR",
-        "companyName": "劲量控股",
-        "industry": "电气设备及零件"
-    },
-    {
-        "symbol": "ENS",
-        "companyName": "艾诺斯",
-        "industry": "电气设备及零件"
     },
     {
         "symbol": "ENTG",
@@ -2365,14 +1240,9 @@
         "industry": "石油和天然气中游"
     },
     {
-        "symbol": "EQC",
-        "companyName": "Equity Commonwealth",
-        "industry": "房地产投资信托 - 写字楼"
-    },
-    {
         "symbol": "EQH",
         "companyName": "Equitable",
-        "industry": "保险 - 多元化"
+        "industry": "资产管理"
     },
     {
         "symbol": "EQIX",
@@ -2395,21 +1265,6 @@
         "industry": "石油和天然气勘探及生产"
     },
     {
-        "symbol": "EQX",
-        "companyName": "Equinox Gold",
-        "industry": "黄金"
-    },
-    {
-        "symbol": "ES",
-        "companyName": "Eversource Energy",
-        "industry": "公用事业 - 受监管电力"
-    },
-    {
-        "symbol": "ESGR",
-        "companyName": "恩斯塔",
-        "industry": "保险 - 多元化"
-    },
-    {
         "symbol": "ESS",
         "companyName": "埃塞克斯信托",
         "industry": "房地产投资信托 - 住宅"
@@ -2430,34 +1285,14 @@
         "industry": "特种工业机械"
     },
     {
-        "symbol": "ETR",
-        "companyName": "安特吉",
-        "industry": "公用事业 - 受监管电力"
-    },
-    {
-        "symbol": "ETSY",
-        "companyName": "Etsy Inc",
-        "industry": "互联网零售"
-    },
-    {
-        "symbol": "EVBG",
-        "companyName": "Everbridge",
-        "industry": "软件 - 应用"
-    },
-    {
-        "symbol": "EVER",
-        "companyName": "EverQuote",
-        "industry": "互联网内容与信息"
-    },
-    {
-        "symbol": "EVH",
-        "companyName": "Evolent Health",
-        "industry": "健康信息服务"
-    },
-    {
         "symbol": "EVR",
         "companyName": "Evercore",
         "industry": "资本市场"
+    },
+    {
+        "symbol": "EVRG",
+        "companyName": "西星能源",
+        "industry": "公用事业 - 受监管电力"
     },
     {
         "symbol": "EW",
@@ -2470,19 +1305,9 @@
         "industry": "银行 - 地区性"
     },
     {
-        "symbol": "EWTX",
-        "companyName": "Edgewise Therapeutics",
-        "industry": "生物技术"
-    },
-    {
-        "symbol": "EXC",
-        "companyName": "爱克斯龙电力",
-        "industry": "公用事业 - 受监管电力"
-    },
-    {
-        "symbol": "EXLS",
-        "companyName": "伊克赛尔服务",
-        "industry": "信息技术服务"
+        "symbol": "EXE",
+        "companyName": "Expand Energy",
+        "industry": "石油和天然气勘探及生产"
     },
     {
         "symbol": "EXPD",
@@ -2495,34 +1320,14 @@
         "industry": "旅游服务"
     },
     {
-        "symbol": "EXPO",
-        "companyName": "毅博科技咨询",
-        "industry": "工程建设"
-    },
-    {
         "symbol": "EXR",
         "companyName": "Extra Space Storage",
         "industry": "房地产投资信托 - 工业"
     },
     {
-        "symbol": "EXTR",
-        "companyName": "极速网络",
-        "industry": "通讯设备"
-    },
-    {
-        "symbol": "EYE",
-        "companyName": "National Vision",
-        "industry": "专业零售"
-    },
-    {
-        "symbol": "FA",
-        "companyName": "First Advantage",
-        "industry": "专业商务服务"
-    },
-    {
-        "symbol": "FAF",
-        "companyName": "First American Financial",
-        "industry": "保险 - 专业"
+        "symbol": "F",
+        "companyName": "福特汽车",
+        "industry": "汽车制造商"
     },
     {
         "symbol": "FANG",
@@ -2535,38 +1340,13 @@
         "industry": "产业分布"
     },
     {
-        "symbol": "FAT",
-        "companyName": "FAT Brands",
-        "industry": "餐厅"
-    },
-    {
-        "symbol": "FBIN",
-        "companyName": "Fortune Brands Innovations",
-        "industry": "建筑产品及设备"
-    },
-    {
-        "symbol": "FC",
-        "companyName": "富兰克林柯维",
-        "industry": "教育培训服务"
-    },
-    {
-        "symbol": "FCN",
-        "companyName": "FTI咨询",
-        "industry": "咨询服务"
-    },
-    {
         "symbol": "FCX",
         "companyName": "麦克莫兰銅金",
         "industry": "铜"
     },
     {
-        "symbol": "FDMT",
-        "companyName": "4D Molecular Therapeutics",
-        "industry": "生物技术"
-    },
-    {
         "symbol": "FDS",
-        "companyName": "辉盛研究系统",
+        "companyName": "慧甚",
         "industry": "财务数据与证券交易所"
     },
     {
@@ -2575,9 +1355,9 @@
         "industry": "综合货运与物流"
     },
     {
-        "symbol": "FE",
-        "companyName": "第一能源",
-        "industry": "公用事业 - 受监管电力"
+        "symbol": "FER",
+        "companyName": "Ferrovial SE",
+        "industry": "基础设施运营"
     },
     {
         "symbol": "FERG",
@@ -2585,29 +1365,9 @@
         "industry": "产业分布"
     },
     {
-        "symbol": "FEXD",
-        "companyName": "Fintech Ecosystem Development Corp",
-        "industry": "空壳公司"
-    },
-    {
         "symbol": "FFIV",
         "companyName": "F5 Inc",
         "industry": "软件 - 基础架构"
-    },
-    {
-        "symbol": "FFNW",
-        "companyName": "First Financial Northwest",
-        "industry": "银行 - 地区性"
-    },
-    {
-        "symbol": "FG",
-        "companyName": "F&G Annuities & Life",
-        "industry": "保险 - 人寿"
-    },
-    {
-        "symbol": "FHB",
-        "companyName": "First Hawaiian",
-        "industry": "银行 - 地区性"
     },
     {
         "symbol": "FHN",
@@ -2625,16 +1385,6 @@
         "industry": "软件 - 应用"
     },
     {
-        "symbol": "FIHL",
-        "companyName": "Fidelis Insurance",
-        "industry": "保险 - 多元化"
-    },
-    {
-        "symbol": "FINV",
-        "companyName": "信也科技",
-        "industry": "信贷服务"
-    },
-    {
         "symbol": "FIS",
         "companyName": "繁德信息技术",
         "industry": "信息技术服务"
@@ -2645,29 +1395,9 @@
         "industry": "银行 - 地区性"
     },
     {
-        "symbol": "FIVE",
-        "companyName": "Five Below",
-        "industry": "专业零售"
-    },
-    {
-        "symbol": "FIVN",
-        "companyName": "Five9",
-        "industry": "软件 - 基础架构"
-    },
-    {
         "symbol": "FIX",
         "companyName": "美国舒适系统",
         "industry": "工程建设"
-    },
-    {
-        "symbol": "FIZZ",
-        "companyName": "National Beverage",
-        "industry": "饮料 - 非酒精饮料"
-    },
-    {
-        "symbol": "FL",
-        "companyName": "富乐客",
-        "industry": "服装零售"
     },
     {
         "symbol": "FLEX",
@@ -2675,24 +1405,9 @@
         "industry": "电子元器件"
     },
     {
-        "symbol": "FLFV",
-        "companyName": "Feutune Light Acquisition Corp",
-        "industry": "空壳公司"
-    },
-    {
-        "symbol": "FLS",
-        "companyName": "福斯",
-        "industry": "特种工业机械"
-    },
-    {
-        "symbol": "FLYX",
-        "companyName": "flyExclusive",
-        "industry": "航空公司"
-    },
-    {
-        "symbol": "FMC",
-        "companyName": "FMC公司",
-        "industry": "农业投入品"
+        "symbol": "FLUT",
+        "companyName": "Flutter Entertainment",
+        "industry": "博彩"
     },
     {
         "symbol": "FMS",
@@ -2703,21 +1418,6 @@
         "symbol": "FMX",
         "companyName": "FEMSA",
         "industry": "饮料 - 啤酒"
-    },
-    {
-        "symbol": "FN",
-        "companyName": "Fabrinet",
-        "industry": "电子元器件"
-    },
-    {
-        "symbol": "FNA",
-        "companyName": "Paragon 28",
-        "industry": "医疗设备"
-    },
-    {
-        "symbol": "FNCH",
-        "companyName": "Finch Therapeutics",
-        "industry": "生物技术"
     },
     {
         "symbol": "FND",
@@ -2735,16 +1435,6 @@
         "industry": "黄金"
     },
     {
-        "symbol": "FOA",
-        "companyName": "Finance of America",
-        "industry": "信贷服务"
-    },
-    {
-        "symbol": "FOSL",
-        "companyName": "福斯尔集团",
-        "industry": "奢侈品"
-    },
-    {
         "symbol": "FOUR",
         "companyName": "Shift4 Payments",
         "industry": "软件 - 基础架构"
@@ -2760,44 +1450,9 @@
         "industry": "娱乐"
     },
     {
-        "symbol": "FOXF",
-        "companyName": "Fox Factory",
-        "industry": "汽车零件"
-    },
-    {
-        "symbol": "FPH",
-        "companyName": "五点控股",
-        "industry": "房地产 - 开发"
-    },
-    {
-        "symbol": "FR",
-        "companyName": "第一工业地产",
-        "industry": "房地产投资信托 - 工业"
-    },
-    {
-        "symbol": "FRPH",
-        "companyName": "FRP Holdings",
-        "industry": "房地产服务"
-    },
-    {
-        "symbol": "FRSH",
-        "companyName": "Freshworks",
-        "industry": "软件 - 应用"
-    },
-    {
-        "symbol": "FRT",
-        "companyName": "FRT信托",
-        "industry": "房地产投资信托 - 零售"
-    },
-    {
         "symbol": "FSLR",
         "companyName": "第一太阳能",
         "industry": "太阳能"
-    },
-    {
-        "symbol": "FSTR",
-        "companyName": "LB福斯特",
-        "industry": "铁路"
     },
     {
         "symbol": "FSV",
@@ -2810,11 +1465,6 @@
         "industry": "租赁服务"
     },
     {
-        "symbol": "FTDR",
-        "companyName": "Frontdoor",
-        "industry": "个性化服务"
-    },
-    {
         "symbol": "FTI",
         "companyName": "德希尼布FMC",
         "industry": "石油和天然气设备与服务"
@@ -2825,49 +1475,9 @@
         "industry": "软件 - 基础架构"
     },
     {
-        "symbol": "FTRE",
-        "companyName": "Fortrea Holdings",
-        "industry": "生物技术"
-    },
-    {
         "symbol": "FTV",
         "companyName": "Fortive",
         "industry": "科技仪器"
-    },
-    {
-        "symbol": "FUL",
-        "companyName": "富乐",
-        "industry": "特种化学品"
-    },
-    {
-        "symbol": "FULT",
-        "companyName": "富尔顿金融",
-        "industry": "银行 - 地区性"
-    },
-    {
-        "symbol": "G",
-        "companyName": "简伯特",
-        "industry": "信息技术服务"
-    },
-    {
-        "symbol": "GANX",
-        "companyName": "Gain Therapeutics",
-        "industry": "生物技术"
-    },
-    {
-        "symbol": "GAU",
-        "companyName": "Galiano Gold",
-        "industry": "黄金"
-    },
-    {
-        "symbol": "GB",
-        "companyName": "Global Blue",
-        "industry": "软件 - 基础架构"
-    },
-    {
-        "symbol": "GCI",
-        "companyName": "甘尼特",
-        "industry": "出版"
     },
     {
         "symbol": "GD",
@@ -2875,19 +1485,9 @@
         "industry": "航空航天和国防"
     },
     {
-        "symbol": "GE",
-        "companyName": "通用电气",
-        "industry": "航空航天和国防"
-    },
-    {
-        "symbol": "GEF",
-        "companyName": "格瑞夫",
-        "industry": "包装与容器"
-    },
-    {
-        "symbol": "GEG",
-        "companyName": "Great Elm",
-        "industry": "资产管理"
+        "symbol": "GDDY",
+        "companyName": "GoDaddy",
+        "industry": "软件 - 基础架构"
     },
     {
         "symbol": "GEHC",
@@ -2895,69 +1495,29 @@
         "industry": "健康信息服务"
     },
     {
-        "symbol": "GENK",
-        "companyName": "GEN Restaurant Group",
-        "industry": "餐厅"
+        "symbol": "GEN",
+        "companyName": "Gen Digital",
+        "industry": "软件 - 基础架构"
     },
     {
-        "symbol": "GEO",
-        "companyName": "GEO惩教集团",
-        "industry": "安全与防护服务"
+        "symbol": "GEV",
+        "companyName": "GE Vernova",
+        "industry": "公用事业 - 可再生"
     },
     {
-        "symbol": "GEOS",
-        "companyName": "Geospace Technologies",
-        "industry": "石油和天然气设备与服务"
+        "symbol": "GFI",
+        "companyName": "金田",
+        "industry": "黄金"
     },
     {
-        "symbol": "GFS",
-        "companyName": "GlobalFoundries",
-        "industry": "半导体"
-    },
-    {
-        "symbol": "GGB",
-        "companyName": "盖尔道钢铁",
-        "industry": "钢"
+        "symbol": "GFL",
+        "companyName": "GFL Environmental",
+        "industry": "废物管理"
     },
     {
         "symbol": "GGG",
         "companyName": "固瑞克",
         "industry": "特种工业机械"
-    },
-    {
-        "symbol": "GH",
-        "companyName": "Guardant Health",
-        "industry": "诊断与研究"
-    },
-    {
-        "symbol": "GHC",
-        "companyName": "格雷厄姆控股",
-        "industry": "教育培训服务"
-    },
-    {
-        "symbol": "GHLD",
-        "companyName": "Guild Holdings",
-        "industry": "抵押金融"
-    },
-    {
-        "symbol": "GHM",
-        "companyName": "Graham",
-        "industry": "特种工业机械"
-    },
-    {
-        "symbol": "GIB",
-        "companyName": "CGI Inc",
-        "industry": "信息技术服务"
-    },
-    {
-        "symbol": "GIII",
-        "companyName": "G-III服装集团",
-        "industry": "服装制造"
-    },
-    {
-        "symbol": "GIL",
-        "companyName": "吉登运动服",
-        "industry": "服装制造"
     },
     {
         "symbol": "GILD",
@@ -2970,29 +1530,14 @@
         "industry": "包装食品"
     },
     {
-        "symbol": "GKOS",
-        "companyName": "Glaukos",
-        "industry": "医疗设备"
-    },
-    {
-        "symbol": "GLOB",
-        "companyName": "Globant",
-        "industry": "信息技术服务"
-    },
-    {
-        "symbol": "GLPG",
-        "companyName": "Galapagos",
-        "industry": "生物技术"
+        "symbol": "GL",
+        "companyName": "Globe Life",
+        "industry": "保险 - 人寿"
     },
     {
         "symbol": "GLPI",
         "companyName": "Gaming & Leisure Properties",
         "industry": "房地产投资信托 - 专业"
-    },
-    {
-        "symbol": "GLST",
-        "companyName": "Global Star Acquisition Inc",
-        "industry": "空壳公司"
     },
     {
         "symbol": "GLW",
@@ -3005,59 +1550,14 @@
         "industry": "汽车制造商"
     },
     {
-        "symbol": "GMAB",
-        "companyName": "Genmab",
-        "industry": "生物技术"
-    },
-    {
-        "symbol": "GNE",
-        "companyName": "Genie Energy",
-        "industry": "公用事业 - 受监管电力"
-    },
-    {
-        "symbol": "GNRC",
-        "companyName": "Generac",
-        "industry": "特种工业机械"
-    },
-    {
-        "symbol": "GNTX",
-        "companyName": "真泰克",
-        "industry": "汽车零件"
-    },
-    {
-        "symbol": "GODN",
-        "companyName": "Golden Star Acquisition Corp",
-        "industry": "空壳公司"
-    },
-    {
         "symbol": "GOLD",
         "companyName": "巴里克黄金",
         "industry": "黄金"
     },
     {
-        "symbol": "GOOG",
-        "companyName": "谷歌-C",
-        "industry": "互联网内容与信息"
-    },
-    {
-        "symbol": "GOOS",
-        "companyName": "加拿大鹅",
-        "industry": "服装制造"
-    },
-    {
         "symbol": "GPC",
         "companyName": "Genuine Parts",
-        "industry": "专业零售"
-    },
-    {
-        "symbol": "GPI",
-        "companyName": "汽车一组",
-        "industry": "汽车和卡车经销权"
-    },
-    {
-        "symbol": "GPK",
-        "companyName": "Graphic Packaging",
-        "industry": "包装与容器"
+        "industry": "汽车零件"
     },
     {
         "symbol": "GPN",
@@ -3065,29 +1565,9 @@
         "industry": "专业商务服务"
     },
     {
-        "symbol": "GPOR",
-        "companyName": "格尔夫波特能源",
-        "industry": "石油和天然气勘探及生产"
-    },
-    {
-        "symbol": "GPRO",
-        "companyName": "GoPro",
-        "industry": "消费电子品"
-    },
-    {
-        "symbol": "GPS",
-        "companyName": "Gap Inc",
-        "industry": "服装零售"
-    },
-    {
         "symbol": "GRAB",
         "companyName": "Grab Holdings",
         "industry": "软件 - 应用"
-    },
-    {
-        "symbol": "GRBK",
-        "companyName": "Green Brick Partners",
-        "industry": "住宅施工"
     },
     {
         "symbol": "GRMN",
@@ -3095,19 +1575,9 @@
         "industry": "科技仪器"
     },
     {
-        "symbol": "GRND",
-        "companyName": "Grindr",
-        "industry": "软件 - 应用"
-    },
-    {
         "symbol": "GS",
         "companyName": "高盛",
         "industry": "资本市场"
-    },
-    {
-        "symbol": "GSHD",
-        "companyName": "Goosehead Insurance",
-        "industry": "保险 - 多元化"
     },
     {
         "symbol": "GSK",
@@ -3115,39 +1585,9 @@
         "industry": "药品制造商 - 一般"
     },
     {
-        "symbol": "GSM",
-        "companyName": "Ferroglobe",
-        "industry": "其他工业金属与采矿"
-    },
-    {
-        "symbol": "GT",
-        "companyName": "固特异轮胎橡胶",
-        "industry": "汽车零件"
-    },
-    {
-        "symbol": "GTES",
-        "companyName": "Gates Industrial",
-        "industry": "特种工业机械"
-    },
-    {
-        "symbol": "GTN",
-        "companyName": "格雷电视",
-        "industry": "广播"
-    },
-    {
-        "symbol": "GTX",
-        "companyName": "Garrett Motion",
-        "industry": "汽车零件"
-    },
-    {
         "symbol": "GWRE",
         "companyName": "Guidewire Software",
         "industry": "软件 - 应用"
-    },
-    {
-        "symbol": "GXO",
-        "companyName": "GXO Logistics",
-        "industry": "综合货运与物流"
     },
     {
         "symbol": "H",
@@ -3155,44 +1595,9 @@
         "industry": "住宿"
     },
     {
-        "symbol": "HA",
-        "companyName": "夏威夷控股",
-        "industry": "航空公司"
-    },
-    {
-        "symbol": "HAIN",
-        "companyName": "海恩时富",
-        "industry": "包装食品"
-    },
-    {
-        "symbol": "HAL",
-        "companyName": "哈里伯顿",
-        "industry": "石油和天然气设备与服务"
-    },
-    {
-        "symbol": "HALO",
-        "companyName": "奥洛兹美医疗",
-        "industry": "生物技术"
-    },
-    {
-        "symbol": "HAYN",
-        "companyName": "海恩斯国际",
-        "industry": "金属加工"
-    },
-    {
-        "symbol": "HAYW",
-        "companyName": "Hayward Holdings",
-        "industry": "电气设备及零件"
-    },
-    {
-        "symbol": "HBB",
-        "companyName": "Hamilton Beach Brands",
-        "industry": "家具、固定装置和家电"
-    },
-    {
-        "symbol": "HBM",
-        "companyName": "Hudbay Minerals",
-        "industry": "铜"
+        "symbol": "HBAN",
+        "companyName": "亨廷顿银行",
+        "industry": "银行 - 地区性"
     },
     {
         "symbol": "HCA",
@@ -3200,79 +1605,14 @@
         "industry": "医疗设施"
     },
     {
-        "symbol": "HCAT",
-        "companyName": "Health Catalyst",
-        "industry": "健康信息服务"
-    },
-    {
-        "symbol": "HCC",
-        "companyName": "Warrior Met Coal",
-        "industry": "焦练煤"
-    },
-    {
-        "symbol": "HD",
-        "companyName": "家得宝",
-        "industry": "家居装修零售"
-    },
-    {
         "symbol": "HDB",
         "companyName": "HDFC银行",
         "industry": "银行 - 地区性"
     },
     {
-        "symbol": "HEES",
-        "companyName": "H&E设备服务",
-        "industry": "租赁服务"
-    },
-    {
-        "symbol": "HELE",
-        "companyName": "海伦特洛伊家电",
-        "industry": "家用和个人产品"
-    },
-    {
         "symbol": "HES",
         "companyName": "赫斯",
         "industry": "石油和天然气勘探及生产"
-    },
-    {
-        "symbol": "HGTY",
-        "companyName": "Hagerty",
-        "industry": "保险 - 财产和伤亡"
-    },
-    {
-        "symbol": "HGV",
-        "companyName": "Hilton Grand Vacations",
-        "industry": "渡假村和赌场"
-    },
-    {
-        "symbol": "HHH",
-        "companyName": "Howard Hughes Holding",
-        "industry": "房地产 - 多元化"
-    },
-    {
-        "symbol": "HI",
-        "companyName": "希伦布兰德",
-        "industry": "特种工业机械"
-    },
-    {
-        "symbol": "HII",
-        "companyName": "亨廷顿英格尔斯工业",
-        "industry": "航空航天和国防"
-    },
-    {
-        "symbol": "HIMS",
-        "companyName": "Hims & Hers Health",
-        "industry": "家用和个人产品"
-    },
-    {
-        "symbol": "HIW",
-        "companyName": "海伍兹物业",
-        "industry": "房地产投资信托 - 写字楼"
-    },
-    {
-        "symbol": "HLF",
-        "companyName": "康宝莱",
-        "industry": "包装食品"
     },
     {
         "symbol": "HLI",
@@ -3285,11 +1625,6 @@
         "industry": "药品制造商 - 专业和通用"
     },
     {
-        "symbol": "HLNE",
-        "companyName": "Hamilton Lane",
-        "industry": "资产管理"
-    },
-    {
         "symbol": "HLT",
         "companyName": "希尔顿酒店",
         "industry": "住宿"
@@ -3300,49 +1635,9 @@
         "industry": "汽车制造商"
     },
     {
-        "symbol": "HMN",
-        "companyName": "霍勒斯曼恩",
-        "industry": "保险 - 财产和伤亡"
-    },
-    {
-        "symbol": "HNRA",
-        "companyName": "HNR Acquisition Corp",
-        "industry": "空壳公司"
-    },
-    {
-        "symbol": "HNRG",
-        "companyName": "Hallador Energy",
-        "industry": "动力煤"
-    },
-    {
-        "symbol": "HNST",
-        "companyName": "The Honest",
-        "industry": "家用和个人产品"
-    },
-    {
-        "symbol": "HOFT",
-        "companyName": "胡克家具",
-        "industry": "家具、固定装置和家电"
-    },
-    {
-        "symbol": "HOG",
-        "companyName": "哈雷戴维森",
-        "industry": "休闲车"
-    },
-    {
-        "symbol": "HOLI",
-        "companyName": "和利时自动化",
-        "industry": "电气设备及零件"
-    },
-    {
         "symbol": "HOLX",
         "companyName": "豪洛捷",
         "industry": "医疗设备和用品"
-    },
-    {
-        "symbol": "HOMB",
-        "companyName": "Home BancShares",
-        "industry": "银行 - 地区性"
     },
     {
         "symbol": "HON",
@@ -3350,24 +1645,9 @@
         "industry": "企业集团"
     },
     {
-        "symbol": "HOVR",
-        "companyName": "New Horizon Aircraft",
-        "industry": "航空航天和国防"
-    },
-    {
-        "symbol": "HP",
-        "companyName": "赫尔默里奇和佩恩材料",
-        "industry": "石油和天然气钻井"
-    },
-    {
         "symbol": "HPE",
         "companyName": "慧与科技",
         "industry": "通讯设备"
-    },
-    {
-        "symbol": "HPP",
-        "companyName": "Hudson Pacific Properties",
-        "industry": "房地产投资信托 - 写字楼"
     },
     {
         "symbol": "HPQ",
@@ -3375,24 +1655,9 @@
         "industry": "电脑硬件"
     },
     {
-        "symbol": "HRB",
-        "companyName": "H&R布洛克税务",
-        "industry": "个性化服务"
-    },
-    {
-        "symbol": "HRI",
-        "companyName": "Herc Holdings",
-        "industry": "租赁服务"
-    },
-    {
         "symbol": "HRL",
         "companyName": "荷美尔食品",
         "industry": "包装食品"
-    },
-    {
-        "symbol": "HSTM",
-        "companyName": "健康流科技",
-        "industry": "健康信息服务"
     },
     {
         "symbol": "HSY",
@@ -3405,21 +1670,6 @@
         "industry": "住宿"
     },
     {
-        "symbol": "HTLD",
-        "companyName": "哈特兰快递",
-        "industry": "公路运输"
-    },
-    {
-        "symbol": "HTZ",
-        "companyName": "赫兹租车",
-        "industry": "租赁服务"
-    },
-    {
-        "symbol": "HUBB",
-        "companyName": "哈勃集团",
-        "industry": "电气设备及零件"
-    },
-    {
         "symbol": "HUBS",
         "companyName": "HubSpot",
         "industry": "软件 - 应用"
@@ -3430,34 +1680,9 @@
         "industry": "医疗计划"
     },
     {
-        "symbol": "HUN",
-        "companyName": "亨斯迈",
-        "industry": "化工品"
-    },
-    {
         "symbol": "HWM",
         "companyName": "Howmet Aerospace",
         "industry": "航空航天和国防"
-    },
-    {
-        "symbol": "HXL",
-        "companyName": "赫氏",
-        "industry": "航空航天和国防"
-    },
-    {
-        "symbol": "IAC",
-        "companyName": "IAC Inc",
-        "industry": "互联网内容与信息"
-    },
-    {
-        "symbol": "IAG",
-        "companyName": "Iamgold",
-        "industry": "黄金"
-    },
-    {
-        "symbol": "IART",
-        "companyName": "英特格拉生命科学",
-        "industry": "医疗设备"
     },
     {
         "symbol": "IBKR",
@@ -3465,24 +1690,9 @@
         "industry": "资本市场"
     },
     {
-        "symbol": "IBM",
-        "companyName": "IBM Corp",
-        "industry": "信息技术服务"
-    },
-    {
         "symbol": "IBN",
         "companyName": "印度工业信贷投资银行",
         "industry": "银行 - 地区性"
-    },
-    {
-        "symbol": "IBP",
-        "companyName": "Installed Building Products",
-        "industry": "住宅施工"
-    },
-    {
-        "symbol": "ICD",
-        "companyName": "Independence Contract Drilling",
-        "industry": "石油和天然气钻井"
     },
     {
         "symbol": "ICE",
@@ -3490,49 +1700,14 @@
         "industry": "财务数据与证券交易所"
     },
     {
-        "symbol": "ICFI",
-        "companyName": "ICF国际",
-        "industry": "咨询服务"
-    },
-    {
-        "symbol": "ICHR",
-        "companyName": "Ichor Holdings",
-        "industry": "半导体设备与材料"
-    },
-    {
         "symbol": "ICLR",
         "companyName": "Icon PLC",
         "industry": "诊断与研究"
     },
     {
-        "symbol": "IDA",
-        "companyName": "Idacorp",
-        "industry": "公用事业 - 受监管电力"
-    },
-    {
-        "symbol": "IDCC",
-        "companyName": "InterDigital",
-        "industry": "软件 - 应用"
-    },
-    {
-        "symbol": "IDT",
-        "companyName": "万威",
-        "industry": "电信服务"
-    },
-    {
-        "symbol": "IDWM",
-        "companyName": "IDW Media",
-        "industry": "-"
-    },
-    {
         "symbol": "IDXX",
         "companyName": "爱德士",
         "industry": "诊断与研究"
-    },
-    {
-        "symbol": "IEP",
-        "companyName": "伊坎企业",
-        "industry": "石油和天然气精炼与营销"
     },
     {
         "symbol": "IEX",
@@ -3545,19 +1720,9 @@
         "industry": "特种化学品"
     },
     {
-        "symbol": "IIIN",
-        "companyName": "Insteel Industries",
-        "industry": "金属加工"
-    },
-    {
         "symbol": "ILMN",
         "companyName": "Illumina",
         "industry": "诊断与研究"
-    },
-    {
-        "symbol": "IMAX",
-        "companyName": "IMAX Corp",
-        "industry": "娱乐"
     },
     {
         "symbol": "IMO",
@@ -3565,19 +1730,9 @@
         "industry": "石油和天然气综合"
     },
     {
-        "symbol": "INBX",
-        "companyName": "Inhibrx",
-        "industry": "生物技术"
-    },
-    {
         "symbol": "INCY",
         "companyName": "因塞特",
         "industry": "生物技术"
-    },
-    {
-        "symbol": "INFN",
-        "companyName": "英飞朗",
-        "industry": "通讯设备"
     },
     {
         "symbol": "INFY",
@@ -3585,24 +1740,9 @@
         "industry": "信息技术服务"
     },
     {
-        "symbol": "INGR",
-        "companyName": "宜瑞安",
-        "industry": "包装食品"
-    },
-    {
-        "symbol": "INSP",
-        "companyName": "Inspire Medical Systems",
-        "industry": "医疗设备"
-    },
-    {
-        "symbol": "INST",
-        "companyName": "Instructure Holdings",
-        "industry": "软件 - 应用"
-    },
-    {
-        "symbol": "INSW",
-        "companyName": "International Seaways",
-        "industry": "石油和天然气中游"
+        "symbol": "ING",
+        "companyName": "荷兰国际集团",
+        "industry": "银行 - 多元化"
     },
     {
         "symbol": "INTC",
@@ -3615,11 +1755,6 @@
         "industry": "软件 - 应用"
     },
     {
-        "symbol": "IONS",
-        "companyName": "Ionis Pharmaceuticals",
-        "industry": "生物技术"
-    },
-    {
         "symbol": "IP",
         "companyName": "国际纸业",
         "industry": "包装与容器"
@@ -3628,21 +1763,6 @@
         "symbol": "IPG",
         "companyName": "埃培智",
         "industry": "广告代理"
-    },
-    {
-        "symbol": "IPGP",
-        "companyName": "IPG光电",
-        "industry": "半导体设备与材料"
-    },
-    {
-        "symbol": "IPI",
-        "companyName": "Intrepid Potash",
-        "industry": "农业投入品"
-    },
-    {
-        "symbol": "IQ",
-        "companyName": "爱奇艺",
-        "industry": "娱乐"
     },
     {
         "symbol": "IQV",
@@ -3655,34 +1775,9 @@
         "industry": "特种工业机械"
     },
     {
-        "symbol": "IRM",
-        "companyName": "铁山",
-        "industry": "房地产投资信托 - 专业"
-    },
-    {
-        "symbol": "IRMD",
-        "companyName": "IRadimed",
-        "industry": "医疗设备"
-    },
-    {
-        "symbol": "IRWD",
-        "companyName": "Ironwood医药",
-        "industry": "药品制造商 - 专业和通用"
-    },
-    {
-        "symbol": "ISRG",
-        "companyName": "直觉外科公司",
-        "industry": "医疗设备和用品"
-    },
-    {
         "symbol": "IT",
         "companyName": "加特纳",
         "industry": "信息技术服务"
-    },
-    {
-        "symbol": "ITIC",
-        "companyName": "投资者不动产",
-        "industry": "保险 - 专业"
     },
     {
         "symbol": "ITUB",
@@ -3695,49 +1790,14 @@
         "industry": "特种工业机械"
     },
     {
-        "symbol": "IVT",
-        "companyName": "InvenTrust Properties",
-        "industry": "房地产投资信托 - 零售"
-    },
-    {
-        "symbol": "IVVD",
-        "companyName": "Invivyd",
-        "industry": "生物技术"
-    },
-    {
-        "symbol": "IVZ",
-        "companyName": "景顺",
-        "industry": "资产管理"
-    },
-    {
         "symbol": "J",
         "companyName": "雅各布工程",
         "industry": "工程建设"
     },
     {
-        "symbol": "JACK",
-        "companyName": "Jack in the Box",
-        "industry": "餐厅"
-    },
-    {
-        "symbol": "JAZZ",
-        "companyName": "爵士制药",
-        "industry": "生物技术"
-    },
-    {
-        "symbol": "JBI",
-        "companyName": "Janus International",
-        "industry": "建筑产品及设备"
-    },
-    {
-        "symbol": "JBLU",
-        "companyName": "捷蓝航空",
-        "industry": "航空公司"
-    },
-    {
-        "symbol": "JBT",
-        "companyName": "约翰宾技术",
-        "industry": "特种工业机械"
+        "symbol": "JBL",
+        "companyName": "捷普科技",
+        "industry": "电子元器件"
     },
     {
         "symbol": "JCI",
@@ -3755,19 +1815,9 @@
         "industry": "资本市场"
     },
     {
-        "symbol": "JHG",
-        "companyName": "骏利亨德森集团",
-        "industry": "资产管理"
-    },
-    {
         "symbol": "JKHY",
         "companyName": "杰克亨利",
         "industry": "信息技术服务"
-    },
-    {
-        "symbol": "JKS",
-        "companyName": "晶科能源",
-        "industry": "太阳能"
     },
     {
         "symbol": "JLL",
@@ -3775,54 +1825,9 @@
         "industry": "房地产服务"
     },
     {
-        "symbol": "JNJ",
-        "companyName": "强生",
-        "industry": "药品制造商 - 一般"
-    },
-    {
-        "symbol": "JNPR",
-        "companyName": "瞻博网络",
-        "industry": "通讯设备"
-    },
-    {
-        "symbol": "JOE",
-        "companyName": "圣乔",
-        "industry": "房地产 - 多元化"
-    },
-    {
-        "symbol": "JOUT",
-        "companyName": "约翰逊户外",
-        "industry": "休闲"
-    },
-    {
-        "symbol": "JPM",
-        "companyName": "摩根大通",
-        "industry": "银行 - 多元化"
-    },
-    {
-        "symbol": "JWN",
-        "companyName": "诺德斯特龙",
-        "industry": "百货商店"
-    },
-    {
-        "symbol": "JXN",
-        "companyName": "Jackson Financial",
-        "industry": "保险 - 人寿"
-    },
-    {
         "symbol": "K",
         "companyName": "家乐氏",
         "industry": "包装食品"
-    },
-    {
-        "symbol": "KALU",
-        "companyName": "凯撒铝业",
-        "industry": "铝"
-    },
-    {
-        "symbol": "KARO",
-        "companyName": "Karooooo",
-        "industry": "软件 - 应用"
     },
     {
         "symbol": "KB",
@@ -3830,54 +1835,9 @@
         "industry": "银行 - 地区性"
     },
     {
-        "symbol": "KBH",
-        "companyName": "KB Home",
-        "industry": "住宅施工"
-    },
-    {
-        "symbol": "KBR",
-        "companyName": "KBR科技",
-        "industry": "工程建设"
-    },
-    {
-        "symbol": "KD",
-        "companyName": "Kyndryl",
-        "industry": "信息技术服务"
-    },
-    {
-        "symbol": "KDP",
-        "companyName": "Keurig Dr Pepper",
-        "industry": "饮料 - 非酒精饮料"
-    },
-    {
-        "symbol": "KE",
-        "companyName": "Kimball Electronics",
-        "industry": "电气设备及零件"
-    },
-    {
-        "symbol": "KEP",
-        "companyName": "韩国电力",
-        "industry": "公用事业 - 受监管电力"
-    },
-    {
-        "symbol": "KEX",
-        "companyName": "卡比海运",
-        "industry": "海运"
-    },
-    {
-        "symbol": "KEY",
-        "companyName": "KeyCorp",
-        "industry": "银行 - 地区性"
-    },
-    {
         "symbol": "KEYS",
         "companyName": "Keysight Technologies",
         "industry": "科技仪器"
-    },
-    {
-        "symbol": "KFY",
-        "companyName": "光辉国际咨询顾问",
-        "industry": "人员配备和就业服务"
     },
     {
         "symbol": "KGC",
@@ -3890,11 +1850,6 @@
         "industry": "包装食品"
     },
     {
-        "symbol": "KIM",
-        "companyName": "金科",
-        "industry": "房地产投资信托 - 零售"
-    },
-    {
         "symbol": "KKR",
         "companyName": "KKR & Co",
         "industry": "资产管理"
@@ -3902,11 +1857,6 @@
     {
         "symbol": "KLAC",
         "companyName": "科磊",
-        "industry": "半导体设备与材料"
-    },
-    {
-        "symbol": "KLIC",
-        "companyName": "库力索法半导体",
         "industry": "半导体设备与材料"
     },
     {
@@ -3920,29 +1870,9 @@
         "industry": "石油和天然气中游"
     },
     {
-        "symbol": "KMPR",
-        "companyName": "Kemper",
-        "industry": "保险 - 财产和伤亡"
-    },
-    {
-        "symbol": "KMT",
-        "companyName": "肯纳金属",
-        "industry": "工具及配件"
-    },
-    {
         "symbol": "KMX",
         "companyName": "车美仕",
         "industry": "汽车和卡车经销权"
-    },
-    {
-        "symbol": "KN",
-        "companyName": "Knowles",
-        "industry": "通讯设备"
-    },
-    {
-        "symbol": "KNF",
-        "companyName": "Knife River",
-        "industry": "建筑材料"
     },
     {
         "symbol": "KNSL",
@@ -3950,29 +1880,9 @@
         "industry": "保险 - 财产和伤亡"
     },
     {
-        "symbol": "KNTE",
-        "companyName": "Kinnate BioPharma",
-        "industry": "生物技术"
-    },
-    {
-        "symbol": "KNX",
-        "companyName": "Knight-Swift Transportation",
-        "industry": "公路运输"
-    },
-    {
-        "symbol": "KO",
-        "companyName": "可口可乐",
-        "industry": "饮料 - 非酒精饮料"
-    },
-    {
         "symbol": "KOF",
         "companyName": "可口可乐凡萨瓶装",
         "industry": "饮料 - 非酒精饮料"
-    },
-    {
-        "symbol": "KOS",
-        "companyName": "Kosmos Energy",
-        "industry": "石油和天然气勘探及生产"
     },
     {
         "symbol": "KR",
@@ -3980,14 +1890,9 @@
         "industry": "杂货商店"
     },
     {
-        "symbol": "KRC",
-        "companyName": "吉劳埃地产",
-        "industry": "房地产投资信托 - 写字楼"
-    },
-    {
-        "symbol": "KSS",
-        "companyName": "柯尔百货",
-        "industry": "百货商店"
+        "symbol": "KSPI",
+        "companyName": "Kaspi.kz",
+        "industry": "软件 - 基础架构"
     },
     {
         "symbol": "KVUE",
@@ -4000,19 +1905,9 @@
         "industry": "软件 - 基础架构"
     },
     {
-        "symbol": "KW",
-        "companyName": "Kennedy-Wilson",
-        "industry": "房地产服务"
-    },
-    {
         "symbol": "L",
         "companyName": "洛斯公司",
         "industry": "保险 - 财产和伤亡"
-    },
-    {
-        "symbol": "LAD",
-        "companyName": "利西亚车行",
-        "industry": "汽车和卡车经销权"
     },
     {
         "symbol": "LAMR",
@@ -4020,68 +1915,8 @@
         "industry": "房地产投资信托 - 专业"
     },
     {
-        "symbol": "LANC",
-        "companyName": "兰卡斯特食品",
-        "industry": "包装食品"
-    },
-    {
-        "symbol": "LASR",
-        "companyName": "nLIGHT",
-        "industry": "半导体"
-    },
-    {
-        "symbol": "LAZ",
-        "companyName": "Lazard",
-        "industry": "资本市场"
-    },
-    {
-        "symbol": "LBAI",
-        "companyName": "湖地银行",
-        "industry": "银行 - 地区性"
-    },
-    {
-        "symbol": "LEA",
-        "companyName": "李尔",
-        "industry": "汽车零件"
-    },
-    {
-        "symbol": "LEGH",
-        "companyName": "Legacy Housing",
-        "industry": "住宅施工"
-    },
-    {
-        "symbol": "LEGN",
-        "companyName": "传奇生物",
-        "industry": "生物技术"
-    },
-    {
         "symbol": "LEN",
         "companyName": "莱纳建筑",
-        "industry": "住宅施工"
-    },
-    {
-        "symbol": "LESL",
-        "companyName": "Leslie's",
-        "industry": "专业零售"
-    },
-    {
-        "symbol": "LEVI",
-        "companyName": "李维斯",
-        "industry": "服装制造"
-    },
-    {
-        "symbol": "LFST",
-        "companyName": "LifeStance Health",
-        "industry": "医疗设施"
-    },
-    {
-        "symbol": "LFUS",
-        "companyName": "美国力特保险丝",
-        "industry": "电子元器件"
-    },
-    {
-        "symbol": "LGIH",
-        "companyName": "LGI Homes",
         "industry": "住宅施工"
     },
     {
@@ -4095,44 +1930,24 @@
         "industry": "航空航天和国防"
     },
     {
+        "symbol": "LI",
+        "companyName": "理想汽车",
+        "industry": "汽车制造商"
+    },
+    {
         "symbol": "LII",
         "companyName": "雷诺士",
         "industry": "建筑产品及设备"
     },
     {
-        "symbol": "LILA",
-        "companyName": "Liberty Latin America-A",
-        "industry": "电信服务"
-    },
-    {
-        "symbol": "LIN",
-        "companyName": "Linde",
-        "industry": "特种化学品"
-    },
-    {
-        "symbol": "LIVN",
-        "companyName": "LivaNova",
-        "industry": "医疗设备"
-    },
-    {
-        "symbol": "LKQ",
-        "companyName": "LKQ Corp",
-        "industry": "汽车零件"
-    },
-    {
-        "symbol": "LLY",
-        "companyName": "礼来",
-        "industry": "药品制造商 - 一般"
+        "symbol": "LINE",
+        "companyName": "Lineage",
+        "industry": "房地产投资信托 - 工业"
     },
     {
         "symbol": "LMT",
         "companyName": "洛克希德马丁",
         "industry": "航空航天和国防"
-    },
-    {
-        "symbol": "LNC",
-        "companyName": "林肯国民",
-        "industry": "保险 - 人寿"
     },
     {
         "symbol": "LNG",
@@ -4145,19 +1960,9 @@
         "industry": "公用事业 - 受监管电力"
     },
     {
-        "symbol": "LNTH",
-        "companyName": "Lantheus",
-        "industry": "药品制造商 - 专业和通用"
-    },
-    {
-        "symbol": "LNW",
-        "companyName": "Light & Wonder",
-        "industry": "博彩"
-    },
-    {
-        "symbol": "LOMA",
-        "companyName": "Loma Negra",
-        "industry": "建筑材料"
+        "symbol": "LOGI",
+        "companyName": "罗技",
+        "industry": "电脑硬件"
     },
     {
         "symbol": "LOW",
@@ -4165,19 +1970,9 @@
         "industry": "家居装修零售"
     },
     {
-        "symbol": "LPG",
-        "companyName": "Dorian LPG",
-        "industry": "石油和天然气中游"
-    },
-    {
         "symbol": "LPLA",
         "companyName": "LPL Financial",
         "industry": "资本市场"
-    },
-    {
-        "symbol": "LPX",
-        "companyName": "Louisiana-Pacific",
-        "industry": "建筑产品及设备"
     },
     {
         "symbol": "LRCX",
@@ -4190,19 +1985,9 @@
         "industry": "服装零售"
     },
     {
-        "symbol": "LUNA",
-        "companyName": "Luna Innovations",
-        "industry": "科技仪器"
-    },
-    {
         "symbol": "LUV",
         "companyName": "西南航空",
         "industry": "航空公司"
-    },
-    {
-        "symbol": "LVLU",
-        "companyName": "Lulus Fashion Lounge",
-        "industry": "服装零售"
     },
     {
         "symbol": "LVS",
@@ -4210,29 +1995,9 @@
         "industry": "渡假村和赌场"
     },
     {
-        "symbol": "LW",
-        "companyName": "Lamb Weston",
-        "industry": "包装食品"
-    },
-    {
-        "symbol": "LWAY",
-        "companyName": "来福威食品",
-        "industry": "包装食品"
-    },
-    {
-        "symbol": "LXU",
-        "companyName": "LSB Industries",
-        "industry": "化工品"
-    },
-    {
         "symbol": "LYB",
         "companyName": "利安德巴塞尔",
         "industry": "特种化学品"
-    },
-    {
-        "symbol": "LYFT",
-        "companyName": "Lyft Inc",
-        "industry": "软件 - 应用"
     },
     {
         "symbol": "LYG",
@@ -4245,24 +2010,9 @@
         "industry": "娱乐"
     },
     {
-        "symbol": "LZB",
-        "companyName": "La-Z-Boy",
-        "industry": "家具、固定装置和家电"
-    },
-    {
-        "symbol": "M",
-        "companyName": "梅西百货",
-        "industry": "百货商店"
-    },
-    {
-        "symbol": "MA",
-        "companyName": "万事达",
-        "industry": "信贷服务"
-    },
-    {
-        "symbol": "MAG",
-        "companyName": "MAG Silver",
-        "industry": "银"
+        "symbol": "MAA",
+        "companyName": "MAA房产信托",
+        "industry": "房地产投资信托 - 住宅"
     },
     {
         "symbol": "MANH",
@@ -4270,54 +2020,14 @@
         "industry": "软件 - 应用"
     },
     {
-        "symbol": "MANU",
-        "companyName": "曼联",
-        "industry": "娱乐"
-    },
-    {
         "symbol": "MAR",
         "companyName": "万豪酒店",
         "industry": "住宿"
     },
     {
-        "symbol": "MARX",
-        "companyName": "MARS ACQUISITION CORP",
-        "industry": "空壳公司"
-    },
-    {
         "symbol": "MAS",
         "companyName": "马斯科",
         "industry": "建筑产品及设备"
-    },
-    {
-        "symbol": "MASI",
-        "companyName": "麦斯莫医疗",
-        "industry": "医疗设备"
-    },
-    {
-        "symbol": "MAT",
-        "companyName": "美泰",
-        "industry": "休闲"
-    },
-    {
-        "symbol": "MATV",
-        "companyName": "Mativ",
-        "industry": "特种化学品"
-    },
-    {
-        "symbol": "MBC",
-        "companyName": "MasterBrand",
-        "industry": "家具、固定装置和家电"
-    },
-    {
-        "symbol": "MBI",
-        "companyName": "MBIA",
-        "industry": "保险 - 专业"
-    },
-    {
-        "symbol": "MCD",
-        "companyName": "麦当劳",
-        "industry": "餐厅"
     },
     {
         "symbol": "MCHP",
@@ -4335,16 +2045,6 @@
         "industry": "财务数据与证券交易所"
     },
     {
-        "symbol": "MCY",
-        "companyName": "默邱利通用",
-        "industry": "保险 - 财产和伤亡"
-    },
-    {
-        "symbol": "MDB",
-        "companyName": "MongoDB",
-        "industry": "软件 - 基础架构"
-    },
-    {
         "symbol": "MDLZ",
         "companyName": "亿滋",
         "industry": "糖果"
@@ -4353,16 +2053,6 @@
         "symbol": "MDT",
         "companyName": "美敦力",
         "industry": "医疗设备"
-    },
-    {
-        "symbol": "MDU",
-        "companyName": "MDU Resources",
-        "industry": "企业集团"
-    },
-    {
-        "symbol": "MED",
-        "companyName": "快验保",
-        "industry": "个性化服务"
     },
     {
         "symbol": "MEDP",
@@ -4375,19 +2065,9 @@
         "industry": "互联网零售"
     },
     {
-        "symbol": "MEOH",
-        "companyName": "梅思恩",
-        "industry": "化工品"
-    },
-    {
         "symbol": "MET",
         "companyName": "大都会人寿",
         "industry": "保险 - 人寿"
-    },
-    {
-        "symbol": "META",
-        "companyName": "Meta Platforms",
-        "industry": "互联网内容与信息"
     },
     {
         "symbol": "MGA",
@@ -4400,21 +2080,6 @@
         "industry": "渡假村和赌场"
     },
     {
-        "symbol": "MHK",
-        "companyName": "莫霍克工业公司",
-        "industry": "家具、固定装置和家电"
-    },
-    {
-        "symbol": "MIDD",
-        "companyName": "The Middleby",
-        "industry": "特种工业机械"
-    },
-    {
-        "symbol": "MIR",
-        "companyName": "Mirion",
-        "industry": "特种工业机械"
-    },
-    {
         "symbol": "MKC",
         "companyName": "味好美",
         "industry": "包装食品"
@@ -4425,29 +2090,9 @@
         "industry": "保险 - 财产和伤亡"
     },
     {
-        "symbol": "MKSI",
-        "companyName": "MKS仪器",
-        "industry": "科技仪器"
-    },
-    {
-        "symbol": "MKTX",
-        "companyName": "MarketAxess",
-        "industry": "资本市场"
-    },
-    {
         "symbol": "MLM",
         "companyName": "马丁-玛丽埃塔材料",
         "industry": "建筑材料"
-    },
-    {
-        "symbol": "MLR",
-        "companyName": "Miller Industries",
-        "industry": "汽车零件"
-    },
-    {
-        "symbol": "MLTX",
-        "companyName": "MoonLake Immunotherapeutics",
-        "industry": "生物技术"
     },
     {
         "symbol": "MMC",
@@ -4460,11 +2105,6 @@
         "industry": "企业集团"
     },
     {
-        "symbol": "MMS",
-        "companyName": "马克西姆斯服务",
-        "industry": "专业商务服务"
-    },
-    {
         "symbol": "MMYT",
         "companyName": "MakeMyTrip",
         "industry": "旅游服务"
@@ -4473,11 +2113,6 @@
         "symbol": "MNDY",
         "companyName": "monday.com",
         "industry": "软件 - 应用"
-    },
-    {
-        "symbol": "MNSO",
-        "companyName": "名创优品",
-        "industry": "专业零售"
     },
     {
         "symbol": "MNST",
@@ -4490,29 +2125,9 @@
         "industry": "烟草"
     },
     {
-        "symbol": "MOD",
-        "companyName": "摩丁制造",
-        "industry": "汽车零件"
-    },
-    {
-        "symbol": "MODG",
-        "companyName": "Topgolf Callaway Brands",
-        "industry": "休闲"
-    },
-    {
-        "symbol": "MODN",
-        "companyName": "Model N",
-        "industry": "软件 - 应用"
-    },
-    {
         "symbol": "MOH",
         "companyName": "Molina Healthcare",
         "industry": "医疗计划"
-    },
-    {
-        "symbol": "MOMO",
-        "companyName": "挚文集团",
-        "industry": "互联网内容与信息"
     },
     {
         "symbol": "MORN",
@@ -4520,24 +2135,9 @@
         "industry": "财务数据与证券交易所"
     },
     {
-        "symbol": "MOS",
-        "companyName": "美国美盛",
-        "industry": "农业投入品"
-    },
-    {
-        "symbol": "MP",
-        "companyName": "MP Materials",
-        "industry": "其他工业金属与采矿"
-    },
-    {
         "symbol": "MPLX",
         "companyName": "MPLX LP",
         "industry": "石油和天然气中游"
-    },
-    {
-        "symbol": "MPW",
-        "companyName": "Medical Properties Trust",
-        "industry": "房地产投资信托 - 医疗保健设施"
     },
     {
         "symbol": "MPWR",
@@ -4545,29 +2145,9 @@
         "industry": "半导体"
     },
     {
-        "symbol": "MRK",
-        "companyName": "默沙东",
-        "industry": "药品制造商 - 一般"
-    },
-    {
-        "symbol": "MRKR",
-        "companyName": "Marker Therapeutics",
-        "industry": "生物技术"
-    },
-    {
-        "symbol": "MRNA",
-        "companyName": "Moderna",
-        "industry": "生物技术"
-    },
-    {
         "symbol": "MRVL",
         "companyName": "迈威尔科技",
         "industry": "半导体"
-    },
-    {
-        "symbol": "MS",
-        "companyName": "摩根士丹利",
-        "industry": "资本市场"
     },
     {
         "symbol": "MSCI",
@@ -4575,29 +2155,19 @@
         "industry": "财务数据与证券交易所"
     },
     {
-        "symbol": "MSFT",
-        "companyName": "微软",
-        "industry": "软件 - 基础架构"
-    },
-    {
-        "symbol": "MSGE",
-        "companyName": "Madison Square Garden Entertainment",
-        "industry": "休闲"
-    },
-    {
-        "symbol": "MSGS",
-        "companyName": "麦迪逊运动",
-        "industry": "娱乐"
-    },
-    {
         "symbol": "MSI",
         "companyName": "摩托罗拉解决方案",
         "industry": "通讯设备"
     },
     {
-        "symbol": "MSM",
-        "companyName": "MSC Industrial Direct",
-        "industry": "产业分布"
+        "symbol": "MSTR",
+        "companyName": "Strategy",
+        "industry": "软件 - 应用"
+    },
+    {
+        "symbol": "MT",
+        "companyName": "安赛乐米塔尔",
+        "industry": "钢"
     },
     {
         "symbol": "MTB",
@@ -4605,39 +2175,14 @@
         "industry": "银行 - 地区性"
     },
     {
-        "symbol": "MTCH",
-        "companyName": "Match group",
-        "industry": "互联网内容与信息"
-    },
-    {
         "symbol": "MTD",
         "companyName": "梅特勒-托利多",
         "industry": "诊断与研究"
     },
     {
-        "symbol": "MTDR",
-        "companyName": "Matador Resources",
-        "industry": "石油和天然气勘探及生产"
-    },
-    {
-        "symbol": "MTG",
-        "companyName": "MGIC Investment",
-        "industry": "保险 - 专业"
-    },
-    {
-        "symbol": "MTH",
-        "companyName": "Meritage Homes",
-        "industry": "住宅施工"
-    },
-    {
-        "symbol": "MTLS",
-        "companyName": "Materialise",
-        "industry": "软件 - 应用"
-    },
-    {
-        "symbol": "MTN",
-        "companyName": "Vail Resorts",
-        "industry": "渡假村和赌场"
+        "symbol": "MTZ",
+        "companyName": "MasTec",
+        "industry": "工程建设"
     },
     {
         "symbol": "MU",
@@ -4645,44 +2190,9 @@
         "industry": "半导体"
     },
     {
-        "symbol": "MX",
-        "companyName": "MagnaChip Semiconductor",
-        "industry": "半导体"
-    },
-    {
-        "symbol": "MYRG",
-        "companyName": "MYR Group",
-        "industry": "工程建设"
-    },
-    {
-        "symbol": "NAMS",
-        "companyName": "NewAmsterdam Pharma",
-        "industry": "生物技术"
-    },
-    {
-        "symbol": "NATL",
-        "companyName": "NCR Atleos",
-        "industry": "软件 - 应用"
-    },
-    {
-        "symbol": "NAVI",
-        "companyName": "Navient",
-        "industry": "信贷服务"
-    },
-    {
         "symbol": "NBIX",
         "companyName": "神经分泌生物科学",
         "industry": "药品制造商 - 专业和通用"
-    },
-    {
-        "symbol": "NBR",
-        "companyName": "纳伯斯实业",
-        "industry": "石油和天然气钻井"
-    },
-    {
-        "symbol": "NBSE",
-        "companyName": "NeuBase Therapeutics",
-        "industry": "生物技术"
     },
     {
         "symbol": "NCLH",
@@ -4690,19 +2200,9 @@
         "industry": "旅游服务"
     },
     {
-        "symbol": "NCNO",
-        "companyName": "nCino",
-        "industry": "软件 - 应用"
-    },
-    {
-        "symbol": "NDSN",
-        "companyName": "Nordson",
-        "industry": "特种工业机械"
-    },
-    {
-        "symbol": "NE",
-        "companyName": "Noble",
-        "industry": "石油和天然气钻井"
+        "symbol": "NDAQ",
+        "companyName": "纳斯达克",
+        "industry": "财务数据与证券交易所"
     },
     {
         "symbol": "NEE",
@@ -4715,14 +2215,9 @@
         "industry": "黄金"
     },
     {
-        "symbol": "NFLX",
-        "companyName": "奈飞",
-        "industry": "娱乐"
-    },
-    {
-        "symbol": "NG",
-        "companyName": "NovaGold Resources",
-        "industry": "黄金"
+        "symbol": "NET",
+        "companyName": "Cloudflare",
+        "industry": "软件 - 基础架构"
     },
     {
         "symbol": "NICE",
@@ -4730,24 +2225,14 @@
         "industry": "软件 - 应用"
     },
     {
-        "symbol": "NJR",
-        "companyName": "新泽西能源",
-        "industry": "公用事业 - 受监管天然气"
-    },
-    {
         "symbol": "NKE",
         "companyName": "耐克",
         "industry": "鞋类及配件"
     },
     {
-        "symbol": "NMIH",
-        "companyName": "NMI Holdings",
-        "industry": "保险 - 专业"
-    },
-    {
-        "symbol": "NOAH",
-        "companyName": "诺亚财富",
-        "industry": "资产管理"
+        "symbol": "NMR",
+        "companyName": "野村控股",
+        "industry": "资本市场"
     },
     {
         "symbol": "NOC",
@@ -4755,29 +2240,9 @@
         "industry": "航空航天和国防"
     },
     {
-        "symbol": "NODK",
-        "companyName": "NI Holdings",
-        "industry": "保险 - 财产和伤亡"
-    },
-    {
-        "symbol": "NOV",
-        "companyName": "华高",
-        "industry": "石油和天然气设备与服务"
-    },
-    {
-        "symbol": "NOW",
-        "companyName": "ServiceNow",
-        "industry": "软件 - 应用"
-    },
-    {
-        "symbol": "NPO",
-        "companyName": "Enpro",
-        "industry": "特种工业机械"
-    },
-    {
-        "symbol": "NPWR",
-        "companyName": "NET Power",
-        "industry": "特种工业机械"
+        "symbol": "NRG",
+        "companyName": "NRG Energy",
+        "industry": "公用事业 - 独立发电商"
     },
     {
         "symbol": "NSC",
@@ -4785,14 +2250,9 @@
         "industry": "铁路"
     },
     {
-        "symbol": "NSIT",
-        "companyName": "Insight Enterprises",
-        "industry": "电子与计算机分销"
-    },
-    {
-        "symbol": "NTB",
-        "companyName": "毕达菲尔特银行",
-        "industry": "银行 - 多元化"
+        "symbol": "NTAP",
+        "companyName": "美国网存",
+        "industry": "电脑硬件"
     },
     {
         "symbol": "NTES",
@@ -4820,24 +2280,9 @@
         "industry": "银行 - 地区性"
     },
     {
-        "symbol": "NUVB",
-        "companyName": "Nuvation Bio",
-        "industry": "生物技术"
-    },
-    {
-        "symbol": "NVDA",
-        "companyName": "英伟达",
-        "industry": "半导体"
-    },
-    {
-        "symbol": "NVGS",
-        "companyName": "Navigator",
-        "industry": "石油和天然气中游"
-    },
-    {
-        "symbol": "NVO",
-        "companyName": "诺和诺德",
-        "industry": "生物技术"
+        "symbol": "NUE",
+        "companyName": "纽柯钢铁",
+        "industry": "钢"
     },
     {
         "symbol": "NVR",
@@ -4845,44 +2290,14 @@
         "industry": "住宅施工"
     },
     {
-        "symbol": "NVRO",
-        "companyName": "Nevro",
-        "industry": "医疗设备"
-    },
-    {
-        "symbol": "NVS",
-        "companyName": "诺华制药",
-        "industry": "药品制造商 - 一般"
-    },
-    {
-        "symbol": "NVST",
-        "companyName": "Envista Holdings",
-        "industry": "医疗设备和用品"
-    },
-    {
         "symbol": "NVT",
         "companyName": "nVent Electric",
         "industry": "电气设备及零件"
     },
     {
-        "symbol": "NVTS",
-        "companyName": "纳微半导体",
-        "industry": "半导体"
-    },
-    {
         "symbol": "NWG",
         "companyName": "NatWest",
         "industry": "银行 - 地区性"
-    },
-    {
-        "symbol": "NWL",
-        "companyName": "纽威",
-        "industry": "家用和个人产品"
-    },
-    {
-        "symbol": "NWLI",
-        "companyName": "国家西方人寿保险",
-        "industry": "保险 - 人寿"
     },
     {
         "symbol": "NWS",
@@ -4895,44 +2310,9 @@
         "industry": "娱乐"
     },
     {
-        "symbol": "NX",
-        "companyName": "Quanex Building Products",
-        "industry": "建筑产品及设备"
-    },
-    {
         "symbol": "NXPI",
         "companyName": "恩智浦",
         "industry": "半导体"
-    },
-    {
-        "symbol": "NXST",
-        "companyName": "Nexstar Media Group",
-        "industry": "娱乐"
-    },
-    {
-        "symbol": "NXT",
-        "companyName": "Nextracker",
-        "industry": "太阳能"
-    },
-    {
-        "symbol": "NYCB",
-        "companyName": "纽约社区银行",
-        "industry": "银行 - 地区性"
-    },
-    {
-        "symbol": "NYT",
-        "companyName": "纽约时报",
-        "industry": "出版"
-    },
-    {
-        "symbol": "OAKU",
-        "companyName": "Oak Woods Acquisition Corp",
-        "industry": "空壳公司"
-    },
-    {
-        "symbol": "OBDC",
-        "companyName": "Blue Owl Capital",
-        "industry": "信贷服务"
     },
     {
         "symbol": "OC",
@@ -4940,39 +2320,9 @@
         "industry": "建筑产品及设备"
     },
     {
-        "symbol": "OCN",
-        "companyName": "Ocwen Financial",
-        "industry": "抵押金融"
-    },
-    {
-        "symbol": "OCSL",
-        "companyName": "Oaktree Specialty Lending",
-        "industry": "信贷服务"
-    },
-    {
-        "symbol": "ODD",
-        "companyName": "ODDITY Tech",
-        "industry": "软件 - 基础架构"
-    },
-    {
         "symbol": "ODFL",
         "companyName": "Old Dominion Freight Line",
         "industry": "公路运输"
-    },
-    {
-        "symbol": "ODP",
-        "companyName": "欧迪办公",
-        "industry": "专业零售"
-    },
-    {
-        "symbol": "OGN",
-        "companyName": "Organon & Co",
-        "industry": "药品制造商 - 一般"
-    },
-    {
-        "symbol": "OI",
-        "companyName": "欧伊诺",
-        "industry": "包装与容器"
     },
     {
         "symbol": "OKE",
@@ -4985,29 +2335,9 @@
         "industry": "软件 - 基础架构"
     },
     {
-        "symbol": "OLLI",
-        "companyName": "Ollie's Bargain Outlet",
-        "industry": "折扣店"
-    },
-    {
-        "symbol": "OLN",
-        "companyName": "欧林",
-        "industry": "特种化学品"
-    },
-    {
         "symbol": "OMC",
         "companyName": "宏盟集团",
         "industry": "广告代理"
-    },
-    {
-        "symbol": "OMF",
-        "companyName": "OneMain",
-        "industry": "信贷服务"
-    },
-    {
-        "symbol": "OMI",
-        "companyName": "欧麦斯-麦能医疗",
-        "industry": "医疗分配"
     },
     {
         "symbol": "ON",
@@ -5020,69 +2350,14 @@
         "industry": "鞋类及配件"
     },
     {
-        "symbol": "ONTO",
-        "companyName": "Onto Innovation",
-        "industry": "半导体设备与材料"
-    },
-    {
-        "symbol": "OPY",
-        "companyName": "奥本海默控股",
-        "industry": "资本市场"
-    },
-    {
-        "symbol": "OR",
-        "companyName": "Osisko Gold Royalties",
-        "industry": "黄金"
-    },
-    {
-        "symbol": "ORCL",
-        "companyName": "甲骨文",
-        "industry": "软件 - 基础架构"
-    },
-    {
-        "symbol": "ORI",
-        "companyName": "Old Republic International",
-        "industry": "保险 - 多元化"
-    },
-    {
-        "symbol": "ORIC",
-        "companyName": "Oric Pharmaceuticals",
-        "industry": "生物技术"
-    },
-    {
-        "symbol": "ORLA",
-        "companyName": "Orla Mining",
-        "industry": "黄金"
-    },
-    {
         "symbol": "ORLY",
         "companyName": "奥莱利",
         "industry": "专业零售"
     },
     {
-        "symbol": "OSCR",
-        "companyName": "Oscar Health",
-        "industry": "医疗计划"
-    },
-    {
-        "symbol": "OSK",
-        "companyName": "Oshkosh",
-        "industry": "农用及重型工程机械"
-    },
-    {
-        "symbol": "OTEX",
-        "companyName": "Open Text",
-        "industry": "软件 - 应用"
-    },
-    {
         "symbol": "OTIS",
         "companyName": "奥的斯",
         "industry": "特种工业机械"
-    },
-    {
-        "symbol": "OUT",
-        "companyName": "Outfront Media Inc.",
-        "industry": "房地产投资信托 - 专业"
     },
     {
         "symbol": "OVV",
@@ -5095,38 +2370,13 @@
         "industry": "石油和天然气勘探及生产"
     },
     {
-        "symbol": "OZK",
-        "companyName": "欧扎克银行",
-        "industry": "银行 - 地区性"
-    },
-    {
-        "symbol": "PACK",
-        "companyName": "Ranpak Holdings",
-        "industry": "包装与容器"
-    },
-    {
-        "symbol": "PAM",
-        "companyName": "Pampa Energia",
-        "industry": "公用事业 - 独立发电商"
+        "symbol": "PAG",
+        "companyName": "潘世奇汽车",
+        "industry": "汽车和卡车经销权"
     },
     {
         "symbol": "PANW",
         "companyName": "Palo Alto Networks",
-        "industry": "软件 - 基础架构"
-    },
-    {
-        "symbol": "PAR",
-        "companyName": "PAR Technology",
-        "industry": "软件 - 应用"
-    },
-    {
-        "symbol": "PARA",
-        "companyName": "派拉蒙环球-B",
-        "industry": "娱乐"
-    },
-    {
-        "symbol": "PATH",
-        "companyName": "UiPath",
         "industry": "软件 - 基础架构"
     },
     {
@@ -5137,27 +2387,7 @@
     {
         "symbol": "PAYX",
         "companyName": "沛齐",
-        "industry": "人员配备和就业服务"
-    },
-    {
-        "symbol": "PB",
-        "companyName": "Prosperity Bancshares",
-        "industry": "银行 - 地区性"
-    },
-    {
-        "symbol": "PBH",
-        "companyName": "普雷斯蒂奇",
-        "industry": "药品制造商 - 专业和通用"
-    },
-    {
-        "symbol": "PBI",
-        "companyName": "必能宝",
-        "industry": "综合货运与物流"
-    },
-    {
-        "symbol": "PBPB",
-        "companyName": "Potbelly",
-        "industry": "餐厅"
+        "industry": "软件 - 应用"
     },
     {
         "symbol": "PBR",
@@ -5175,19 +2405,14 @@
         "industry": "公用事业 - 受监管电力"
     },
     {
-        "symbol": "PCH",
-        "companyName": "PotlatchDeltic Corp.",
-        "industry": "房地产投资信托 - 专业"
-    },
-    {
-        "symbol": "PCOR",
-        "companyName": "Procore Technologies",
+        "symbol": "PCTY",
+        "companyName": "Paylocity",
         "industry": "软件 - 应用"
     },
     {
-        "symbol": "PD",
-        "companyName": "PagerDuty",
-        "industry": "软件 - 应用"
+        "symbol": "PCVX",
+        "companyName": "Vaxcyte",
+        "industry": "生物技术"
     },
     {
         "symbol": "PDD",
@@ -5195,19 +2420,9 @@
         "industry": "互联网零售"
     },
     {
-        "symbol": "PENN",
-        "companyName": "佩恩国民博彩",
-        "industry": "渡假村和赌场"
-    },
-    {
-        "symbol": "PEP",
-        "companyName": "百事可乐",
-        "industry": "饮料 - 非酒精饮料"
-    },
-    {
-        "symbol": "PEPG",
-        "companyName": "PepGen",
-        "industry": "生物技术"
+        "symbol": "PEG",
+        "companyName": "公务集团",
+        "industry": "公用事业 - 受监管电力"
     },
     {
         "symbol": "PFE",
@@ -5220,39 +2435,14 @@
         "industry": "资产管理"
     },
     {
-        "symbol": "PFMT",
-        "companyName": "Performant Financial",
-        "industry": "专业商务服务"
-    },
-    {
-        "symbol": "PG",
-        "companyName": "宝洁",
-        "industry": "家用和个人产品"
-    },
-    {
-        "symbol": "PGEN",
-        "companyName": "Precigen",
-        "industry": "生物技术"
-    },
-    {
-        "symbol": "PGNY",
-        "companyName": "Progyny",
-        "industry": "健康信息服务"
-    },
-    {
         "symbol": "PGR",
         "companyName": "前进保险",
         "industry": "保险 - 财产和伤亡"
     },
     {
-        "symbol": "PHG",
-        "companyName": "飞利浦",
-        "industry": "医疗设备"
-    },
-    {
-        "symbol": "PHIN",
-        "companyName": "Phinia",
-        "industry": "汽车零件"
+        "symbol": "PH",
+        "companyName": "派克汉尼汾",
+        "industry": "特种工业机械"
     },
     {
         "symbol": "PHM",
@@ -5260,44 +2450,9 @@
         "industry": "住宅施工"
     },
     {
-        "symbol": "PHVS",
-        "companyName": "Pharvaris",
-        "industry": "生物技术"
-    },
-    {
-        "symbol": "PI",
-        "companyName": "Impinj",
-        "industry": "通讯设备"
-    },
-    {
-        "symbol": "PII",
-        "companyName": "北极星",
-        "industry": "休闲车"
-    },
-    {
         "symbol": "PINS",
         "companyName": "Pinterest",
         "industry": "互联网内容与信息"
-    },
-    {
-        "symbol": "PIPR",
-        "companyName": "派杰投资",
-        "industry": "资本市场"
-    },
-    {
-        "symbol": "PK",
-        "companyName": "Park Hotels & Resorts Inc",
-        "industry": "房地产投资信托 - 酒店和汽车旅馆"
-    },
-    {
-        "symbol": "PKG",
-        "companyName": "美国包装公司",
-        "industry": "包装与容器"
-    },
-    {
-        "symbol": "PL",
-        "companyName": "Planet Labs PBC",
-        "industry": "航空航天和国防"
     },
     {
         "symbol": "PLD",
@@ -5305,39 +2460,9 @@
         "industry": "房地产投资信托 - 工业"
     },
     {
-        "symbol": "PLTN",
-        "companyName": "Plutonian Acquisition Corp",
-        "industry": "空壳公司"
-    },
-    {
-        "symbol": "PLTR",
-        "companyName": "Palantir",
-        "industry": "软件 - 基础架构"
-    },
-    {
-        "symbol": "PLXS",
-        "companyName": "普雷克萨斯",
-        "industry": "电子元器件"
-    },
-    {
-        "symbol": "PM",
-        "companyName": "菲利普莫里斯",
-        "industry": "烟草"
-    },
-    {
         "symbol": "PNC",
         "companyName": "PNC金融服务集团",
         "industry": "银行 - 地区性"
-    },
-    {
-        "symbol": "PNM",
-        "companyName": "PNM Resources",
-        "industry": "公用事业 - 受监管电力"
-    },
-    {
-        "symbol": "PODD",
-        "companyName": "银休特",
-        "industry": "医疗设备"
     },
     {
         "symbol": "POOL",
@@ -5345,19 +2470,9 @@
         "industry": "产业分布"
     },
     {
-        "symbol": "POWI",
-        "companyName": "帕沃英蒂格盛",
-        "industry": "半导体"
-    },
-    {
         "symbol": "PPG",
         "companyName": "PPG工业",
         "industry": "特种化学品"
-    },
-    {
-        "symbol": "PPTA",
-        "companyName": "Perpetua Resources",
-        "industry": "其他贵金属和采矿"
     },
     {
         "symbol": "PR",
@@ -5365,39 +2480,9 @@
         "industry": "石油和天然气勘探及生产"
     },
     {
-        "symbol": "PRA",
-        "companyName": "Proassurance",
-        "industry": "保险 - 财产和伤亡"
-    },
-    {
-        "symbol": "PRAA",
-        "companyName": "PRA Group",
-        "industry": "信贷服务"
-    },
-    {
-        "symbol": "PRDO",
-        "companyName": "Perdoceo Education",
-        "industry": "教育培训服务"
-    },
-    {
-        "symbol": "PRG",
-        "companyName": "PROG Holdings",
-        "industry": "租赁服务"
-    },
-    {
-        "symbol": "PRGO",
-        "companyName": "百利高",
-        "industry": "药品制造商 - 专业和通用"
-    },
-    {
-        "symbol": "PRI",
-        "companyName": "Primerica",
+        "symbol": "PRU",
+        "companyName": "保德信金融",
         "industry": "保险 - 人寿"
-    },
-    {
-        "symbol": "PRVA",
-        "companyName": "Privia Health",
-        "industry": "健康信息服务"
     },
     {
         "symbol": "PSA",
@@ -5420,39 +2505,14 @@
         "industry": "软件 - 应用"
     },
     {
-        "symbol": "PTEN",
-        "companyName": "Patterson-UTI Energy",
-        "industry": "石油和天然气钻井"
-    },
-    {
-        "symbol": "PTON",
-        "companyName": "Peloton Interactive",
-        "industry": "休闲"
-    },
-    {
-        "symbol": "PTWO",
-        "companyName": "Pono Capital Two",
-        "industry": "空壳公司"
-    },
-    {
         "symbol": "PUK",
         "companyName": "英国保诚",
         "industry": "保险 - 人寿"
     },
     {
-        "symbol": "PVH",
-        "companyName": "PVH Corp",
-        "industry": "服装制造"
-    },
-    {
         "symbol": "PWR",
         "companyName": "广达服务",
         "industry": "工程建设"
-    },
-    {
-        "symbol": "PXD",
-        "companyName": "先锋自然资源",
-        "industry": "石油和天然气勘探及生产"
     },
     {
         "symbol": "PYPL",
@@ -5465,54 +2525,14 @@
         "industry": "半导体"
     },
     {
-        "symbol": "QDEL",
-        "companyName": "窥得儿医药",
-        "industry": "医疗设备"
-    },
-    {
-        "symbol": "QFIN",
-        "companyName": "奇富科技",
-        "industry": "信贷服务"
-    },
-    {
-        "symbol": "QLYS",
-        "companyName": "科力斯",
-        "industry": "软件 - 基础架构"
-    },
-    {
-        "symbol": "QRVO",
-        "companyName": "Qorvo",
-        "industry": "半导体"
-    },
-    {
         "symbol": "QSR",
         "companyName": "餐饮品牌国际",
-        "industry": "餐厅"
-    },
-    {
-        "symbol": "QUAD",
-        "companyName": "Quad/Graphics",
-        "industry": "专业商务服务"
+        "industry": "餐饮"
     },
     {
         "symbol": "RACE",
         "companyName": "法拉利",
         "industry": "汽车制造商"
-    },
-    {
-        "symbol": "RAMP",
-        "companyName": "LiveRamp",
-        "industry": "软件 - 基础架构"
-    },
-    {
-        "symbol": "RBC",
-        "companyName": "RBC轴承",
-        "industry": "工具及配件"
-    },
-    {
-        "symbol": "RBKB",
-        "companyName": "Rhinebeck Bancorp",
-        "industry": "银行 - 地区性"
     },
     {
         "symbol": "RBLX",
@@ -5525,29 +2545,19 @@
         "industry": "电信服务"
     },
     {
-        "symbol": "RCKT",
-        "companyName": "Rocket Pharmaceuticals",
-        "industry": "生物技术"
-    },
-    {
         "symbol": "RCL",
         "companyName": "皇家加勒比邮轮",
         "industry": "旅游服务"
     },
     {
-        "symbol": "RDI",
-        "companyName": "Reading International-A",
-        "industry": "娱乐"
+        "symbol": "RDDT",
+        "companyName": "Reddit",
+        "industry": "互联网内容与信息"
     },
     {
-        "symbol": "RDN",
-        "companyName": "Radian Group",
-        "industry": "保险 - 专业"
-    },
-    {
-        "symbol": "REAL",
-        "companyName": "TheRealReal",
-        "industry": "奢侈品"
+        "symbol": "RDY",
+        "companyName": "如瑞迪博士",
+        "industry": "药品制造商 - 专业和通用"
     },
     {
         "symbol": "REG",
@@ -5565,124 +2575,14 @@
         "industry": "专业商务服务"
     },
     {
-        "symbol": "RERE",
-        "companyName": "万物新生(爱回收)",
-        "industry": "互联网零售"
-    },
-    {
-        "symbol": "REXR",
-        "companyName": "Rexford Industrial Realty",
-        "industry": "房地产投资信托 - 工业"
-    },
-    {
-        "symbol": "REYN",
-        "companyName": "Reynolds Consumer Products",
-        "industry": "包装与容器"
-    },
-    {
-        "symbol": "REZI",
-        "companyName": "Resideo Technologies",
-        "industry": "安全与防护服务"
-    },
-    {
-        "symbol": "RFL",
-        "companyName": "Rafael Holdings",
-        "industry": "房地产服务"
-    },
-    {
-        "symbol": "RGF",
-        "companyName": "The Real Good Food",
-        "industry": "包装食品"
-    },
-    {
-        "symbol": "RGLD",
-        "companyName": "皇家黄金",
-        "industry": "黄金"
-    },
-    {
-        "symbol": "RH",
-        "companyName": "Restoration Hardware",
-        "industry": "专业零售"
-    },
-    {
-        "symbol": "RHI",
-        "companyName": "罗致恒富",
-        "industry": "人员配备和就业服务"
-    },
-    {
-        "symbol": "RICK",
-        "companyName": "RCI Hospitality Holdings",
-        "industry": "餐厅"
-    },
-    {
-        "symbol": "RIO",
-        "companyName": "力拓",
-        "industry": "其他工业金属与采矿"
-    },
-    {
-        "symbol": "RIVN",
-        "companyName": "Rivian Automotive",
-        "industry": "汽车制造商"
-    },
-    {
-        "symbol": "RJF",
-        "companyName": "瑞杰金融",
-        "industry": "资本市场"
-    },
-    {
         "symbol": "RKT",
         "companyName": "Rocket",
         "industry": "抵押金融"
     },
     {
-        "symbol": "RL",
-        "companyName": "拉夫劳伦",
-        "industry": "服装制造"
-    },
-    {
-        "symbol": "RLI",
-        "companyName": "RLI保险",
-        "industry": "保险 - 财产和伤亡"
-    },
-    {
-        "symbol": "RLYB",
-        "companyName": "Rallybio",
-        "industry": "生物技术"
-    },
-    {
-        "symbol": "RMNI",
-        "companyName": "Rimini Street",
-        "industry": "软件 - 应用"
-    },
-    {
-        "symbol": "RMR",
-        "companyName": "The RMR Group",
-        "industry": "房地产服务"
-    },
-    {
         "symbol": "RNR",
         "companyName": "RenaissanceRe Holdings",
         "industry": "保险 - 再保险"
-    },
-    {
-        "symbol": "ROCK",
-        "companyName": "Gibraltar Industries",
-        "industry": "建筑产品及设备"
-    },
-    {
-        "symbol": "ROG",
-        "companyName": "罗杰斯",
-        "industry": "电子元器件"
-    },
-    {
-        "symbol": "ROIC",
-        "companyName": "Retail Opportunity Investments Corp.",
-        "industry": "房地产投资信托 - 零售"
-    },
-    {
-        "symbol": "ROIV",
-        "companyName": "Roivant Sciences",
-        "industry": "生物技术"
     },
     {
         "symbol": "ROK",
@@ -5720,11 +2620,6 @@
         "industry": "生物技术"
     },
     {
-        "symbol": "RRGB",
-        "companyName": "红罗宾",
-        "industry": "餐厅"
-    },
-    {
         "symbol": "RRX",
         "companyName": "Regal Rexnord",
         "industry": "特种工业机械"
@@ -5735,24 +2630,19 @@
         "industry": "钢"
     },
     {
+        "symbol": "RSG",
+        "companyName": "共和废品处理",
+        "industry": "废物管理"
+    },
+    {
+        "symbol": "RTO",
+        "companyName": "Rentokil Initial PLC",
+        "industry": "专业商务服务"
+    },
+    {
         "symbol": "RTX",
         "companyName": "雷神技术",
         "industry": "航空航天和国防"
-    },
-    {
-        "symbol": "RVLV",
-        "companyName": "Revolve Group",
-        "industry": "互联网零售"
-    },
-    {
-        "symbol": "RWAY",
-        "companyName": "Runway Growth Finance",
-        "industry": "信贷服务"
-    },
-    {
-        "symbol": "RXST",
-        "companyName": "RxSight",
-        "industry": "医疗设备"
     },
     {
         "symbol": "RYAN",
@@ -5760,69 +2650,14 @@
         "industry": "保险 - 专业"
     },
     {
-        "symbol": "RYN",
-        "companyName": "雷欧尼尔",
-        "industry": "房地产投资信托 - 专业"
-    },
-    {
-        "symbol": "SABR",
-        "companyName": "Sabre",
-        "industry": "软件 - 基础架构"
-    },
-    {
-        "symbol": "SAIA",
-        "companyName": "Saia",
-        "industry": "公路运输"
-    },
-    {
-        "symbol": "SAIC",
-        "companyName": "Science Applications International",
-        "industry": "信息技术服务"
-    },
-    {
-        "symbol": "SANM",
-        "companyName": "新美亚电子",
-        "industry": "电子元器件"
-    },
-    {
-        "symbol": "SAP",
-        "companyName": "SAP SE",
-        "industry": "软件 - 应用"
-    },
-    {
-        "symbol": "SAVE",
-        "companyName": "Spirit Airlines",
-        "industry": "航空公司"
-    },
-    {
-        "symbol": "SB",
-        "companyName": "Safe Bulkers",
-        "industry": "海运"
-    },
-    {
         "symbol": "SBAC",
         "companyName": "SBA通信公司",
         "industry": "房地产投资信托 - 专业"
     },
     {
-        "symbol": "SBCF",
-        "companyName": "Seacoast Bank",
-        "industry": "银行 - 地区性"
-    },
-    {
-        "symbol": "SBLK",
-        "companyName": "Star Bulk Carriers",
-        "industry": "海运"
-    },
-    {
-        "symbol": "SBSI",
-        "companyName": "Southside Bancshares",
-        "industry": "银行 - 地区性"
-    },
-    {
         "symbol": "SBUX",
         "companyName": "星巴克",
-        "industry": "餐厅"
+        "industry": "餐饮"
     },
     {
         "symbol": "SCCO",
@@ -5830,44 +2665,9 @@
         "industry": "铜"
     },
     {
-        "symbol": "SCHL",
-        "companyName": "学乐集团",
-        "industry": "出版"
-    },
-    {
         "symbol": "SCHW",
         "companyName": "嘉信理财",
         "industry": "资本市场"
-    },
-    {
-        "symbol": "SCI",
-        "companyName": "Service Corporation International",
-        "industry": "个性化服务"
-    },
-    {
-        "symbol": "SCVL",
-        "companyName": "Shoe Carnival",
-        "industry": "服装零售"
-    },
-    {
-        "symbol": "SCWX",
-        "companyName": "Secureworks",
-        "industry": "软件 - 基础架构"
-    },
-    {
-        "symbol": "SD",
-        "companyName": "SandRidge Energy",
-        "industry": "石油和天然气勘探及生产"
-    },
-    {
-        "symbol": "SDGR",
-        "companyName": "Schrodinger",
-        "industry": "健康信息服务"
-    },
-    {
-        "symbol": "SDRL",
-        "companyName": "Seadrill",
-        "industry": "石油和天然气钻井"
     },
     {
         "symbol": "SE",
@@ -5875,34 +2675,14 @@
         "industry": "互联网零售"
     },
     {
-        "symbol": "SEB",
-        "companyName": "Seaboard",
-        "industry": "企业集团"
-    },
-    {
-        "symbol": "SEE",
-        "companyName": "希悦尔",
-        "industry": "包装与容器"
-    },
-    {
         "symbol": "SEIC",
         "companyName": "SEI Investments",
         "industry": "资产管理"
     },
     {
-        "symbol": "SEMR",
-        "companyName": "SEMrush",
-        "industry": "软件 - 应用"
-    },
-    {
-        "symbol": "SFBS",
-        "companyName": "ServisFirst Bancshares",
-        "industry": "银行 - 地区性"
-    },
-    {
-        "symbol": "SFIX",
-        "companyName": "Stitch Fix",
-        "industry": "服装零售"
+        "symbol": "SF",
+        "companyName": "Stifel Financial",
+        "industry": "资本市场"
     },
     {
         "symbol": "SFM",
@@ -5910,49 +2690,9 @@
         "industry": "杂货商店"
     },
     {
-        "symbol": "SG",
-        "companyName": "Sweetgreen",
-        "industry": "餐厅"
-    },
-    {
-        "symbol": "SGH",
-        "companyName": "SMART Global",
-        "industry": "半导体"
-    },
-    {
-        "symbol": "SGRY",
-        "companyName": "Surgery Partners",
-        "industry": "医疗设施"
-    },
-    {
-        "symbol": "SGU",
-        "companyName": "Star Group LP",
-        "industry": "石油和天然气精炼与营销"
-    },
-    {
-        "symbol": "SHAK",
-        "companyName": "Shake Shack",
-        "industry": "餐厅"
-    },
-    {
-        "symbol": "SHC",
-        "companyName": "Sotera Health Company",
-        "industry": "诊断与研究"
-    },
-    {
         "symbol": "SHEL",
-        "companyName": "Shell PLC",
+        "companyName": "壳牌",
         "industry": "石油和天然气综合"
-    },
-    {
-        "symbol": "SHO",
-        "companyName": "Sunstone Hotel Investors",
-        "industry": "房地产投资信托 - 酒店和汽车旅馆"
-    },
-    {
-        "symbol": "SHOO",
-        "companyName": "史蒂夫·马登",
-        "industry": "鞋类及配件"
     },
     {
         "symbol": "SHOP",
@@ -5965,44 +2705,9 @@
         "industry": "特种化学品"
     },
     {
-        "symbol": "SHYF",
-        "companyName": "Shyft Group",
-        "industry": "农用及重型工程机械"
-    },
-    {
-        "symbol": "SIG",
-        "companyName": "西格内特珠宝",
-        "industry": "奢侈品"
-    },
-    {
-        "symbol": "SIRI",
-        "companyName": "Sirius XM",
-        "industry": "娱乐"
-    },
-    {
-        "symbol": "SITE",
-        "companyName": "SiteOne Landscape Supply",
-        "industry": "产业分布"
-    },
-    {
-        "symbol": "SITM",
-        "companyName": "SiTime",
-        "industry": "半导体"
-    },
-    {
-        "symbol": "SIX",
-        "companyName": "Six Flags Entertainment",
-        "industry": "休闲"
-    },
-    {
         "symbol": "SJM",
         "companyName": "斯马克",
         "industry": "包装食品"
-    },
-    {
-        "symbol": "SKIL",
-        "companyName": "Skillsoft",
-        "industry": "教育培训服务"
     },
     {
         "symbol": "SKX",
@@ -6010,29 +2715,9 @@
         "industry": "鞋类及配件"
     },
     {
-        "symbol": "SKYX",
-        "companyName": "SKYX Platforms",
-        "industry": "电气设备及零件"
-    },
-    {
         "symbol": "SLB",
         "companyName": "斯伦贝谢",
         "industry": "石油和天然气设备与服务"
-    },
-    {
-        "symbol": "SLCA",
-        "companyName": "US Silica",
-        "industry": "石油和天然气设备与服务"
-    },
-    {
-        "symbol": "SLG",
-        "companyName": "SL Green Realty",
-        "industry": "房地产投资信托 - 写字楼"
-    },
-    {
-        "symbol": "SMAR",
-        "companyName": "Smartsheet",
-        "industry": "软件 - 应用"
     },
     {
         "symbol": "SMCI",
@@ -6045,26 +2730,6 @@
         "industry": "银行 - 多元化"
     },
     {
-        "symbol": "SMG",
-        "companyName": "The Scotts Miracle",
-        "industry": "农业投入品"
-    },
-    {
-        "symbol": "SMHI",
-        "companyName": "Seacor Marine",
-        "industry": "海运"
-    },
-    {
-        "symbol": "SMRT",
-        "companyName": "SmartRent",
-        "industry": "软件 - 应用"
-    },
-    {
-        "symbol": "SMTC",
-        "companyName": "先科电子",
-        "industry": "半导体"
-    },
-    {
         "symbol": "SN",
         "companyName": "SharkNinja",
         "industry": "家具、固定装置和家电"
@@ -6075,24 +2740,9 @@
         "industry": "工具及配件"
     },
     {
-        "symbol": "SNAP",
-        "companyName": "Snap Inc",
-        "industry": "互联网内容与信息"
-    },
-    {
-        "symbol": "SNBR",
-        "companyName": "Sleep Number",
-        "industry": "家具、固定装置和家电"
-    },
-    {
-        "symbol": "SNDA",
-        "companyName": "Sonida Senior Living",
-        "industry": "医疗设施"
-    },
-    {
-        "symbol": "SNEX",
-        "companyName": "StoneX",
-        "industry": "资本市场"
+        "symbol": "SNN",
+        "companyName": "Smith & Nephew",
+        "industry": "医疗设备"
     },
     {
         "symbol": "SNOW",
@@ -6115,24 +2765,14 @@
         "industry": "药品制造商 - 一般"
     },
     {
-        "symbol": "SO",
-        "companyName": "美国南方公司",
-        "industry": "公用事业 - 受监管电力"
-    },
-    {
         "symbol": "SOFI",
         "companyName": "SoFi Technologies",
         "industry": "信贷服务"
     },
     {
-        "symbol": "SONY",
-        "companyName": "索尼",
-        "industry": "消费电子品"
-    },
-    {
-        "symbol": "SPB",
-        "companyName": "Spectrum Brands",
-        "industry": "家用和个人产品"
+        "symbol": "SOLV",
+        "companyName": "Solventum",
+        "industry": "健康信息服务"
     },
     {
         "symbol": "SPG",
@@ -6145,64 +2785,9 @@
         "industry": "财务数据与证券交易所"
     },
     {
-        "symbol": "SPHR",
-        "companyName": "Sphere Entertainment",
-        "industry": "娱乐"
-    },
-    {
-        "symbol": "SPNS",
-        "companyName": "Sapiens International",
-        "industry": "软件 - 应用"
-    },
-    {
-        "symbol": "SPNT",
-        "companyName": "SiriusPoint",
-        "industry": "保险 - 再保险"
-    },
-    {
         "symbol": "SPOT",
         "companyName": "Spotify Technology",
         "industry": "互联网内容与信息"
-    },
-    {
-        "symbol": "SPR",
-        "companyName": "Spirit Aerosystems",
-        "industry": "航空航天和国防"
-    },
-    {
-        "symbol": "SPSC",
-        "companyName": "SPS Commerce",
-        "industry": "软件 - 基础架构"
-    },
-    {
-        "symbol": "SPWH",
-        "companyName": "Sportsman's Warehouse",
-        "industry": "专业零售"
-    },
-    {
-        "symbol": "SQ",
-        "companyName": "Block",
-        "industry": "软件 - 基础架构"
-    },
-    {
-        "symbol": "SRCL",
-        "companyName": "消毒循环",
-        "industry": "废物管理"
-    },
-    {
-        "symbol": "SRE",
-        "companyName": "桑普拉能源",
-        "industry": "公用事业 - 多元化"
-    },
-    {
-        "symbol": "SRG",
-        "companyName": "Seritage Growth Properties",
-        "industry": "房地产投资信托 - 零售"
-    },
-    {
-        "symbol": "SRI",
-        "companyName": "Stoneridge",
-        "industry": "汽车零件"
     },
     {
         "symbol": "SSNC",
@@ -6210,44 +2795,9 @@
         "industry": "软件 - 应用"
     },
     {
-        "symbol": "ST",
-        "companyName": "Sensata Technologies",
-        "industry": "科技仪器"
-    },
-    {
-        "symbol": "STC",
-        "companyName": "Stewart Information Services",
-        "industry": "保险 - 财产和伤亡"
-    },
-    {
-        "symbol": "STEP",
-        "companyName": "StepStone Group",
-        "industry": "资产管理"
-    },
-    {
-        "symbol": "STHO",
-        "companyName": "Star Holdings",
-        "industry": "房地产服务"
-    },
-    {
-        "symbol": "STKL",
-        "companyName": "SunOpta",
-        "industry": "包装食品"
-    },
-    {
         "symbol": "STLA",
         "companyName": "Stellantis NV",
         "industry": "汽车制造商"
-    },
-    {
-        "symbol": "STNE",
-        "companyName": "StoneCo",
-        "industry": "软件 - 基础架构"
-    },
-    {
-        "symbol": "STR",
-        "companyName": "Sitio Royalties",
-        "industry": "石油和天然气勘探及生产"
     },
     {
         "symbol": "STT",
@@ -6260,34 +2810,14 @@
         "industry": "电脑硬件"
     },
     {
-        "symbol": "STXS",
-        "companyName": "Stereotaxis",
-        "industry": "医疗设备和用品"
-    },
-    {
         "symbol": "STZ",
         "companyName": "星座品牌",
-        "industry": "饮料 - 酿酒厂"
+        "industry": "饮料 - 啤酒"
     },
     {
         "symbol": "SUI",
         "companyName": "Sun Communities",
         "industry": "房地产投资信托 - 住宅"
-    },
-    {
-        "symbol": "SUPN",
-        "companyName": "Supernus Pharmaceuticals",
-        "industry": "药品制造商 - 专业和通用"
-    },
-    {
-        "symbol": "SWAV",
-        "companyName": "ShockWave Medical",
-        "industry": "医疗设备"
-    },
-    {
-        "symbol": "SWBI",
-        "companyName": "Smith & Wesson Brands",
-        "industry": "航空航天和国防"
     },
     {
         "symbol": "SWK",
@@ -6300,26 +2830,6 @@
         "industry": "半导体"
     },
     {
-        "symbol": "SWN",
-        "companyName": "美国西南能源",
-        "industry": "石油和天然气勘探及生产"
-    },
-    {
-        "symbol": "SWTX",
-        "companyName": "SpringWorks Therapeutics",
-        "industry": "生物技术"
-    },
-    {
-        "symbol": "SWX",
-        "companyName": "Southwest Gas Holdings",
-        "industry": "公用事业 - 受监管天然气"
-    },
-    {
-        "symbol": "SWZ",
-        "companyName": "瑞士赫尔维蒂基金",
-        "industry": "资产管理"
-    },
-    {
         "symbol": "SYF",
         "companyName": "Synchrony Financial",
         "industry": "信贷服务"
@@ -6328,11 +2838,6 @@
         "symbol": "SYK",
         "companyName": "史赛克",
         "industry": "医疗设备"
-    },
-    {
-        "symbol": "SYNA",
-        "companyName": "Synaptics",
-        "industry": "半导体"
     },
     {
         "symbol": "SYY",
@@ -6355,34 +2860,14 @@
         "industry": "饮料 - 啤酒"
     },
     {
-        "symbol": "TBPH",
-        "companyName": "Theravance Biopharma",
-        "industry": "生物技术"
-    },
-    {
-        "symbol": "TCBI",
-        "companyName": "Texas Capital Bancshares",
-        "industry": "银行 - 地区性"
+        "symbol": "TCOM",
+        "companyName": "携程网",
+        "industry": "旅游服务"
     },
     {
         "symbol": "TDG",
         "companyName": "TransDigm",
         "industry": "航空航天和国防"
-    },
-    {
-        "symbol": "TDOC",
-        "companyName": "Teladoc Health",
-        "industry": "健康信息服务"
-    },
-    {
-        "symbol": "TDS",
-        "companyName": "电话和数据系统",
-        "industry": "电信服务"
-    },
-    {
-        "symbol": "TDW",
-        "companyName": "潮水公司",
-        "industry": "石油和天然气设备与服务"
     },
     {
         "symbol": "TDY",
@@ -6410,16 +2895,6 @@
         "industry": "电子元器件"
     },
     {
-        "symbol": "TENK",
-        "companyName": "TenX Keane Acquisition",
-        "industry": "空壳公司"
-    },
-    {
-        "symbol": "TEO",
-        "companyName": "阿根廷电信",
-        "industry": "电信服务"
-    },
-    {
         "symbol": "TER",
         "companyName": "泰瑞达",
         "industry": "半导体设备与材料"
@@ -6428,11 +2903,6 @@
         "symbol": "TEVA",
         "companyName": "梯瓦制药",
         "industry": "药品制造商 - 专业和通用"
-    },
-    {
-        "symbol": "TEX",
-        "companyName": "特雷克斯",
-        "industry": "农用及重型工程机械"
     },
     {
         "symbol": "TFC",
@@ -6445,21 +2915,6 @@
         "industry": "公路运输"
     },
     {
-        "symbol": "TGI",
-        "companyName": "Triumph",
-        "industry": "航空航天和国防"
-    },
-    {
-        "symbol": "TGNA",
-        "companyName": "TEGNA",
-        "industry": "广播"
-    },
-    {
-        "symbol": "TGS",
-        "companyName": "阿根廷南部燃气",
-        "industry": "石油和天然气综合"
-    },
-    {
         "symbol": "TGT",
         "companyName": "塔吉特",
         "industry": "折扣店"
@@ -6468,26 +2923,6 @@
         "symbol": "THC",
         "companyName": "泰尼特",
         "industry": "医疗设施"
-    },
-    {
-        "symbol": "THG",
-        "companyName": "汉诺威保险",
-        "industry": "保险 - 财产和伤亡"
-    },
-    {
-        "symbol": "THO",
-        "companyName": "索尔工业",
-        "industry": "休闲车"
-    },
-    {
-        "symbol": "THRM",
-        "companyName": "Gentherm",
-        "industry": "汽车零件"
-    },
-    {
-        "symbol": "THS",
-        "companyName": "树屋食品",
-        "industry": "包装食品"
     },
     {
         "symbol": "TJX",
@@ -6500,54 +2935,9 @@
         "industry": "娱乐"
     },
     {
-        "symbol": "TKR",
-        "companyName": "铁姆肯",
-        "industry": "工具及配件"
-    },
-    {
-        "symbol": "TLIS",
-        "companyName": "Talis Biomedical",
-        "industry": "医疗设备"
-    },
-    {
-        "symbol": "TMDX",
-        "companyName": "TransMedics",
-        "industry": "医疗设备"
-    },
-    {
         "symbol": "TME",
         "companyName": "腾讯音乐",
         "industry": "互联网内容与信息"
-    },
-    {
-        "symbol": "TMO",
-        "companyName": "赛默飞世尔",
-        "industry": "诊断与研究"
-    },
-    {
-        "symbol": "TMTC",
-        "companyName": "TMT Acquisition Corp",
-        "industry": "空壳公司"
-    },
-    {
-        "symbol": "TMUS",
-        "companyName": "T-Mobile US",
-        "industry": "电信服务"
-    },
-    {
-        "symbol": "TNC",
-        "companyName": "坦能",
-        "industry": "特种工业机械"
-    },
-    {
-        "symbol": "TNET",
-        "companyName": "TriNet Group",
-        "industry": "人员配备和就业服务"
-    },
-    {
-        "symbol": "TNL",
-        "companyName": "Travel Plus Leisure",
-        "industry": "旅游服务"
     },
     {
         "symbol": "TOL",
@@ -6558,26 +2948,6 @@
         "symbol": "TOST",
         "companyName": "Toast",
         "industry": "软件 - 基础架构"
-    },
-    {
-        "symbol": "TPC",
-        "companyName": "Tutor Perini",
-        "industry": "工程建设"
-    },
-    {
-        "symbol": "TPH",
-        "companyName": "Tri Pointe Homes",
-        "industry": "住宅施工"
-    },
-    {
-        "symbol": "TPHS",
-        "companyName": "Trinity Place Holdings",
-        "industry": "房地产 - 开发"
-    },
-    {
-        "symbol": "TPIC",
-        "companyName": "TPI Composites",
-        "industry": "特种工业机械"
     },
     {
         "symbol": "TPL",
@@ -6595,11 +2965,6 @@
         "industry": "家具、固定装置和家电"
     },
     {
-        "symbol": "TREX",
-        "companyName": "Trex Co.",
-        "industry": "建筑产品及设备"
-    },
-    {
         "symbol": "TRMB",
         "companyName": "天宝导航公司",
         "industry": "科技仪器"
@@ -6610,39 +2975,14 @@
         "industry": "石油和天然气中游"
     },
     {
-        "symbol": "TRN",
-        "companyName": "Trinity Industries",
-        "industry": "铁路"
-    },
-    {
-        "symbol": "TRNO",
-        "companyName": "Terreno Realty",
-        "industry": "房地产投资信托 - 工业"
-    },
-    {
         "symbol": "TROW",
         "companyName": "普信集团",
         "industry": "资产管理"
     },
     {
-        "symbol": "TROX",
-        "companyName": "Tronox",
-        "industry": "化工品"
-    },
-    {
-        "symbol": "TRP",
-        "companyName": "TC Energy",
-        "industry": "石油和天然气中游"
-    },
-    {
         "symbol": "TRU",
         "companyName": "TransUnion",
-        "industry": "咨询服务"
-    },
-    {
-        "symbol": "TRUP",
-        "companyName": "Trupanion",
-        "industry": "保险 - 专业"
+        "industry": "财务数据与证券交易所"
     },
     {
         "symbol": "TRV",
@@ -6650,29 +2990,9 @@
         "industry": "保险 - 财产和伤亡"
     },
     {
-        "symbol": "TRVI",
-        "companyName": "Trevi Therapeutics",
-        "industry": "生物技术"
-    },
-    {
         "symbol": "TSCO",
         "companyName": "拖拉机供应公司",
         "industry": "专业零售"
-    },
-    {
-        "symbol": "TSEM",
-        "companyName": "Tower半导体",
-        "industry": "半导体"
-    },
-    {
-        "symbol": "TSLA",
-        "companyName": "特斯拉",
-        "industry": "汽车制造商"
-    },
-    {
-        "symbol": "TSM",
-        "companyName": "台积电",
-        "industry": "半导体"
     },
     {
         "symbol": "TSN",
@@ -6680,14 +3000,9 @@
         "industry": "农产品"
     },
     {
-        "symbol": "TTC",
-        "companyName": "托罗配件",
-        "industry": "工具及配件"
-    },
-    {
-        "symbol": "TTD",
-        "companyName": "The Trade Desk",
-        "industry": "软件 - 应用"
+        "symbol": "TT",
+        "companyName": "Trane技术",
+        "industry": "建筑产品及设备"
     },
     {
         "symbol": "TTE",
@@ -6695,9 +3010,9 @@
         "industry": "石油和天然气综合"
     },
     {
-        "symbol": "TTMI",
-        "companyName": "TTM科技",
-        "industry": "电子元器件"
+        "symbol": "TTEK",
+        "companyName": "德照科技",
+        "industry": "工程建设"
     },
     {
         "symbol": "TTWO",
@@ -6712,12 +3027,7 @@
     {
         "symbol": "TWLO",
         "companyName": "Twilio",
-        "industry": "互联网内容与信息"
-    },
-    {
-        "symbol": "TX",
-        "companyName": "特尔尼翁钢铁",
-        "industry": "钢"
+        "industry": "软件 - 基础架构"
     },
     {
         "symbol": "TXN",
@@ -6727,22 +3037,12 @@
     {
         "symbol": "TXRH",
         "companyName": "德州公路酒吧",
-        "industry": "餐厅"
-    },
-    {
-        "symbol": "TXT",
-        "companyName": "德事隆",
-        "industry": "航空航天和国防"
+        "industry": "餐饮"
     },
     {
         "symbol": "TYL",
         "companyName": "泰勒科技",
         "industry": "软件 - 应用"
-    },
-    {
-        "symbol": "UA",
-        "companyName": "安德玛-C",
-        "industry": "服装制造"
     },
     {
         "symbol": "UAL",
@@ -6755,24 +3055,9 @@
         "industry": "软件 - 应用"
     },
     {
-        "symbol": "UBS",
-        "companyName": "瑞银",
-        "industry": "银行 - 多元化"
-    },
-    {
-        "symbol": "UCTT",
-        "companyName": "超科林半导体",
-        "industry": "半导体设备与材料"
-    },
-    {
         "symbol": "UDR",
         "companyName": "UDR不动产信托",
         "industry": "房地产投资信托 - 住宅"
-    },
-    {
-        "symbol": "UGI",
-        "companyName": "UGI公用事业",
-        "industry": "公用事业 - 受监管天然气"
     },
     {
         "symbol": "UHAL",
@@ -6790,44 +3075,14 @@
         "industry": "家用和个人产品"
     },
     {
-        "symbol": "ULCC",
-        "companyName": "Frontier Group",
-        "industry": "航空公司"
-    },
-    {
         "symbol": "ULTA",
         "companyName": "Ulta美容",
         "industry": "专业零售"
     },
     {
-        "symbol": "UMBF",
-        "companyName": "UMB金融",
-        "industry": "银行 - 地区性"
-    },
-    {
-        "symbol": "UMC",
-        "companyName": "联电",
-        "industry": "半导体"
-    },
-    {
-        "symbol": "UNF",
-        "companyName": "第一联合",
-        "industry": "专业商务服务"
-    },
-    {
-        "symbol": "UNFI",
-        "companyName": "联合原生态食品",
-        "industry": "食物分配"
-    },
-    {
-        "symbol": "UNH",
-        "companyName": "联合健康",
-        "industry": "医疗计划"
-    },
-    {
-        "symbol": "UNIT",
-        "companyName": "Uniti Group",
-        "industry": "房地产投资信托 - 专业"
+        "symbol": "UNM",
+        "companyName": "尤纳姆集团",
+        "industry": "保险 - 人寿"
     },
     {
         "symbol": "UNP",
@@ -6835,24 +3090,9 @@
         "industry": "铁路"
     },
     {
-        "symbol": "UPBD",
-        "companyName": "Upbound Group",
-        "industry": "软件 - 应用"
-    },
-    {
         "symbol": "UPS",
         "companyName": "联合包裹",
         "industry": "综合货运与物流"
-    },
-    {
-        "symbol": "UPWK",
-        "companyName": "Upwork",
-        "industry": "人员配备和就业服务"
-    },
-    {
-        "symbol": "URBN",
-        "companyName": "都市服饰",
-        "industry": "服装零售"
     },
     {
         "symbol": "URI",
@@ -6865,34 +3105,9 @@
         "industry": "银行 - 地区性"
     },
     {
-        "symbol": "USCB",
-        "companyName": "美国世纪银行",
-        "industry": "银行 - 地区性"
-    },
-    {
-        "symbol": "USFD",
-        "companyName": "美国食品控股",
-        "industry": "食物分配"
-    },
-    {
-        "symbol": "USM",
-        "companyName": "美国无线电话",
-        "industry": "电信服务"
-    },
-    {
-        "symbol": "UVE",
-        "companyName": "万全保险",
-        "industry": "保险 - 财产和伤亡"
-    },
-    {
-        "symbol": "V",
-        "companyName": "Visa",
-        "industry": "信贷服务"
-    },
-    {
-        "symbol": "VAL",
-        "companyName": "华仕伯",
-        "industry": "石油和天然气设备与服务"
+        "symbol": "UTHR",
+        "companyName": "美国联合医疗",
+        "industry": "生物技术"
     },
     {
         "symbol": "VALE",
@@ -6905,11 +3120,6 @@
         "industry": "健康信息服务"
     },
     {
-        "symbol": "VET",
-        "companyName": "朱砂能源",
-        "industry": "石油和天然气勘探及生产"
-    },
-    {
         "symbol": "VFC",
         "companyName": "威富集团",
         "industry": "服装制造"
@@ -6920,29 +3130,9 @@
         "industry": "房地产投资信托 - 多元化"
     },
     {
-        "symbol": "VIPS",
-        "companyName": "唯品会",
-        "industry": "互联网零售"
-    },
-    {
-        "symbol": "VIST",
-        "companyName": "Vista Energy",
-        "industry": "石油和天然气勘探及生产"
-    },
-    {
-        "symbol": "VKTX",
-        "companyName": "Viking Therapeutics",
-        "industry": "生物技术"
-    },
-    {
         "symbol": "VLO",
         "companyName": "瓦莱罗能源",
         "industry": "石油和天然气精炼与营销"
-    },
-    {
-        "symbol": "VLRS",
-        "companyName": "Volaris航空",
-        "industry": "航空公司"
     },
     {
         "symbol": "VLTO",
@@ -6953,41 +3143,6 @@
         "symbol": "VMC",
         "companyName": "火神材料",
         "industry": "建筑材料"
-    },
-    {
-        "symbol": "VNO",
-        "companyName": "沃那多房信",
-        "industry": "房地产投资信托 - 写字楼"
-    },
-    {
-        "symbol": "VNT",
-        "companyName": "Vontier",
-        "industry": "科技仪器"
-    },
-    {
-        "symbol": "VOXX",
-        "companyName": "奥迪富斯",
-        "industry": "消费电子品"
-    },
-    {
-        "symbol": "VOYA",
-        "companyName": "Voya金融",
-        "industry": "金融集团"
-    },
-    {
-        "symbol": "VRDN",
-        "companyName": "Viridian Therapeutics",
-        "industry": "生物技术"
-    },
-    {
-        "symbol": "VRM",
-        "companyName": "Vroom",
-        "industry": "汽车和卡车经销权"
-    },
-    {
-        "symbol": "VRNA",
-        "companyName": "维罗纳制药",
-        "industry": "生物技术"
     },
     {
         "symbol": "VRSK",
@@ -7010,39 +3165,14 @@
         "industry": "生物技术"
     },
     {
-        "symbol": "VSAT",
-        "companyName": "卫讯公司",
-        "industry": "通讯设备"
-    },
-    {
-        "symbol": "VSCO",
-        "companyName": "维多利亚的秘密",
-        "industry": "服装零售"
-    },
-    {
-        "symbol": "VSEC",
-        "companyName": "VSE技术服务",
-        "industry": "航空航天和国防"
-    },
-    {
-        "symbol": "VSH",
-        "companyName": "威世科技",
-        "industry": "半导体"
-    },
-    {
         "symbol": "VST",
         "companyName": "Vistra Energy",
         "industry": "公用事业 - 独立发电商"
     },
     {
-        "symbol": "VSTM",
-        "companyName": "Verastem",
-        "industry": "生物技术"
-    },
-    {
-        "symbol": "VTLE",
-        "companyName": "Vital Energy",
-        "industry": "石油和天然气勘探及生产"
+        "symbol": "VTMX",
+        "companyName": "Vesta Real Estate",
+        "industry": "房地产 - 多元化"
     },
     {
         "symbol": "VTR",
@@ -7055,29 +3185,9 @@
         "industry": "药品制造商 - 专业和通用"
     },
     {
-        "symbol": "VVV",
-        "companyName": "胜牌",
-        "industry": "石油和天然气精炼与营销"
-    },
-    {
-        "symbol": "VYX",
-        "companyName": "NCR Voyix",
-        "industry": "信息技术服务"
-    },
-    {
         "symbol": "VZ",
         "companyName": "Verizon",
         "industry": "电信服务"
-    },
-    {
-        "symbol": "VZIO",
-        "companyName": "VIZIO",
-        "industry": "消费电子品"
-    },
-    {
-        "symbol": "W",
-        "companyName": "Wayfair",
-        "industry": "互联网零售"
     },
     {
         "symbol": "WAB",
@@ -7085,29 +3195,9 @@
         "industry": "铁路"
     },
     {
-        "symbol": "WAFD",
-        "companyName": "WaFd",
-        "industry": "银行 - 地区性"
-    },
-    {
-        "symbol": "WAL",
-        "companyName": "阿莱恩斯西部银行",
-        "industry": "银行 - 地区性"
-    },
-    {
-        "symbol": "WASH",
-        "companyName": "华盛顿信托银行",
-        "industry": "银行 - 地区性"
-    },
-    {
         "symbol": "WAT",
         "companyName": "沃特世",
         "industry": "诊断与研究"
-    },
-    {
-        "symbol": "WBA",
-        "companyName": "沃尔格林-联合博姿",
-        "industry": "医药零售商"
     },
     {
         "symbol": "WBD",
@@ -7118,11 +3208,6 @@
         "symbol": "WBS",
         "companyName": "韦伯斯特金融",
         "industry": "银行 - 地区性"
-    },
-    {
-        "symbol": "WCC",
-        "companyName": "西科国际",
-        "industry": "产业分布"
     },
     {
         "symbol": "WCN",
@@ -7140,9 +3225,9 @@
         "industry": "电脑硬件"
     },
     {
-        "symbol": "WDFC",
-        "companyName": "WD-40",
-        "industry": "特种化学品"
+        "symbol": "WEC",
+        "companyName": "威州能源",
+        "industry": "公用事业 - 受监管电力"
     },
     {
         "symbol": "WELL",
@@ -7150,54 +3235,9 @@
         "industry": "房地产投资信托 - 医疗保健设施"
     },
     {
-        "symbol": "WEN",
-        "companyName": "温蒂汉堡",
-        "industry": "餐厅"
-    },
-    {
-        "symbol": "WFC",
-        "companyName": "富国银行",
-        "industry": "银行 - 多元化"
-    },
-    {
-        "symbol": "WFG",
-        "companyName": "西弗雷泽木业",
-        "industry": "木料和木材生产"
-    },
-    {
-        "symbol": "WFRD",
-        "companyName": "Weatherford国际",
-        "industry": "石油和天然气设备与服务"
-    },
-    {
-        "symbol": "WGO",
-        "companyName": "温尼巴格实业",
-        "industry": "休闲车"
-    },
-    {
-        "symbol": "WHR",
-        "companyName": "惠而浦",
-        "industry": "家具、固定装置和家电"
-    },
-    {
-        "symbol": "WING",
-        "companyName": "Wingstop",
-        "industry": "餐厅"
-    },
-    {
-        "symbol": "WIRE",
-        "companyName": "Encore缆线",
-        "industry": "电气设备及零件"
-    },
-    {
         "symbol": "WIX",
         "companyName": "Wix.com",
         "industry": "软件 - 基础架构"
-    },
-    {
-        "symbol": "WK",
-        "companyName": "Workiva",
-        "industry": "软件 - 应用"
     },
     {
         "symbol": "WM",
@@ -7215,16 +3255,6 @@
         "industry": "娱乐"
     },
     {
-        "symbol": "WMT",
-        "companyName": "沃尔玛",
-        "industry": "折扣店"
-    },
-    {
-        "symbol": "WNC",
-        "companyName": "Wabash国立",
-        "industry": "农用及重型工程机械"
-    },
-    {
         "symbol": "WPM",
         "companyName": "Wheaton Precious Metals",
         "industry": "黄金"
@@ -7235,44 +3265,14 @@
         "industry": "保险 - 财产和伤亡"
     },
     {
-        "symbol": "WRBY",
-        "companyName": "Warby Parker",
-        "industry": "医疗设备和用品"
-    },
-    {
-        "symbol": "WRK",
-        "companyName": "WestRock",
-        "industry": "包装与容器"
-    },
-    {
-        "symbol": "WRLD",
-        "companyName": "环球验收",
-        "industry": "信贷服务"
-    },
-    {
-        "symbol": "WSC",
-        "companyName": "WillScot",
-        "industry": "租赁服务"
-    },
-    {
-        "symbol": "WSFS",
-        "companyName": "WSFS金融",
-        "industry": "银行 - 地区性"
-    },
-    {
-        "symbol": "WSM",
-        "companyName": "Williams-Sonoma",
-        "industry": "专业零售"
-    },
-    {
         "symbol": "WSO",
         "companyName": "华斯科",
         "industry": "产业分布"
     },
     {
-        "symbol": "WSR",
-        "companyName": "Whitestone REIT",
-        "industry": "房地产投资信托 - 零售"
+        "symbol": "WST",
+        "companyName": "West Pharmaceutical Services",
+        "industry": "医疗设备和用品"
     },
     {
         "symbol": "WTW",
@@ -7280,19 +3280,9 @@
         "industry": "保险经纪人"
     },
     {
-        "symbol": "WU",
-        "companyName": "西联汇款",
-        "industry": "信贷服务"
-    },
-    {
-        "symbol": "WVE",
-        "companyName": "Wave Life Sciences",
-        "industry": "生物技术"
-    },
-    {
-        "symbol": "WWW",
-        "companyName": "沃尔弗林集团",
-        "industry": "鞋类及配件"
+        "symbol": "WWD",
+        "companyName": "伍德沃德",
+        "industry": "航空航天和国防"
     },
     {
         "symbol": "WY",
@@ -7300,69 +3290,19 @@
         "industry": "房地产投资信托 - 专业"
     },
     {
-        "symbol": "WYNN",
-        "companyName": "永利度假村",
-        "industry": "渡假村和赌场"
-    },
-    {
-        "symbol": "X",
-        "companyName": "美国钢铁",
-        "industry": "钢"
-    },
-    {
-        "symbol": "XEL",
-        "companyName": "埃克西尔能源",
-        "industry": "公用事业 - 受监管电力"
-    },
-    {
-        "symbol": "XERS",
-        "companyName": "Xeris制药",
-        "industry": "生物技术"
-    },
-    {
-        "symbol": "XMTR",
-        "companyName": "Xometry",
-        "industry": "特种工业机械"
-    },
-    {
-        "symbol": "XOM",
-        "companyName": "埃克森美孚",
+        "symbol": "YPF",
+        "companyName": "阿根廷YPF",
         "industry": "石油和天然气综合"
     },
     {
-        "symbol": "XPEL",
-        "companyName": "XPEL Inc",
-        "industry": "汽车零件"
-    },
-    {
-        "symbol": "XRAY",
-        "companyName": "登士柏",
-        "industry": "医疗设备和用品"
-    },
-    {
-        "symbol": "YETI",
-        "companyName": "YETI Holdings",
-        "industry": "休闲"
-    },
-    {
-        "symbol": "YOU",
-        "companyName": "Clear Secure",
-        "industry": "软件 - 应用"
-    },
-    {
         "symbol": "YUM",
-        "companyName": "百胜餐饮",
-        "industry": "餐厅"
+        "companyName": "Yum! Brands",
+        "industry": "餐饮"
     },
     {
         "symbol": "YUMC",
         "companyName": "百胜中国",
-        "industry": "餐厅"
-    },
-    {
-        "symbol": "YY",
-        "companyName": "欢聚",
-        "industry": "互联网内容与信息"
+        "industry": "餐饮"
     },
     {
         "symbol": "Z",
@@ -7380,43 +3320,18 @@
         "industry": "通讯设备"
     },
     {
-        "symbol": "ZDGE",
-        "companyName": "Zedge",
+        "symbol": "ZG",
+        "companyName": "Zillow-A",
         "industry": "互联网内容与信息"
     },
     {
-        "symbol": "ZI",
-        "companyName": "ZoomInfo",
-        "industry": "软件 - 应用"
-    },
-    {
-        "symbol": "ZIMV",
-        "companyName": "ZimVie",
-        "industry": "医疗设备"
-    },
-    {
-        "symbol": "ZLAB",
-        "companyName": "再鼎医药",
-        "industry": "生物技术"
-    },
-    {
-        "symbol": "ZM",
-        "companyName": "Zoom视频通讯",
-        "industry": "软件 - 应用"
+        "symbol": "ZS",
+        "companyName": "Zscaler",
+        "industry": "软件 - 基础架构"
     },
     {
         "symbol": "ZTS",
         "companyName": "Zoetis",
         "industry": "药品制造商 - 专业和通用"
-    },
-    {
-        "symbol": "ZUMZ",
-        "companyName": "Zumiez",
-        "industry": "服装零售"
-    },
-    {
-        "symbol": "ZUO",
-        "companyName": "祖睿",
-        "industry": "软件 - 基础架构"
     }
 ]
