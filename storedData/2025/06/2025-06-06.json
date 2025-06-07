@@ -46,9 +46,9 @@
       "noOfEsts": "4"
     },
     {
-      "eps": "$0.87",
-      "surprise": "N/A",
-      "time": "time-pre-market",
+      "eps": "$0.86",
+      "surprise": "-1.15",
+      "time": "time-not-supplied",
       "symbol": "ABM",
       "name": "ABM Industries Incorporated",
       "marketCap": "$3,189,983,461",
@@ -57,9 +57,9 @@
       "noOfEsts": "4"
     },
     {
-      "eps": "($0.31)",
-      "surprise": "N/A",
-      "time": "time-pre-market",
+      "eps": "($0.04)",
+      "surprise": "87.88",
+      "time": "time-not-supplied",
       "symbol": "MANU",
       "name": "Manchester United Ltd.",
       "marketCap": "$2,338,278,376",
@@ -68,9 +68,9 @@
       "noOfEsts": "2"
     },
     {
-      "eps": "$0.12",
-      "surprise": "N/A",
-      "time": "time-pre-market",
+      "eps": "$0.19",
+      "surprise": "58.33",
+      "time": "time-not-supplied",
       "symbol": "GIII",
       "name": "G-III Apparel Group, LTD.",
       "marketCap": "$1,214,248,338",
@@ -79,9 +79,9 @@
       "noOfEsts": "1"
     },
     {
-      "eps": "$0.03",
-      "surprise": "N/A",
-      "time": "time-pre-market",
+      "eps": "$0.08",
+      "surprise": "-52.94",
+      "time": "time-not-supplied",
       "symbol": "QSG",
       "name": "QuantaSing Group Limited",
       "marketCap": "$285,721,687",
@@ -134,8 +134,19 @@
       "noOfEsts": "4"
     },
     {
-      "eps": "$0.13",
+      "eps": "($0.24)",
       "surprise": "N/A",
+      "time": "time-not-supplied",
+      "symbol": "AVD",
+      "name": "American Vanguard Corporation",
+      "marketCap": "$137,376,774",
+      "fiscalQuarterEnding": "Mar/2025",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
+    },
+    {
+      "eps": "($0.01)",
+      "surprise": "92.31",
       "time": "time-not-supplied",
       "symbol": "VIRC",
       "name": "Virco Manufacturing Corporation",
@@ -145,15 +156,26 @@
       "noOfEsts": "1"
     },
     {
-      "eps": "($2.10)",
-      "surprise": "N/A",
-      "time": "time-pre-market",
+      "eps": "($1.79)",
+      "surprise": "-18.54",
+      "time": "time-not-supplied",
       "symbol": "FCEL",
       "name": "FuelCell Energy, Inc.",
       "marketCap": "$109,947,614",
       "fiscalQuarterEnding": "Apr/2025",
       "epsForecast": "($1.51)",
       "noOfEsts": "4"
+    },
+    {
+      "eps": "($0.62)",
+      "surprise": "N/A",
+      "time": "time-not-supplied",
+      "symbol": "HURC",
+      "name": "Hurco Companies, Inc.",
+      "marketCap": "$92,202,338",
+      "fiscalQuarterEnding": "Apr/2025",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
     },
     {
       "eps": "($0.10)",
@@ -189,6 +211,17 @@
       "noOfEsts": "4"
     },
     {
+      "eps": "($0.17)",
+      "surprise": "N/A",
+      "time": "time-not-supplied",
+      "symbol": "BNR",
+      "name": "Burning Rock Biotech Limited",
+      "marketCap": "$31,653,792",
+      "fiscalQuarterEnding": "Mar/2025",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
+    },
+    {
       "eps": "($0.01)",
       "surprise": "N/A",
       "time": "time-not-supplied",
@@ -198,6 +231,17 @@
       "fiscalQuarterEnding": "Mar/2025",
       "epsForecast": "",
       "noOfEsts": "4"
+    },
+    {
+      "eps": "($0.12)",
+      "surprise": "N/A",
+      "time": "time-not-supplied",
+      "symbol": "HUIZ",
+      "name": "Huize Holding Limited",
+      "marketCap": "$19,067,409",
+      "fiscalQuarterEnding": "Mar/2025",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
     },
     {
       "eps": "N/A",
